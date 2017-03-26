@@ -34,7 +34,7 @@ Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu habe
 | Personal   | Ansprache von neuen Mitarbeitern & Hilfe für bestehende Mitarbeitende                                                                         |
 |            | Beispiel: 25% der Stellenanzeigen im nächsten Jahr, werden durch Anfragen   über die Website besetzt.                                         |
 
-*Wichtig*: Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Defintion des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
+**Wichtig**: Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Defintion des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
 
 ## Zielgruppendefinition: Personas
 
