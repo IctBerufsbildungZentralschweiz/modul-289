@@ -7,7 +7,7 @@ Je nach Auftrag werden nun die möglichen Lösungsvarianten und das Vorgehen aus
 * Wer bearbeitet welche Teilaufgabe? 
 * Welche Hilfsmittel und Tools werden gebraucht?
 
-## Planung des Wireframes
+## Wireframes
 Wireframe bedeutet so viel wie Drahtgerüst und ist eine schnelle und grobe Wiedergabe eines Designs. 
 
 ![Wireframe](res/wireframe.jpg)
@@ -87,6 +87,8 @@ Weil man Stock-Bildern ansieht, dass sie kaum Relevanz im speziellen Kontext bes
 
 ### 4. Navigation
 Wahrscheinlich einer der wichtigsten Faktoren, die über das Verbleiben des Besuchers auf einer Website entscheiden, ist ein klares, übersichtliches und intuitives Navigationssystem. In den meisten Fällen möchte ein Besucher möglichst schnell zu den Informationen, welche er benötigt. Mit diesem Ansatz sollte auch die Navigation realisiert werden. Denn wenn der Besucher nicht findet, was er sucht, wird er die Seite schnell wieder verlassen.
+
+![Eyetracker](res/eyetracker.jpg)
 
 Die wichtigsten Fragen eines Besuchers sind somit: 
 

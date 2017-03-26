@@ -69,12 +69,12 @@ Nach der Planung muss eine Lösungsvariante ausgewählt werden. Entscheide solle
 * Arbeitsablauf/Arbeitsjournal mit Auftraggeber besprechen 
 
 ## 4. Schritt: Realisation
-Das Realisieren oder Ausführen nimmt oft den zeitlichen Hauptteil eines Auftrags in Anspruch. Führen Sie die einzelnen Arbeitsschritte wie geplant aus. Der erstellte Arbeitsablauf ist einzuhalten und soll nicht ohne zwingende Gründe geändert werden. Das Erstellen von Skizzen und Fotos für die Lerndokumentation soll dabei nicht vergessen werden. 
+Das Realisieren oder Ausführen nimmt oft den zeitlichen Hauptteil eines Auftrags in Anspruch. Die Arbeitsschritte sollten wie geplant ausgeführt werden.
 
 #### Leitfragen 
-* Welche Vorschriften zur Arbeitssicherheit sind einzuhalten? 
+* Welche Vorschriften sind einzuhalten? 
 * Welche Konsequenzen haben sich aus allfälligen Abweichungen von der Planung ergeben? 
-* Kontrollieren Sie die ausgeführten Arbeitsschritte bzw. arbeiten Sie nach dem Arbeitsablauf? 
+* Wird der Arbeitsablauf eingehalten?
 * Braucht es zusätzliche Hilfsmittel? 
  
 #### Beispiele 
