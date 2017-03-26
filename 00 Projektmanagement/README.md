@@ -82,7 +82,7 @@ Das Realisieren oder Ausführen nimmt oft den zeitlichen Hauptteil eines Auftrag
 * effektive Stunden im Arbeitsjournal festhalten  
 
 ## 5. Schritt: Kontrolle
-Jede ausgeführte Arbeit ist zu kontrollieren, bevor sie aus den Händen gegeben wird. Kontrollieren heisst z. B., nochmals den Ausführungsbeschrieb durchlesen, nachrechnen, mit Vorgaben vergleichen, messen.  Überprüfen Sie, ob das Ergebnis Ihrer Arbeit den in der Planungsphase aufgestellten Vorgaben entspricht  und halten Sie das Resultat schriftlich fest. 
+Jede ausgeführte Arbeit ist zu kontrollieren, bevor sie aus den Händen gegeben wird. Kontrollieren heisst z. B., nochmals den Ausführungsbeschrieb durchlesen, mit Vorgaben vergleichen.  Überprüfen ob das Ergebnis der Arbeit den in der Planungsphase aufgestellten Vorgaben entspricht. 
 
 #### Leitfragen 
 * Erweisen sich die in der Planung festgelegten Prüfkriterien als richtig und vollständig? 
@@ -96,12 +96,7 @@ Jede ausgeführte Arbeit ist zu kontrollieren, bevor sie aus den Händen gegeben
 * Wurden die geforderlichen Richtlinien eingehalten? 
 
 ## 6. Schritt: Auswertung
-Lassen Sie nun die ganze Bearbeitung des Auftrags, vom Informieren bis zum Kontrollieren, nochmals in 
-Gedanken ablaufen und beurteilen Sie Ihre einzelnen Schritte. Es geht nicht darum, dass Sie sich eine Note 
-geben, sondern darum, dass Sie sich selbst einschätzen und gemeinsam mit der Berufsbildnerin oder dem 
-Berufsbildner besprechen, welche Tätigkeiten Sie bereits fachgerecht ausgeführt haben und was Sie noch 
-verbessern müssen. Uberlegen Sie sich darüber hinaus, was Sie durch das Ausführen der Aufgabe gelernt 
-haben, was Sie verbessern können, wo Sie das Gelernte in Zukunft anwenden können. 
+Reflexion der Bearbeitung des Auftrags, von der Information bis zu Kontrolle und Beurteilung der einzelnen Schritt. Es geht nicht darum, sich eine Note zu geben, sondern darum, sich selbst und die Gruppe einzuschätzen, und Aufgaben zu finden welche bereits sehr gut gleuafen sind und andere mit Verbesserungspotential. Wichtig ist auch immer, sich vor Augen zu führen, was für einen Lernfortschritt durch den Auftrag enstanden ist. So wird man sich dem Wissen bewusst, was man in Zukunft anwenden kann.
 
 #### Leitfragen 
 * Was machte ich gern und warum? 

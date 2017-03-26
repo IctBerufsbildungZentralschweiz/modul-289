@@ -13,11 +13,11 @@ Um trotz mehrstufiger Navigation den Überblick auf der Website nicht zu verlier
 Websites werden heutzutage zu einem Grossteil mit mobilen Endgeräten besucht. Aus diesem Grund muss die Website auch auf mobilen Geräten optimal angezeigt werden.
 ### Formular
 Um die nötige Interaktion mit der Zielgruppe zu gewährleisten soll mindestens ein Fomular auf der Website implementiert werden.
-### Update-Garantie
-Das CMS und das Theme sollen längerfristig im Einsatz bleiben. Aus diesem Grund muss die Update-Fähigkeit von beidem zu jeder Zeit gewahrt werden.
 ### TBD: Breadcrumbs
 ### TBD: Zielgruppenorientiertes Design
 ### TBD: Usermanagement
+### TBD: Backup
+### TBD: Sicherheitsmassnahmen
 
 ## Kann-Anforderungen
 Sofern eine sinnvolle Begründung vorliegt, kann auf diese Anforderungen verzichtet werden.
