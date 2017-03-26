@@ -1,5 +1,5 @@
 # Projektauftrag
-Ziel der fünf Tage ist die Planung, Erarbeitung und Realisation einer dynamischen Website. Die Inhalte der Seite sollen dabei mit Hilfe eines CMS verwaltet werden. Ziel ist jedoch nicht nur die korrekte Realisation des Projektes, sondern auch eine sinnvolle Organisation und eine angemessene Kommunikation.
+In den kommenden fünf Kurstage sind wir als Kursgruppe eine kleine Webagentur. Die Agentur besteht aus verschiedenen Arbeitsgruppen aus jeweils drei Personen. Ziel der Gruppe ist es in den nächsten fünf Tage eine dynamische Website zu planen, erarbeiten und realisieren. Die Inhalte der Seite sollen dabei mit Hilfe eines CMS verwaltet werden. Ziel ist jedoch nicht nur die korrekte Realisation des Projektes, sondern auch eine sinnvolle Organisation und eine angemessene Kommunikation.
 
 ## Grobziele des Projektes
 - Angemessenes und zielorientiertes Projektmanagement nach IPERKA
@@ -15,20 +15,6 @@ Ziel der fünf Tage ist die Planung, Erarbeitung und Realisation einer dynamisch
 3. Lernkontrollen (10%)
 4. Selbst-Sozialkompetenz (20%)
 
-## 1. Projektantrag 
-Innerhalb der Projektarbeit wird ein kompletter Internetauftritt geplant, realisiert und kontrolliert. Die Gruppen können sich dabei zwischen fünf Aufträgen entscheiden:
-
-1. Bioistro [TBD]
-1. Bowl-Trophy [TBD]
-1. Minimal-Villa [TBD]
-1. Formatre [TBD]
-1. Velogadget [TBD]
-
-Um den gewünschten Auftrag zu übernehmen, müssen die folgenden Informationen beim vorgesehenen Dokument (durch den Kursleiter bereitgestellt) eingetragen werden.
-
-* Gewähltes Thema
-* Team-Leader
-* Team-Mitglieder
 
 ## 1. Projektbriefing
 Beim ersten Projektbriefing handelt es sich um eine interne Information innerhalb eurer imaginären Agentur. Ihr informiert dabei eure Arbeitskollegen und eure Chefs über das laufende Projekt mit einer kleinen Präsentation von 5-10 Minuten. Das Briefing findet um 15.45 Uhr  (Zeit kann druch Kursleiter angepasst werden) des ersten Kurstages statt. Die folgenden Informationen müssen bis dahin ebenfalls schriftlich abgegeben werden:
@@ -41,7 +27,7 @@ Beim ersten Projektbriefing handelt es sich um eine interne Information innerhal
 ### Thema
 * Kurze Zusammenfassung des Themas
 * Ziel des Internetauftritts
-* Hauptzielgruppe des Internetauftritts
+* Hauptzielgruppe des Internetauftritts (Personas)
 
 Personas
 * Zielgruppe für den Internetauftritt

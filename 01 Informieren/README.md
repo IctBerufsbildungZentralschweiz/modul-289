@@ -34,6 +34,8 @@ Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu habe
 | Personal   | Ansprache von neuen Mitarbeitern & Hilfe für bestehende Mitarbeitende                                                                         |
 |            | Beispiel: 25% der Stellenanzeigen im nächsten Jahr, werden durch Anfragen   über die Website besetzt.                                         |
 
+*Wichtig*: Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Defintion des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
+
 ## Zielgruppendefinition: Personas
 
 Personas (lat. Maske) sind Nutzermodelle, die Personen einer Zielgruppe in ihren Merkmalen charakterisieren. Sie sollen einem Entwicklerteam aufgrund ihrer umfangreichen Beschreibung helfen, sich in die Lage der potenziellen Nutzer zu versetzen und diese Perspektive während des gesamten Designprozesses leicht zu vertreten. Sie werden mit einem Namen, einem Gesicht, einer Funktion, einem Werdegang und einem Privatleben versehen. Personas verfügen über Ziele und Verhaltensweisen, haben Vorlieben und Erwartungen.

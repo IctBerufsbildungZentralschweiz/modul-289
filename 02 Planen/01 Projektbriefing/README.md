@@ -1,0 +1,28 @@
+# 2.2 Projektbriefing
+Neben weiteren strategischen Aspekten sollen am Briefing um 15.45 Uhr (Zeit kann durch Kursleiter angepasst werden) ebenfalls noch die ersten konzeptionellen Punkte des Projektes präsentiert werden. Aus diesem Grund sollten die erstellten Wireframes und die definierten Styleguides ins Briefing am Abend einfliessen. Zusätzlich sollte in diesem Zeitpunkt bereits klar sein, wie die Seite aufgebaut ist und wo welche Inhalte platziert werden.
+
+Zusammenfassend solltet ihr also folgende Informationen präsentieren:
+
+### Projektteam
+* Mitglieder des Teams
+* Rollen und Verwortungsbereiche der einzelnen Personen
+* Stärken und Schwächen des Teams
+
+### Thema
+* Kurze Zusammenfassung des Themas
+* Ziel des Internetauftritts (SMART)
+* Gepante Überprüfung der Ziele
+* Hauptzielgruppe des Internetauftritts (Personas)
+
+### Planung - NEU
+* Zeitplan für die Realisation
+* Geplante Hauptfunktionen
+* Geplante Zusatzfunktionen
+
+### Konzept & Design - NEU
+* Wireframes
+* Styleguides [(Link zur Vorlage)](http://styletil.es/downloads/Style_Tile_Template.psd.zip)
+
+### Inhalte - NEU
+* Sitemap
+* Inhaltsstruktur
