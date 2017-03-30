@@ -7,7 +7,7 @@ Beim ersten Projektbriefing handelt es sich um eine interne Information innerhal
 * Stärken und Schwächen des Teams
 
 ### Thema
-* Kurze Zusammenfassung des Themas
+* Kurze Zusammenfassung des Themas (maximal 500 Zeichen)
 * Ziel des Internetauftritts (SMART)
 * Gepante Überprüfung der Ziele
 * Hauptzielgruppe des Internetauftritts (Personas)

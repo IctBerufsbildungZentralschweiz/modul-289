@@ -10,7 +10,7 @@ Der Kunde möchte wissen, wie ihr mit dem Projekt voran kommt. Darum wird es Zei
 ### Visual Design
 * Wireframes - Gibt es Änderungen? (Begründung)
 * Styleguide - Gibt es Änderungen? (Begründung)
-* Mockups - Gibt es Änderungen? (Begründung)
+* Mockups
 
 ### Inhalte
 * Sitemap - Gibt es Änderungen? (Begründung)

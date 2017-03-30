@@ -5,3 +5,5 @@ Folgende Bedingungen sind dabei einzuhalten:
 * Jedes Projektmitglied hat einen eigenen Benutzer
 * Jeder Benutzer soll nur die Rechte haben, welche wirklich benötigt werden
 * Für den Auftraggeber selber soll ebenfalls ein Benutzer erstellt werden, dieser darf jedoch nur Inhalte anpassen. Einstellungen am System soll dem Administrator vorbehalten bleiben.
+
+**WICHTIG:** Für den Kursleiter soll ein Benutzer mit dem Benutzername `admin` und dem Benutzername `admin` vorbereitet werden.
