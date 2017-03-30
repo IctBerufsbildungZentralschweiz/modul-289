@@ -1,9 +1,6 @@
 # Die Sechs-Schritte-Methode IPERKA
 
-Mit der Sechs-Schritte-Methode - IPERKA - können Aufträge (Projekte) systematisch bearbeitet werden. 
-Die Aufträge, die Sie in Ihrem Betrieb übernehmen, umfassen mehrere Arbeitsschritte: Nicht nur 
-die Ausführung eines Auftrags, sondern auch das Sammeln von Informationen, Planung und Kontrolle 
-gehören dazu. 
+Mit der Sechs-Schritte-Methode - IPERKA - können Aufträge (Projekte) systematisch bearbeitet werden. Die Methode wird der Tatsache gerecht, dass ein Auftrag aus mehreren Arbeitsschritten besteht und nicht nur aus der Ausführung des Projektes. So gehören auch das Sammeln von Informationen, Planung und Kontrolle zu einem Projekt dazu. 
 
 ### Anwendungsbeispiel
 
@@ -18,9 +15,7 @@ Ein alltägliches Beispiel für die Anwendung der Sechs-Schritte-Methode ist der
 | Kontrollieren  | Wurde alles geliefert? Funktioniert das Smartphone?                                                                                                       |
 | Auswerten      | Hält das Smartphone, was es verspricht? Wurden meine Erwartungen erfüllt? Was würde ich das nächste Mal anders machen?     
 
-Die Bezeichnung «Sechs-Schritte-Methode» erweckt den Eindruck, dass es sich um genau abgegrenzte 
-Handlungsschritte handelt, welche nacheinander zu befolgen sind. Die einzelnen Schritte lassen sich aber 
-nicht immer scharf abgrenzen und können sich auch zeitlich überlappen. 
+Die Bezeichnung «Sechs-Schritte-Methode» erweckt den Eindruck, dass es sich um genau abgegrenzte Handlungsschritte handelt, welche nacheinander zu befolgen sind. Die einzelnen Schritte lassen sich aber nicht immer scharf abgrenzen und können sich auch zeitlich überlappen. 
 
 ## 1. Schritt: Informieren
 
@@ -55,7 +50,7 @@ Je nach Auftrag werden nun die möglichen Lösungsvarianten und das Vorgehen aus
 * Arbeitsablauf planen
 
 ## 3. Schritt: Entscheiden
-Nach der Planung muss eine Lösungsvariante ausgewählt werden. Entscheide sollen nicht hinausgezögert werden, da dies oft sehr viel Zeit und Geld kostet. Manchmal entstehen sogar Sachzwänge, welche die Entscheidungsmöglichkeiten einschränken. Entscheide im Team sollen, wenn immer möglich, mit der Zustimmung aller erfolgen. Arbeitsablauf bzw. Arbeitsjournal werden am Arbeitsplatz sichtbar aufgehängt. 
+Nach der Planung muss eine Lösungsvariante ausgewählt werden. Entscheide sollen nicht hinausgezögert werden, da dies oft sehr viel Zeit und Geld kostet. Manchmal entstehen sogar Sachzwänge, welche die Entscheidungsmöglichkeiten einschränken. Entscheide im Team sollen, wenn immer möglich, mit der Zustimmung aller erfolgen. 
 
 #### Leitfragen 
 * Welche Lösungsvariante wird gewählt? 
@@ -65,8 +60,8 @@ Nach der Planung muss eine Lösungsvariante ausgewählt werden. Entscheide solle
 * Wem müssen Entscheidungsgrundlagen vorgelegt werden? 
 
 #### Beispiele 
-* Arbeitsablauf/Arbeitsjournal definitiv festlegen 
-* Arbeitsablauf/Arbeitsjournal mit Auftraggeber besprechen 
+* Arbeitsablauf definitiv festlegen 
+* Arbeitsablauf mit Auftraggeber besprechen 
 
 ## 4. Schritt: Realisation
 Das Realisieren oder Ausführen nimmt oft den zeitlichen Hauptteil eines Auftrags in Anspruch. Die Arbeitsschritte sollten wie geplant ausgeführt werden.
@@ -82,7 +77,7 @@ Das Realisieren oder Ausführen nimmt oft den zeitlichen Hauptteil eines Auftrag
 * effektive Stunden im Arbeitsjournal festhalten  
 
 ## 5. Schritt: Kontrolle
-Jede ausgeführte Arbeit ist zu kontrollieren, bevor sie aus den Händen gegeben wird. Kontrollieren heisst z. B., nochmals den Ausführungsbeschrieb durchlesen, mit Vorgaben vergleichen.  Überprüfen ob das Ergebnis der Arbeit den in der Planungsphase aufgestellten Vorgaben entspricht. 
+Jede ausgeführte Arbeit ist zu kontrollieren, bevor sie aus den Händen gegeben wird. Kontrollieren heisst zum Beispiel, nochmals den Ausführungsbeschrieb durchlesen, mit Vorgaben vergleichen.  Überprüfen ob das Ergebnis der Arbeit den in der Planungsphase aufgestellten Vorgaben entspricht. 
 
 #### Leitfragen 
 * Erweisen sich die in der Planung festgelegten Prüfkriterien als richtig und vollständig? 
@@ -96,7 +91,7 @@ Jede ausgeführte Arbeit ist zu kontrollieren, bevor sie aus den Händen gegeben
 * Wurden die geforderlichen Richtlinien eingehalten? 
 
 ## 6. Schritt: Auswertung
-Reflexion der Bearbeitung des Auftrags, von der Information bis zu Kontrolle und Beurteilung der einzelnen Schritt. Es geht nicht darum, sich eine Note zu geben, sondern darum, sich selbst und die Gruppe einzuschätzen, und Aufgaben zu finden welche bereits sehr gut gleuafen sind und andere mit Verbesserungspotential. Wichtig ist auch immer, sich vor Augen zu führen, was für einen Lernfortschritt durch den Auftrag enstanden ist. So wird man sich dem Wissen bewusst, was man in Zukunft anwenden kann.
+Reflexion der Bearbeitung des Auftrags, von der Information bis zu Kontrolle und Beurteilung der einzelnen Schritt. Es geht nicht darum, sich eine Note zu geben, sondern darum, sich selbst und die Gruppe einzuschätzen, und Aufgaben zu finden welche bereits sehr gut gelaufen sind und andere mit Verbesserungspotential. Wichtig ist auch immer, sich vor Augen zu führen, was für einen Lernfortschritt durch den Auftrag entstanden ist. So wird man sich dem Wissen bewusst, was man in Zukunft anwenden kann.
 
 #### Leitfragen 
 * Was machte ich gern und warum? 
@@ -112,10 +107,9 @@ Reflexion der Bearbeitung des Auftrags, von der Information bis zu Kontrolle und
 * Was habe ich gelernt? 
 
 #### Beispiele 
-* Lerndokumentation erstellen (als Fazit die Antwort auf eine der obigen Fragen für den Merksatz verwenden) 
-* auftragsbezogenes Fachgespräch mit der Berufsbildnerin oder dem Berufsbildner führen 
-* Formular «Beurteilung Lernende» ausfüllen 
-* Auswertungsgespräch mit der Berufsbildnerin oder dem Berufsbildner führen 
+* Dokumentation erstellen
+* Beurteilungs-Formular ausfüllen
+* Auswertungsgespräch führen
 
 ## Weitere Modelle
 * V Modell
