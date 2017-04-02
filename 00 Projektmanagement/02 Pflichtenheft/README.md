@@ -13,11 +13,15 @@ Um trotz mehrstufiger Navigation den Überblick auf der Website nicht zu verlier
 Websites werden heutzutage zu einem Grossteil mit mobilen Endgeräten besucht. Aus diesem Grund muss die Website auch auf mobilen Geräten optimal angezeigt werden.
 ### Formular
 Um die nötige Interaktion mit der Zielgruppe zu gewährleisten soll mindestens ein Fomular auf der Website implementiert werden.
-### TBD: Breadcrumbs
-### TBD: Zielgruppenorientiertes Design
-### TBD: Usermanagement
-### TBD: Backup
-### TBD: Sicherheitsmassnahmen
+
+### Zielgruppenorientiertes Design
+Das Design soll nicht nur ästhetischen Ansprüchen gerecht werden, sondern individuell auf die Zielgruppe ausgerichtet sein.
+
+### Usermanagement
+Das Benutzermanagemnt soll sinnvoll eingerichtet sein. So sollen Benutzergruppen nur immer die Rechte erhalten, welche sie auch tatsächlich benötigen.
+
+### Sicherheitsmassnahmen
+Um böswilligen Personen (Hackern, Crackern) vorzubauen, soll ein Mindestmass an Sicherheitsmassnahmen für das CMS implementiert werden, indem die Anzahl der Anmeldeversuche ins Backend beschränkt wird.
 
 ## Kann-Anforderungen
 Sofern eine sinnvolle Begründung vorliegt, kann auf diese Anforderungen verzichtet werden.
@@ -25,6 +29,8 @@ Sofern eine sinnvolle Begründung vorliegt, kann auf diese Anforderungen verzich
 Wir wollen unsere Inhalte nicht nur als Text transportieren, sondern auch mit Bildern. Dazu soll mindestens eine Slideshow auf der Website implementiert werden.
 ### Schriftart
 Kürzlich hat sich die Geschäftsleitung dazu entschlossen die offizielle Firmenschriftart zu ändern. Dabei soll auf eine neue und junge Font gesetzt werden, welche auch auf der Website zum Einsatz kommt. Der Firmen-Vorstand meint, es sollte sich bei der neuen Schaft nicht um eine Standard-Schriftart handeln um das Besondere der Firma hervorzuheben.
+### Backup
+Um auf Nummer sicher zu gehen, soll neben den Website-Funktionen noch eine Backup-Routine implementiert werden. Diese soll sämtliche Daten in regelmässigen Abständen sichern.
 
 ## Darf-Anforderungen
 Wäre wünschenswert, darf jedoch auch ohne Begründung weggelassen werden.
