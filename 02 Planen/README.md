@@ -30,7 +30,7 @@ Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet u
 * [NinjaMock](https://ninjamock.com/) - Webtool
 
 ## Planung des Styleguides
-Styleguides sind definierte Rahmenbedinungen und Standards für die gestalterische Umsetzung einer Website (oder anderen Oberfläche). Die Styleguides werden gemeinsam mit dem Kunden definiert und vereinfachen die Kommunikation zwischen dem Auftraggeber und der Agentur. 
+Styleguides sind definierte Rahmenbedingungen und Standards für die gestalterische Umsetzung einer Website (oder anderen Oberfläche). Die Styleguides werden gemeinsam mit dem Kunden definiert und vereinfachen die Kommunikation zwischen dem Auftraggeber und der Agentur. 
 
 Ziel des Styleguides ist es, die Präferenzen, Ziele und Wünsche des Kunden in einem möglichst frühen Projektstadium zu erfassen. Dadurch ist es möglich zielgerichtetere Designvorschläge zu erstellen und darum die Anzahl der benötigten Varianten und Anpassungen zu verkleinern.
 
