@@ -1,4 +1,4 @@
-# Interaktive Webseite mit Formular erstellen
+# Dynamische Website erstellen
 
 ### Programm
 
