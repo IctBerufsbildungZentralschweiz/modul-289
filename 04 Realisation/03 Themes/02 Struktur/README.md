@@ -1,5 +1,5 @@
 # Theme Struktur
-Um das Theme zu bearbeiten, müssen die einzelnen Bestandteile eines Theme bekannt sein. Im Folgenden werden die wichtigsten Komponente eines Wordpress-Theme aufgelistet.
+Um das Theme zu bearbeiten, müssen die einzelnen Bestandteile eines Theme bekannt sein. Im Folgenden werden die wichtigsten Komponente eines Wordpress-Themes aufgelistet.
 
 ### Wo ist das Theme zu finden?
 Auf der obersten Ebene hat Wordpress gerade einmal drei Ordner:

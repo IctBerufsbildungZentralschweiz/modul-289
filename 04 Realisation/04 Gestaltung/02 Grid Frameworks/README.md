@@ -1,5 +1,5 @@
-# GRID Frameworks
-Die meisten Websites basieren heutzutags auf einem GRID-System. Damit ist gemeint, dass die Seite in verschiedene Spalten aufgeteilt ist:
+# Grid Frameworks
+Die meisten Websites basieren heutzutags auf einem Grid-System. Damit ist gemeint, dass die Seite in verschiedene Spalten aufgeteilt ist:
 
 ![Grid](res/grid.jpg)
 
@@ -7,9 +7,9 @@ Die Nutzung eines Grid-System ist sehr hilfreich bei der Gestaltung von Websites
 
 ![Grid](res/grid-layout.jpg)
 
-[Die Grundlagen eines solchen GRID-Systems, sind auf diesem Beispiel sehr gut sichtbar.](https://www.w3schools.com/css/tryresponsive_grid.htm)
+[Die Grundlagen eines solchen Grid-Systems, sind auf diesem Beispiel sehr gut sichtbar.](https://www.w3schools.com/css/tryresponsive_grid.htm)
 
-Die Grundlagen eines GRID-Frameworks sind meistens mehrere vordefinierte CSS-Klassen. Mit Hilfe der Klassen kann der Inhalt der Seite einfach strukturiert werden:
+Die Grundlagen eines Grid-Frameworks sind meistens mehrere vordefinierte CSS-Klassen. Mit Hilfe der Klassen kann der Inhalt der Seite einfach strukturiert werden:
 
 ```css
 .col-1 {width: 8.33%;}
@@ -33,8 +33,8 @@ Die Grundlagen eines GRID-Frameworks sind meistens mehrere vordefinierte CSS-Kla
 </div>
 ```
 
-## Responsive GRID-System
-Das GRID-System ermöglicht es nicht nur die Struktur des Inhaltes auf einem Anzeigegerät zu bestimmen, sondern dieses auch je nach grösse des Anzeigegerätes anzupassen:
+## Responsive Grid-System
+Das Grid-System ermöglicht es nicht nur die Struktur des Inhaltes auf einem Anzeigegerät zu bestimmen, sondern dieses auch je nach grösse des Anzeigegerätes anzupassen:
 
 ```css
 .col-1 {width: 8.33%;}
@@ -63,4 +63,4 @@ Das GRID-System ermöglicht es nicht nur die Struktur des Inhaltes auf einem Anz
 </div>
 ```
 
-Ein Beispiel für eine Umsetzung befindet sich auf [dieser Seite](http://troolee.github.io/gridstack.js/demo/responsive.html). Vergrössere und Verkleinere dazu das Browserfenster.
+Ein Beispiel für eine Umsetzung befindet sich auf [dieser Seite](http://troolee.github.io/Gridstack.js/demo/responsive.html). Vergrössere und Verkleinere dazu das Browserfenster.

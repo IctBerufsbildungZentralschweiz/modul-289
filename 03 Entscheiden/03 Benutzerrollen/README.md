@@ -1,5 +1,5 @@
 # Benutzerrollen
-In Wordpress gibt vier Rollen, die du an Mitbenutzer deines Blogs vergeben kannst: Administrator, Redakteur, Autor und Mitarbeiter. Auch bei anderen Systemen ist die Aufteilung sehr ähnlich.
+In Wordpress gibt es vier Rollen, die du an Mitbenutzer deines Blogs vergeben kannst: Administrator, Redakteur, Autor und Mitarbeiter. Auch bei anderen Systemen ist die Aufteilung sehr ähnlich.
 
 ### Administrator
 Ein Administrator hält das volle, uneingeschränkte Eigentum an einem Blog und kann absolut alles tun. Diese Person hat die volle Kontrolle über Seiten/Beiträge, Kommentare, Einstellungen, Wahl des Themes, Import, Benutzer – das ganze Drum und Dran. Nichts ist tabu, auch nicht das Löschen des gesamten Blogs.

@@ -1,7 +1,7 @@
-# Case AB: Bowl-Trophy
+# Case B: Bowl-Trophy
 Bowl-Trophy ist ein eintägiger Event, welcher durch einen eigenständigen Verein im lokalen Freizeitcenter organisiert wird. Jeder kann sich für diesen Event anmelden. Dies ist auch der primäre Zweck der Webseite. Die Infrastruktur (Screens, Animationen etc.) ist auf dem modernsten Stand und dies ist den Eventbetreibern wichtig zu betonen.
 
-Bernd und Elisabeth - die Projektleiter für den Event Bowl-Trophy - nenne folgende Begriffe, welche zum Event passen:
+Bernd und Elisabeth - die Projektleiter für den Event Bowl-Trophy - nennen folgende Begriffe, welche zum Event passen:
 * beweglich
 * spass
 * modern
@@ -9,7 +9,6 @@ Bernd und Elisabeth - die Projektleiter für den Event Bowl-Trophy - nenne folge
 * frisch
 * digital
 * aktiv
-
 
 ## Funktionelle Anforderungen
 Bernd und Elisabeth haben die Anforderungen für die Website bereits mit dem Projektvorstand besprochen und die Gedanken dazu aufgeschrieben:

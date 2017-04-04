@@ -9,7 +9,7 @@ Wichtig dabei ist, dass es sich um ein statisches Bild, einen Entwurf, handelt u
 
 Ein gut angelegtes Mockup...
 * ...stellt die Struktur der Informationen dar
-* ...sisualisiert den Inhalt und demonstriert die grundlegende Funktionalität in einer statischen Weise
+* ...visualisiert den Inhalt und demonstriert die grundlegende Funktionalität in einer statischen Weise
 * ...unterstützt die gestalterische Prüfung der Layouts
 
 ### Einsatz von Mockups
