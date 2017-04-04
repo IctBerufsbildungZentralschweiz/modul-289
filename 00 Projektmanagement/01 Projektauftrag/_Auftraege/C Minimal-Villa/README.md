@@ -1,5 +1,5 @@
 # Case C: Minimal-Villa
-Wie der Name vermuten lässt, handelt es sich bei „Minimal Villa“ um eine moderne, sehr minimalistisch gestaltete Villa, welche monatsweise vermietet werden soll. Zielgruppe sind Business Gruppen (z.B. für Seminare) oder wohlhabende Familien.
+Wie der Name vermuten lässt, handelt es sich bei «Minimal Villa» um eine moderne, sehr minimalistisch gestaltete Villa, welche monatsweise vermietet werden soll. Zielgruppe sind Business Gruppen (z.B. für Seminare) oder wohlhabende Familien.
 
 Jean-Claude - der Besitzer der Villa - beschreibt das Mietobjekt mit folgenden Wörtern:
 * minimal

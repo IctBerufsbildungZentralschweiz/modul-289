@@ -17,8 +17,8 @@ Um die nötige Interaktion mit der Zielgruppe zu gewährleisten soll mindestens 
 ### Zielgruppenorientiertes Design
 Das Design soll nicht nur ästhetischen Ansprüchen gerecht werden, sondern individuell auf die Zielgruppe ausgerichtet sein.
 
-### Usermanagement
-Das Benutzermanagemnt soll sinnvoll eingerichtet sein. So sollen Benutzergruppen nur immer die Rechte erhalten, welche sie auch tatsächlich benötigen.
+### User management
+Das Benutzermanagement soll sinnvoll eingerichtet sein. So sollen Benutzergruppen nur immer die Rechte erhalten, welche sie auch tatsächlich benötigen.
 
 ### Sicherheitsmassnahmen
 Um böswilligen Personen (Hackern, Crackern) vorzubauen, soll ein Mindestmass an Sicherheitsmassnahmen für das CMS implementiert werden, indem die Anzahl der Anmeldeversuche ins Backend beschränkt wird.
@@ -34,5 +34,5 @@ Um auf Nummer sicher zu gehen, soll neben den Website-Funktionen noch eine Backu
 
 ## Darf-Anforderungen
 Wäre wünschenswert, darf jedoch auch ohne Begründung weggelassen werden.
-### WoW-Effekt
-Wir wollen uns von unserer Konkurrenz abheben. Dazu wünschen wir uns, wenn wir mindestens an einem Punkt der Website ein “WoW”-Effekt beim Besucher erzielen können.
+### WOW-Effekt
+Wir wollen uns von unserer Konkurrenz abheben. Dazu wünschen wir uns, wenn wir mindestens an einem Punkt der Website ein «WOW»-Effekt beim Besucher erzielen können.

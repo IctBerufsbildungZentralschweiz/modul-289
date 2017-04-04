@@ -17,7 +17,7 @@ Anhand der Datei index.php wird im folgenden die Templating-Sprache von Wordpres
 <?php
 /**
  * The main template file
- ...
+ * ...
  * 
  */
 
@@ -91,7 +91,7 @@ Der Befehl `have_posts()` gibt einen Boolean zurück, ob mindestens ein Post vor
 Die Funktion hat noch eine zweite Aufgabe: Wird die Funktion in einem While-Konstrukt aufgerufen, gibt diese solange ein `TRUE` zurück, bis alle Posts durchlaufen wurden. Dazu muss die While-Schleife jedoch noch die Funktion `the_post()` (siehe unten) beinhalten.
 
 ### the_post()
-Wird die Funktion `the_post()` in einer While-Schlaufe aufgerufen, werden die einzelnen Post nacheinander in die dafür vorgesehen `the_`-Funktionen geladen. Am Schluss der Schlaufe, stellt die Funktion noch den Rückgabe wert der Funktion `have_posts()` auf `FALSE`, um die Schlaufe zu unterbrechen.
+Wird die Funktion `the_post()` in einer While-Schlaufe aufgerufen, werden die einzelnen Post nacheinander in die dafür vorgesehen `the_`-Funktionen geladen. Am Schluss der Schlaufe, stellt die Funktion noch den Rückgabewert der Funktion `have_posts()` auf `FALSE`, um die Schlaufe zu unterbrechen.
 
 ```php
     while ( have_posts() ) : // Gibt solange ein TRUE zurück, bis sämtliche POST durchlaufen wurden.
@@ -104,7 +104,7 @@ Wird die Funktion `the_post()` in einer While-Schlaufe aufgerufen, werden die ei
 ```
 
 ### `the_`-Funktionen
-Um auf die verschiednen Informationen eines Post während einem SChlaufen-Durchlauf zugreifen zu können. Werden diese in sogenannte `the_`-Funktionen gespeichert.
+Um auf die verschiedenen Informationen eines Post während einem SCĉhlaufen-Durchlauf zugreifen zu könnenm werden diese in sogenannte `the_`-Funktionen gespeichert.
 
 | Funktion       | Gespeicherte Informationen |
 |----------------|----------------------------|

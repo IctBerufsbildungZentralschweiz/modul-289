@@ -13,4 +13,4 @@ function testtheme_scripts() {
 	...
 ```
 
-Anschliessend wird die CSS-DAtei automatisch im Head-Bereich der Seite geladen.
+Anschliessend wird die CSS-Datei automatisch im Head-Bereich der Seite geladen.
