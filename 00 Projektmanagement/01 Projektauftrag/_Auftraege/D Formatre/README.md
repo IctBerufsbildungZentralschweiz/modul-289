@@ -1,4 +1,4 @@
-# Case C: Formatre
+# Case D: Formatre
 Formatre (Wortspiel: Form + Theatre) ist eine Strassentheatergruppe, welche Sketches im öffentlichen Raum vorführt (ähnlich Strassenmusikanten). Durch ihre witzige und verspielte Art haben sie, nicht zuletzt auch durch YouTube, bereits einen beachtlichen Bekanntheitsgrad erreicht. Die Webseite soll vor allem über ihre Tour durch die europäischen Städte informieren.
 
 Joana und Mira - die Leiter der Strassentheatergruppe - beschreiben ihre Performance als:

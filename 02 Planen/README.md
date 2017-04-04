@@ -20,7 +20,7 @@ Mit einem Wireframe sollten folgende W-Fragen beantwortet werden:
 [Google Maps - Wireframe](https://www.google.ch/maps/place/ICT+Berufsbildung+Zentralschweiz/@47.0715163,8.3465601,17z/data=!3m1!4b1!4m5!3m4!1s0x478ffc03f44a7433:0xa693809437ac2778!8m2!3d47.0715127!4d8.3487488)
 
 ### Einsatz von Wireframes
-Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet um eine grobe Darstellung der Weblösung zu skizzieren. Sie können auch in einer weniger formellen Weise verwendet werden. Da sie schnell und einfach erstellt werden können, dienen sie als Skizzen für interne Besprechungen mit dem Team. Sie können Wireframe sowohl für grössere als auch für kleinere Aufgaben verwenden. Dies beseitigt Missverständnisse und ist extrem kostengünstig.
+Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet um eine grobe Darstellung der Weblösung zu skizzieren. Sie können auch in einer weniger formellen Weise verwendet werden. Da sie schnell und einfach erstellt werden können, dienen sie als Skizzen für interne Besprechungen mit dem Team. Sie können Wireframes sowohl für grössere als auch für kleinere Aufgaben verwenden. Dies beseitigt Missverständnisse und ist extrem kostengünstig.
 
 ### Einordnung des Wireframes
 ![Wireframe](res/unterschied-wireframe-mockup.png)
@@ -32,7 +32,7 @@ Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet u
 ## Planung des Styleguides
 Styleguides sind definierte Rahmenbedingungen und Standards für die gestalterische Umsetzung einer Website (oder anderen Oberfläche). Die Styleguides werden gemeinsam mit dem Kunden definiert und vereinfachen die Kommunikation zwischen dem Auftraggeber und der Agentur. 
 
-Ziel des Styleguides ist es, die Präferenzen, Ziele und Wünsche des Kunden in einem möglichst frühen Projektstadium zu erfassen. Dadurch ist es möglich zielgerichtetere Designvorschläge zu erstellen und darum die Anzahl der benötigten Varianten und Anpassungen zu verkleinern.
+Ziel des Styleguides ist es, die Präferenzen, Ziele und Wünsche des Kunden in einem möglichst frühen Projektstadium zu erfassen. Dadurch ist es möglich, zielgerichtetere Designvorschläge zu erstellen und darum die Anzahl der benötigten Varianten und Anpassungen zu verkleinern.
 
 Ein Styleguide kann unter anderem Folgendes beinhalten:
 * Wichtigste Schlüsselbergriffe (meistens Adjektive)
@@ -69,7 +69,7 @@ Ein Element auf der Website zu platzieren, nur weil es irgenwie cool aussieht, i
 Das A und O für einen übersichtlichen Internetauftritt ist einen einfache und klare Navigationsstruktur und ein klar strukturierter Seiteninhalt, welche sich durch allen Seiten hindurch zieht. Der Besucher sollte nicht mit zu vielen Informationen überhäuft werden und Leerstellen sollten gezielt eingesetzt werden um die Seite aufzulockern.
 
 #### Typographie
-Die Schrift sollte lesbar, genug gross und in einer angenehmen Schriftfarbe sein. Auch im Web sollten  übliche Text-Stilmittel iwe Auflistungen, Absätze, Markerungen etc. sinnvoll eingesetzt werden. Dies steigert die Lesbarkeit und die Informationen können einfacher aufgenommen werden.
+Die Schrift sollte lesbar, genug gross und in einer angenehmen Schriftfarbe sein. Auch im Web sollten übliche Text-Stilmittel wie Auflistungen, Absätze, Markerungen etc. sinnvoll eingesetzt werden. Dies steigert die Lesbarkeit und die Informationen können einfacher aufgenommen werden.
 
 [Webschriften für die kommerzielle Verwendung](https://fonts.google.com/)
 
@@ -104,7 +104,7 @@ Mögliche Grundsätze für eine gute Navigation sind:
 Die Übergreifende Regel ist einfach: Verlange nie von einem Besucher, dass er nachdenken muss, wie er seine Informationen findet – **Don’t make me think!**
 
 ### 5. Flash und Animationen
-Flash-Animationen können Aufmerksamkeit erzeugen. Genauso können sie Seitenbesucher von einer Webseite verjagen. Viele Leute  gefühlen sich durch unerwartete Geräusche und Animationen gestört - vor allem am Arbeitsplatz. Animationen sollten nur dann eingesetzt werden wenn Sie wirklich nötig und sinnvoll sind.
+Flash-Animationen können Aufmerksamkeit erzeugen. Genauso können sie Seitenbesucher von einer Webseite verjagen. Viele Leute  fühlen sich durch unerwartete Geräusche und Animationen gestört - vor allem am Arbeitsplatz. Animationen sollten nur dann eingesetzt werden wenn Sie wirklich nötig und sinnvoll sind.
 
 ### 6. Zugänglichkeit sicher stellen
-ES muss sichergestellt werden, dass wirklich jeder Ihre Seite besuchen kann, unabhängig vom Browser (ausgenommen extrem ältere Versionen) oder Gerät. Mittlerweile erfolgt fast jeder zweite Internetzugriff über ein mobiles Gerät. Es wäre sehr schade, wenn die Hälfte der potenziellen Website-Besucher abspringen, weil die Webseite via Smartphones und Tablets nicht optimal funktioniert.
+Es muss sichergestellt werden, dass wirklich jeder Ihre Seite besuchen kann, unabhängig vom Browser (ausgenommen extrem alte Versionen) oder Gerät. Mittlerweile erfolgt fast jeder zweite Internetzugriff über ein mobiles Gerät. Es wäre sehr schade, wenn die Hälfte der potenziellen Website-Besucher abspringen, weil die Webseite via Smartphones und Tablets nicht optimal funktioniert.

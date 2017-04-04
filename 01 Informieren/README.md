@@ -17,7 +17,7 @@ Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu habe
 |            | Beispiel: Sechs Monate nach dem Relaunch der neuen Webseite sollen   täglich 35 Besucher Ihre Website besuchen.                               |
 |            |                                                                                                                                               |
 | Verkauf    | Mehr Verkäufe, höherer Umwandlungssatz von Interessenten zu Käufern &   bessere Verkaufsuntersützung                                          |
-|            | Beispiel: Innerhalb der nächsten drei Jahr nach dem Launch sollen täglich   mindestens 1000 Franken Umsatz über den Webshop generiert werden. |
+|            | Beispiel: Innerhalb der nächsten drei Jahre nach dem Launch sollen täglich   mindestens 1000 Franken Umsatz über den Webshop generiert werden. |
 |            |                                                                                                                                               |
 | Support    | Verbesserung des Kundensupports & Verringerung der Telefonanfragen                                                                            |
 |            | Beispiel: Innerhalb von drei Monaten nach dem Relaunch sollen täglich   zwei Personen weniger die Hotline anrufen.                            |
@@ -29,10 +29,10 @@ Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu habe
 |            | Beispiel: Innerhalb der nächsten drei Monate ist die Website zu 99.998%   online.                                                             |
 |            |                                                                                                                                               |
 | Prozesse   | Kostenreduktion mit der Automatisation von Prozessen oder der   Standardisierung von Workflows                                                |
-|            | Beispiel: Durch die Automatisierung des Prozess XY, können   durchschnittlich pro Woche 50 Franken eingespart werden.                         |
+|            | Beispiel: Durch die Automatisierung des Prozesses XY können   durchschnittlich pro Woche 50 Franken eingespart werden.                         |
 |            |                                                                                                                                               |
 | Personal   | Ansprache von neuen Mitarbeitern & Hilfe für bestehende Mitarbeitende                                                                         |
-|            | Beispiel: 25% der Stellenanzeigen im nächsten Jahr, werden durch Anfragen   über die Website besetzt.                                         |
+|            | Beispiel: 25% der Stellenanzeigen im nächsten Jahr werden durch Anfragen   über die Website besetzt.                                         |
 
 **Wichtig**: Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Defintion des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
 

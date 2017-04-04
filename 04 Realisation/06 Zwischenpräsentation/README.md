@@ -1,5 +1,5 @@
 # Zwischenpräsentation
-Der Kunde möchte wissen, wie ihr mit dem Projekt voran kommt. Darum wird es Zeit, die ersten Resultate der Arbeit zu präsentieren. Ihr informiert dabei euren Kunden über den akzuellen Zwischenstand der Arbeiten, Problemen und Erfolgen. Die Präsentation Das Briefing findet um 15.45 Uhr (Zeit kann durch Kursleiter angepasst werden) des dritten Kurstages statt. Die folgenden Informationen müssen bis dahin aufbereitet und präsentiert werden.
+Der Kunde möchte wissen, wie ihr mit dem Projekt voran kommt. Darum wird es Zeit, die ersten Resultate der Arbeit zu präsentieren. Ihr informiert dabei euren Kunden über den akzuellen Zwischenstand der Arbeiten, Problemen und Erfolgen. Die Präsentation findet um 15.45 Uhr (Zeit kann durch Kursleiter angepasst werden) des dritten Kurstages statt. Die folgenden Informationen müssen bis dahin aufbereitet und präsentiert werden.
 
 ### Projektstatus
 * Aktuelle Situation - sind wir auf Kurs?

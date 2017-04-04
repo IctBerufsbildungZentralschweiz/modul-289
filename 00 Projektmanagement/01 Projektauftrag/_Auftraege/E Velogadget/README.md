@@ -1,5 +1,5 @@
 # Case E: Velogadget
-Velogadget ist eine Firma welche sich auf Lifestyle-Zubehör (Cams, Smart-Phone Halterungen, etc.) rund ums Velofahren spezialisiert hat. Dazu gehören auch digitale Produkte wie Smartphone Apps (z.B. Locator, Tourenplaner im Stil von „Ich muss schneller fahren, wenn ich dem Regen entkommen will“). Zielgruppe sind junge, eher städtische, körperbewusste Menschen.
+Velogadget ist eine Firma welche sich auf Lifestyle-Zubehör (Cams, Smart-Phone Halterungen, etc.) rund ums Velofahren spezialisiert hat. Dazu gehören auch digitale Produkte wie Smartphone Apps (z.B. Locator, Tourenplaner im Stil von «Ich muss schneller fahren, wenn ich dem Regen entkommen will»). Zielgruppe sind junge, eher städtische, körperbewusste Menschen.
 
 Jérôme und Salome - die Inhaber von Velogadget - beschreiben ihre Firma mit folgenden Begriffen:
 
@@ -12,7 +12,7 @@ Jérôme und Salome - die Inhaber von Velogadget - beschreiben ihre Firma mit fo
 
 
 ## Funktionelle Anforderungen
-Jérôme und Salome haben sich bereits einige ersten Gedanken über den Funktionsumfang der Website gemacht. Folgende Ideen sind dabei auf der Wunschliste gelandet:
+Jérôme und Salome haben sich bereits einige erste Gedanken über den Funktionsumfang der Website gemacht. Folgende Ideen sind dabei auf der Wunschliste gelandet:
 
 ### Erfahrungsberichte
 Um ihre Produkte zu bewerben sollen regelmässig Erfahrungsberichte von Anwendern und Benutzern auf die Website veröffentlicht werden. Auf einer Übersicht sollen sämtliche Erfahrungsberichte in umgekehrter chronologischer Reihenfolge (das Neuste zuoberst) angezeigt werden. Mit einem Klick auf den einzelnen Beitrag, soll der Besucher dann weitere Detailinformationen (Bilder, Beschreibungen etc.) erhalten.
