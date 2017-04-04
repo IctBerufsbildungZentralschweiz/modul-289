@@ -3,7 +3,7 @@ Beim ersten Projektbriefing handelt es sich um eine interne Information innerhal
 
 ### Projektteam
 * Mitglieder des Teams
-* Rollen und Verwortungsbereiche der einzelnen Personen
+* Rollen und Verantwortungsbereiche der einzelnen Personen
 * Stärken und Schwächen des Teams
 
 ### Thema

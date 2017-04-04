@@ -9,7 +9,7 @@ Beim ersten Schritt geht es darum, den Auftrag zu verstehen und sich ein Bild de
 * Wer ist wofür verantwortlich und wer ist über die Arbeitsschritte und das Resultat zu informieren? 
 
 ## Zieldefinition
-Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu haben. Dieses Ziel sollte mit dem nötigen Budget erreichbar sein. Doch geht es beim um mehr - in die Definition von «guten Zielen», sollte daher immer genügen Zeit investiert werden:
+Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu haben. Dieses Ziel sollte mit dem nötigen Budget erreichbar sein. Doch geht es deutlich um mehr - in die Definition von «guten Zielen», sollte daher immer genügen Zeit investiert werden:
 
 | Bereich    | Mögliche Ziele / Beispiele                                                                                                                    |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ Viele Unternehmen neigen dazu, den eigentlichen «Webauftritt» als Ziel zu habe
 | Personal   | Ansprache von neuen Mitarbeitern & Hilfe für bestehende Mitarbeitende                                                                         |
 |            | Beispiel: 25% der Stellenanzeigen im nächsten Jahr werden durch Anfragen   über die Website besetzt.                                         |
 
-**Wichtig**: Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Defintion des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
+**Wichtig**: Entscheidend ist nicht nur, welche Ziele definiert, sondern wie diese überprüft werden können. Somit gehört zu jedem Ziel nicht nur die eigentliche Definition des SOLL-Zustandes, sondern auch die dazugehörige Möglichkeit den Zustand zu überprüfen.
 
 ## Zielgruppendefinition: Personas
 
