@@ -12,5 +12,5 @@
 |                                 | Einführung   Grid          |                                 |                             |                             |
 |                                 |                            |                                 |                             |                             |
 | IPERKA   - Planen               | Installation Grid          | Vorstellung   beliebter Plugins | Migration &   Backup        | Weiterarbeiten am   Projekt |
-| **Präsentation:**   Projektbriefing | IPERKA -   Realisation     | Weiterarbeiten am   Projekt     | Weiterarbeiten am   Projekt | Präsentation                |
+| **Präsentation:**   Projektbriefing | IPERKA -   Realisation     | Weiterarbeiten am   Projekt     | Weiterarbeiten am   Projekt | **Präsentation**                |
 |                                 |                            | **Präsentation:** Zwischenresultate |                             | Besprechung und   Reflexion |
