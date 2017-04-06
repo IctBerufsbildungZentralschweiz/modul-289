@@ -15,7 +15,6 @@ Zusammenfassend solltet ihr also folgende Informationen präsentieren:
 * Hauptzielgruppe des Internetauftritts (Personas)
 
 ### Planung - NEU
-* Zeitplan für die Realisation
 * Geplante Hauptfunktionen
 * Geplante Zusatzfunktionen
 
