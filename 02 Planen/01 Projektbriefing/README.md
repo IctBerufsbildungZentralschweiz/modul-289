@@ -11,7 +11,7 @@ Zusammenfassend solltet ihr also folgende Informationen präsentieren:
 ### Thema
 * Kurze Zusammenfassung des Themas
 * Ziel des Internetauftritts (SMART)
-* Gepante Überprüfung der Ziele
+* Geplante Überprüfung der Ziele
 * Hauptzielgruppe des Internetauftritts (Personas)
 
 ### Planung - NEU
