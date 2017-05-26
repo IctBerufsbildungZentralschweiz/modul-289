@@ -5,7 +5,6 @@ Der Kunde möchte wissen, wie ihr mit dem Projekt voran kommt. Darum wird es Zei
 * Aktuelle Situation - sind wir auf Kurs?
 * Abgeschlossener letzter Schritt
 * Geplanter nächster Schritt
-* Gibt es Anpassungen am Zeitplan?
 
 ### Visual Design
 * Wireframes - Gibt es Änderungen? (Begründung)
