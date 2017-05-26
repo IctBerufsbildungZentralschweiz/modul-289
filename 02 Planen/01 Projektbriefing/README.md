@@ -5,7 +5,7 @@ Zusammenfassend solltet ihr also folgende Informationen präsentieren:
 
 ### Projektteam
 * Mitglieder des Teams
-* Rollen und Verwortungsbereiche der einzelnen Personen
+* Rollen und Verantwortungsbereiche der einzelnen Personen
 * Stärken und Schwächen des Teams
 
 ### Thema
