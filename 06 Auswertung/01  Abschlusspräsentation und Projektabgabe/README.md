@@ -15,8 +15,4 @@ Bezüglich Leitfaden habt ihr freie Hand. Als Gedankenanstoss jedoch hier einige
 ## Projektabgabe
 Als Bewertungsgrundlage für das Projekt zählen die Dateien und Daten, welche um 16.30 Uhr auf dem vorgegeben Server und Datenbank befinden. 
 
-**WICHTIG:** Für die Bewertung muss noch ein Administrator für den Kursleiter mit folgenden Zugangsdaten eingerichtet werden:
-```
-    Benutzer:   uek4-admin
-    Passwort:   2nb8d=^Q^X;Hn_RD
-```
+**WICHTIG:** Für die Bewertung muss ein Administrator für den Kursleiter mit folgenden Zugangsdaten eingerichtet werden.
