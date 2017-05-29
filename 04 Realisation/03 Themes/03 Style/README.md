@@ -11,6 +11,7 @@ function testtheme_scripts() {
 	wp_enqueue_style( 'customized', get_template_directory_uri() . '/customized.css' );
 	
 	...
+}
 ```
 
 Anschliessend wird die CSS-Datei automatisch im Head-Bereich der Seite geladen.

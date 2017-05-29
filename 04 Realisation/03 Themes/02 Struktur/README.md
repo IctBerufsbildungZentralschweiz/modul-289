@@ -16,12 +16,13 @@ Somit muss sich das Theme im Ordner `wp-content` befinden, genauer gesagt unter 
 wp-content/themes/ThemeName
 ``` 
 
-## Functions.php
-Die Datei `functions.php` ist eine zentrale Hilfsdatei für das komplette Theme. Man kann sich die Datei als persönlichen Template-Buttler vorstellen, welcher beim Laden des Templates sämtliche Funktionen vorbereitet, damit die Seite erstellt werden kann. 
+## Wie sind Themes aufgebaut?
+Innerhalb des jeweiligen Themes-Ordners befinden sich Dateien – Template-Dateien – und weitere Unterordner. Die verschiedenen Template-Dateien haben unterschiedliche Funktionen. Manche Dateien müssen auf jeden Fall vorhanden sein, andere sind optional. Im weiteren Verlauf werden wir die folgenden Begriffe anschauen:
 
-Hier ein kurzer Auszug von zwei Funktionen:
+* Template-Dateien
+* Include-Tags
+* Template-Hooks
+* Conditional-Tags
+* Der Loop
+* Zusätzliche Seiten-Templates
 
-| Funktion           | Definition                                                           |
-|--------------------|----------------------------------------------------------------------|
-| register_nav_menus | Registriert die Menüs, welche im Tempalte   verwendet werden können. |
-| THEMENAME_scripts  | Lädt die hinterlegten Scripts und Styles in den Template-Head.    |
