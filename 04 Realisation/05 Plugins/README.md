@@ -2,6 +2,11 @@
 
 Mit über 25’000 Plugins im offiziellen Plugin-Verzeichnis fällt die Auswahl schwer. Es gibt viele Plugins die nicht wirklich von guter Qualität sind oder schon länger nicht mehr weiterentwickelt werden. Bitte beachtet die Meldung „This plugin hasn’t been updated in the last 2 years“ und die Bewertungen. Zudem zeigt das Plugin Verzeichnis an, ob das Plugin mit der aktuellen WordPress Version kompatibel ist. [Die beliebtesten Plugins sind ebenfalls aufgelistet.](https://de.wordpress.org/plugins-wp/)
 
+## Allgemeine Plugins
+
+* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+
 ## Security Plugins
 
 **[Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/)**
