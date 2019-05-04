@@ -18,16 +18,15 @@
 
 ## Marktanteil der Content Management Systeme
 
-|             | Anteil Einsatz insgesamt Websits | Anteil Einsatz bei Websites mit CMS |
+|             | Anteil Einsatz insgesamt Websites | Anteil Einsatz bei Websites mit CMS |
 |-------------|---------------------------------:|------------------------------------:|
-| WordPress   |                           27.70% |                        58.90%       |
-| Joomla      |                            3.30% |                         7.10%       |
-| Drupal      |                            2.20% |                         4.70%       |
-| Magento     |                            1.20% |                         2.60%       |
-| Blogger     |                            1.10% |                         2.30%       |
-| TYPO3       |                            0.70% |                         1.40%       |
-| Shopify     |                            0.70% |                         1.40%       |
-| Bitrix      |                            0.70% |                         1.40%       |
-| PrestaShop  |                            0.60% |                         1.30%       |
-| Squarespace |                            0.60% |                               1.20% |
-| Ohne CMS    |                           52.90% |                                  -- |
+| WordPress   |                           33.8%  |                        60.6%        |
+| Joomla      |                            2.9%  |                         5.2%        |
+| Drupal      |                            1.9%  |                         3.4%        |
+| Squarespace |                            1.5%  |                         2.7%        |
+| Wix         |                            1.1%  |                         1.9%        |
+| TYPO3       |                            0.7%  |                         1.2%        |
+| October CMS |                            0.1%  |                         0.1%        |
+
+
+Quelle: [https://w3techs.com/technologies/overview/content_management/all/](https://w3techs.com/technologies/overview/content_management/all/)
