@@ -20,15 +20,13 @@ Das Design soll nicht nur ästhetischen Ansprüchen gerecht werden, sondern indi
 ### User management
 Das Benutzermanagement soll sinnvoll eingerichtet sein. So sollen Benutzergruppen nur immer die Rechte erhalten, welche sie auch tatsächlich benötigen.
 
-### Sicherheitsmassnahmen
-Um böswilligen Personen (Hackern, Crackern) vorzubauen, soll ein Mindestmass an Sicherheitsmassnahmen für das CMS implementiert werden, indem die Anzahl der Anmeldeversuche ins Backend beschränkt wird.
 
 ## Kann-Anforderungen
 Sofern eine sinnvolle Begründung vorliegt, kann auf diese Anforderungen verzichtet werden.
 ### Slideshow
 Wir wollen unsere Inhalte nicht nur als Text transportieren, sondern auch mit Bildern. Dazu soll mindestens eine Slideshow auf der Website implementiert werden.
 ### Schriftart
-Kürzlich hat sich die Geschäftsleitung dazu entschlossen die offizielle Firmenschriftart zu ändern. Dabei soll auf eine neue und junge Font gesetzt werden, welche auch auf der Website zum Einsatz kommt. Der Firmen-Vorstand meint, es sollte sich bei der neuen Schaft nicht um eine Standard-Schriftart handeln um das Besondere der Firma hervorzuheben.
+Kürzlich hat sich die Geschäftsleitung dazu entschlossen die offizielle Firmenschriftart zu ändern. Dabei soll auf eine neue und junge Font gesetzt werden, welche auch auf der Website zum Einsatz kommt. Der Firmen-Vorstand meint, es sollte sich bei der neuen Schriftart nicht um eine Standard-Schriftart handeln um das Besondere der Firma hervorzuheben.
 ### Backup
 Um auf Nummer sicher zu gehen, soll neben den Website-Funktionen noch eine Backup-Routine implementiert werden. Diese soll sämtliche Daten in regelmässigen Abständen sichern.
 
