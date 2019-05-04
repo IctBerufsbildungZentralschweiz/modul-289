@@ -6,8 +6,8 @@ Um das Theme zu bearbeiten, müssen die einzelnen Bestandteile eines Theme bekan
 
 Im Dateisystem arbeitest du im `theme` Ordner. 
 
-* [01 Layouts](Layouts)
-* [02 Pages](Seiten/Pages)
-* [03 Partials](Partials)
-* [04 Content](Content)
-* [05 Assets](Assets)
+* [Layouts](01 Layouts)
+* [Pages](02 Pages)
+* [Partials](03 Partials)
+* [Content](04 Content)
+* [Assets](05 Assets)
