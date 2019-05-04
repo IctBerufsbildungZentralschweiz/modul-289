@@ -26,6 +26,8 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 	<h2>Standardlayout</h2>
 
 	{% page %}
+
+	<script src="{{ [ '@jquery', '@framework' ] | theme }}"></script>
 </body>
 </html>
 ```
