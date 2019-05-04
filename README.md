@@ -7,7 +7,7 @@
 | Begrüssung/Einführung           | **Prüfung 1:** Lernkontrolle | **Prüfung 2:** Lernkontrolle        | **Prüfung 3:** Lernkontrolle    | **Prüfung 4:** Lernkontrolle    |
 | IPERKA   - Konzept              | CMS Grundlagen             | Repetition HTML   & CSS         | Website Secuity             | Weiterarbeiten am   Projekt |
 | Einführung   Projektarbeit      | Benutzermanagement         | Repetition   GRID-System        | Weiterarbeiten am   Projekt |                             |
-| IPERKA   - Informieren          | Installation   Wordpress   | Weiterarbeiten am   Projekt     |                             |                             |
+| IPERKA   - Informieren          | Installation   CMS         | Weiterarbeiten am   Projekt     |                             |                             |
 |                                 | Theme Installation         |                                 |                             |                             |
 |                                 | Einführung   Grid          |                                 |                             |                             |
 |                                 |                            |                                 |                             |                             |
