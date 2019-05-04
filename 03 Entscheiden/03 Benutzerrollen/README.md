@@ -1,18 +1,17 @@
 # Benutzerrollen
-In Wordpress gibt es vier Rollen, die du an Mitbenutzer deines Blogs vergeben kannst: Administrator, Redakteur, Autor und Mitarbeiter. Auch bei anderen Systemen ist die Aufteilung sehr ähnlich.
 
-### Administrator
-Ein Administrator hält das volle, uneingeschränkte Eigentum an einem Blog und kann absolut alles tun. Diese Person hat die volle Kontrolle über Seiten/Beiträge, Kommentare, Einstellungen, Wahl des Themes, Import, Benutzer – das ganze Drum und Dran. Nichts ist tabu, auch nicht das Löschen des gesamten Blogs.
+Welche Benutzerrollen in einem CMS benötigt werden sind von Projekt zu Projekt verschieden. Hier findest du eine Auflistung von Benutzerrollen, die man häufig antrifft.
 
-Pro Blog wird nur ein Administrator empfohlen!
+### Administrator/Super-User
 
-### Redakteur
-Ein Redakteur kann jede(n) Beitrag/Seite ansehen, bearbeiten, veröffentlichen und löschen. Er kann Kommentare moderieren, Kategorien verwalten, Schlagwörter (Tags) verwalten, Links verwalten sowie Dateien/Bilder hochladen.
+Ein Administrator oder Super-User hat uneingschränkten Zugriff auf alle Funktionen und Inhalte.
 
-### Autor
-Ein Autor kann seine eigenen Beiträge bearbeiten, veröffentlichen und löschen sowie Dateien/Bilder hochladen. Autoren können keine Seiten bearbeiten, hinzufügen, löschen oder veröffentlichen.
+Das Arbeiten mit einer Administratoren-Rolle ist unkompliziert kann aber auch ein mögilches Sicherheitsrisiko darstellen, falls die Zugangsdaten in falsche Hände geraten.
 
-### Mitarbeiter
-Ein Mitarbeiter kann seine eigenen Beiträge bearbeiten, kann sie aber nicht veröffentlichen. Wenn ein Mitarbeiter einen Beitrag erstellt, muss dieser einem Administrator zur Prüfung vorgelegt werden. Sobald der Beitrag eines Mitarbeiters von einem Administrator genehmigt und veröffentlicht wurde, kann er jedoch nicht mehr durch den Mitarbeiter bearbeitet werden.
+### Entwickler
 
-Ein Mitarbeiter hat keine Möglichkeit, Dateien/Bilder hochzuladen.
+Die Entwickler-Rolle hat in den meisten Fällen ebenfalls uneingeschränkten Zugriff auf alle Funktionen. Entwickler können jedoch die Benutzerkonten der Administratoren nicht bearbeiten. Oft fehlt ihnen die Berechtigung um überhaupt andere Benutzerkonten zu verwalten.
+
+### Publisher
+
+Ein Publisher kann die Inhalte des CMS verwalten. Er kann keine technischen Einstellungen (Updates, Plugins etc.) des CMS verändern.
