@@ -1,8 +1,42 @@
 # Theme Installation
-Das installierte Standard-Theme besitzt bereits über ein ausgeprägtes Aussehen. Um daraus ein individuelles Theme zu gestalten müsste zuerst 90% des bestehenden Codes (Styles, Struktur etc.) entfernt werden. Um diese Zeit einzusparen, kann ein sogenanntes Blank-Theme installiert werden. Das Theme besitzt über fast keine definierten Einstellungen und bietet daher die ideale Ausgangslage für die Erstellung eines eigenen Themes.
 
-[Blank-Theme von underscores.me](http://underscores.me/)
+October bietet dir über das Backend eine einfache Möglichkeit, ein leeres Theme zu erstellen. Dieses kannst du als Basis für die weitere Arbeit verwenden.
 
-![Underscores Theme Download](res/underscores.jpg)
+1. Navigiere zu `Einstellungen -> Frontend Theme` und klicke auf `Erstelle ein neues (leeres) Theme`.
+1. Fülle alle benötigten Informationen aus
+1. Klicke bei deinem neuen Theme auf `Aktivieren`
+1. Besuche deine Website
 
-Erstelle nun ein Blanktheme und installiere es manuell über das Backend. Nach der Installation kannst Du das Theme gleich aktivieren und dir das Ergebnis anschauen.
+Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan nur eine Fehlerseite anzeigen.
+
+## Layout und Seiten erstellen
+
+1. Navigiere zu `CMS -> Layouts` und klicke auf `Hinzufügen`
+1. Nenne dein neues Layout `default`
+1. Füge folgendne Code als Markup ein:
+
+```twig
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta charset="UTF-8">
+	<title>Beispielseite</title>
+</head>
+<body>
+	<h2>Standardlayout</h2>
+
+	{% page %}
+</body>
+</html>
+```
+
+1. Navigiere zu `CMS -> Seiten` und Klicke auf `Hinzufügen`
+1. Nenne die Seite `Homepage`, wähle als URL `/`
+1. Wähle bei `Layout` das zuvor erstellte Default-Layout aus
+1. Füge folgenden Code als Markup ein:
+
+```twig
+<p>Mein Seiteninhalt</p>
+```
+
+Wenn du deine Website erneut aufrust sollte deine neu erstellte Seite nun erscheinen.

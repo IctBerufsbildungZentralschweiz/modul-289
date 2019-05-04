@@ -1,17 +1,27 @@
-# Wordpress Backend
+# Backend
+
 ### Zugriff
-Das Backend einer Wordpress-Seite erreichst Du standardmässig mit der URI `/wp-admin/`. Wird beispielsweise eine Wordpress-Seite unter der Domain `meine-website.ch` installiert, gelangt man mit folgender URL in den Login-Bereich des Backend:
-> http://www.meine-website.ch/wp-admin/
 
-## Bestandteile
-| Menüpunkt        | Aufgabe                                                                                                                                                                                                                                                                                                                                                                                              |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Beiträge         | Beiträge sind regelmässig veröffentlichte   Artikel, die der Autor einer Seite veröffentlicht. Ein Beitrag besteht   zumindest aus einem Titel und einem Text, zusätzlich können noch ein   Beitragsbild, Kategorie, Schlagworte und vieles mehr eingefügt werden.                                                                                                                                   |
-| Seiten           | Seiten sind relativ statisch und verfügen in den meisten Fällen weder   über eine Kommentier-Funktion, noch über Schlagworte oder Kategorien. Seiten   werden in WordPress zum Darstellen von zeitlosen Informationen benutzt, wie   zum Beispiel einer Inhaltsseite, einer Kontaktseite, einem Impressum, einem   Glossar oder ähnliche Inhalte, die über eine Navigation erreichbar sein   sollen. |
-| Menüs            | Nachdem eine Seite erstellt wurde, sollte diese auch für den   Website-Besucher erreichbar sein. Aus diesem Grund kann der Administrator   ein Menü hinzufügen, mit dem die erstellten Seiten verlinkt werden können.   Neben den Seiten können auch externe Links oder Beiträge im Menü verlinkt   werden.                                                                                        |
-| Medienverwaltung | Um verschiedene Medien wie Fotos, Videos und Dokumente auf der Website zu   verwenden, können diese in der Medienverwaltung hochgeladen und editiert   werden.                                                                                                                                                                                                                                       |
-| Themes           | Themes sind das Gewand, in das der Blog oder die Webseite gekleiden   werden kann. Im Internet befinden sich zahllose Anbieter von kostenlosen und   kostenpflichtigen Themes für WordPress. Neue Themes können entweder über den   integrierten Theme-Browser oder über einen manuellen Upload installiert   werden.                                                                                |
-| Plugins          | Plugins kannst du aktivieren und deaktivieren, installieren und löschen   im Feld Plugins, das du in der linken Navigationsbar siehst. Wie auch die   Themes können diese entweder durch die interne Suche oder manuell installiert   werden.                                                                                                                                                        |
-| Benutzer         | Benutzer und Benutzerrechte können im Navigationspunkt Benutzer erstellt,   editiert und gelöscht werden.                                                                                                                                                                                                                                                                                            |
+Das Backend von October erreichst du standardmässig über die URL `/backend`.
 
-[Eine ausführliche Beschreibung der einzelnen Punkte findest Du auf dieser Website.](http://www.keywordmonitor.de/wordpress-tutorial/einfuehrung/)
+> http://www.meine-website.ch/backend
+
+### Sprache
+
+Standardmässig wird October CMS english installiert. Du kannst diese Einstellung entweder pro Benutzer über das Benutzermenü oben rechts umstellen oder global in dem du in der Datei `config/app.php` den `locale` Wert auf `de` umstellst.
+
+### Dashboard
+
+Hier erhältst du eine einfache Übersicht über deine October CMS Installation.
+
+### CMS
+
+Im CMS-Bereich kannst du die Basisdateien eines Themes bearbeiten. Dieser Bereich wendet sich an technische Benutzer (dich) und nicht an den Endkunden.
+
+### Medien
+
+Im Medien-Bereich kannst du mit wenigen Klicks Dateien auf dein Webserver lade. Die Dateien können anschliessend in verschiedenen Bereichen des CMS verwendet werden.
+
+### Einstellungen
+
+In den Einstellungen kannst du das CMS sowie installierte Plugins konfigurieren.
