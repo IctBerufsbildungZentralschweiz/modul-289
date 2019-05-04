@@ -6,9 +6,9 @@ Plugins erweitern die Funktionalität eines CMS. Für October gibt es kostenlose
 
 Achte bei der Auswahl eines Plugins auf folgende Punkte:
 
-1. Bewertungen/Anzahl Installationen: Das Arbeiten mit beliebten und gut bewerteten Plugins wird dir einfacher fallen
-1. Aktualität: Plugins sollten regelmässig aktualisiert werden. Falls ein Plugin seit Jahren keine Updates erhalten hat, muss davon ausgegangen werden, dass es nicht mehr unterhalten wird und somit unsicher sein kann.
-1. Lizenz: Nicht alle Plugins sind kostenlos. Falls ein kostenpflichtiges Plugin eine grosse Zeitersparnis bedeutet, lohnt es sich einen Entwickler finanziell zu unterstützen. In diesem ÜK werden wir auf kostenpflichtige Plugins verzichten.
+1. **Bewertungen/Anzahl Installationen**: Das Arbeiten mit beliebten und gut bewerteten Plugins wird dir einfacher fallen
+1. **Aktualität**: Plugins sollten regelmässig aktualisiert werden. Falls ein Plugin seit Jahren keine Updates erhalten hat, muss davon ausgegangen werden, dass es nicht mehr unterhalten wird und somit unsicher sein kann.
+1. **Lizenz**: Nicht alle Plugins sind kostenlos. Falls ein kostenpflichtiges Plugin eine grosse Zeitersparnis bedeutet, lohnt es sich einen Entwickler finanziell zu unterstützen. In diesem ÜK werden wir auf kostenpflichtige Plugins verzichten.
 
 ## Plugins installieren
 
