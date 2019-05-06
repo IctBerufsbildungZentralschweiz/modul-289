@@ -14,8 +14,8 @@ In den kommenden fünf Kurstagen sind wir als Kursgruppe eine kleine Webagentur.
 2. Konzeption / Präsentationen (20%)
 3. Lernkontrollen (10%)
 4. Selbst-Sozialkompetenz (20%)
-## Projektablauf
 
+## Projektablauf
 ### 1. Schritt: Informationsphase: 
 - Projektauftrag (Vorlage vervollständigen) 
 - Brainstorming

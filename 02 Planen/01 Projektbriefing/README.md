@@ -20,7 +20,7 @@ Zusammenfassend solltet ihr also folgende Informationen präsentieren:
 
 ### Konzept & Design - NEU
 * Wireframes
-* Styleguides [(Link zur Vorlage)](http://styletil.es/downloads/Style_Tile_Template.psd.zip)
+* Styleguides - [Beispiel & Vorlage](../res/styleguide.xd)
 
 ### Inhalte - NEU
 * Sitemap

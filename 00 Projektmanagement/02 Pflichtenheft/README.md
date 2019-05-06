@@ -20,6 +20,15 @@ Das Design soll nicht nur ästhetischen Ansprüchen gerecht werden, sondern indi
 ### User management
 Das Benutzermanagement soll sinnvoll eingerichtet sein. So sollen Benutzergruppen nur immer die Rechte erhalten, welche sie auch tatsächlich benötigen.
 
+### Mehrsprachigkeit
+Die Website soll zwar hauptsächlich in der deutschsprachigen Schweiz verfügbar sein, jedoch sollen auch 
+anderssprachige Besucher die Möglichkeit haben die Inhalte zu lesen. Aus diesem Grund soll die Website mindestens in
+ zwei Sprachen verfügbar sein.
+ 
+ ### Blog
+ Besucher sollen immer wieder auf unsere Website gelangen. Darum soll die Website laufend mit aktuellen Inhalten in 
+ einem Blog ergänzt werden.
+
 
 ## Kann-Anforderungen
 Sofern eine sinnvolle Begründung vorliegt, kann auf diese Anforderungen verzichtet werden.

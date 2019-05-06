@@ -48,4 +48,4 @@ Mögliche Fragestellungen für die Erstellung einer Persona:
 * Welche Inhalte, Funktionen und Services wünschen sich die Nutzer?
 * Wie kann ein Entwicklungsteam die geplante Website wirklich nutzerzentriert konzipieren?
 
-[Beispiele für Personas](res/personas.jpg) von https://blog.seibert-media.net
+[Beispiele für Personas](https://uxdesign.cc/wireframes-flows-personas-and-beautifully-crafted-ux-deliverables-for-your-inspiration-bb7a8d99af62#05be) von https://uxdesign.cc
