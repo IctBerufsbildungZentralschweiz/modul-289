@@ -26,9 +26,10 @@ Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet u
 ![Wireframe](res/unterschied-wireframe-mockup.png)
 
 ### Hilfsmittel
-* [Balsamiq](https://balsamiq.com/download/) - Programm
-* [NinjaMock](https://ninjamock.com/) - Webtool
-
+* [Adobe XD](https://www.adobe.com/ch_de/products/xd.html) - Programm
+* [Wireframe-Vorlage für Adobe XD](https://www.behance.net/gallery/55462459/Wires-free-wireframe-kits-for-Adobe-XD) -
+ Design Kit
+ 
 ## Planung des Styleguides
 Styleguides sind definierte Rahmenbedingungen und Standards für die gestalterische Umsetzung einer Website (oder anderen Oberfläche). Die Styleguides werden gemeinsam mit dem Kunden definiert und vereinfachen die Kommunikation zwischen dem Auftraggeber und der Agentur. 
 
@@ -45,7 +46,7 @@ Ein Styleguide kann unter anderem Folgendes beinhalten:
 * Ausgewählte Designelemente (Buttons, Felder, Navigation etc.)
 
 ### Hilfsmittel
-* [Styleguide von Styletil.es](http://styletil.es/downloads/Style_Tile_Template.psd.zip) - PSD Vorlage
+* [Styleguide für Adobe XD](res/styleguide.xd)
 
 ## Exkurs: Usability
 
