@@ -42,7 +42,7 @@ Dieser Code bindet die Komponente mit dem Namen `componentName` ein.
 #### Komponenten-Markup übersteuern
 
 Du hast die Möglichkeit, das Markup einer Plugin-Komponente in deinem Theme zu übersteuern.
-Kopiere dazu den Inhalt des Ordners `plugins/entwickler/plugin/components/<nameDerKomponente>` nach
+Kopiere dazu den Inhalt des Ordners `plugins/entwickler/pluginName/components/<nameDerKomponente>` nach
 	`themes/dein-theme/partials/<nameDerKomponente>`.
 
 ### Asset einbinden
