@@ -29,6 +29,16 @@ Um ein Partial einzubinden verwende folgende Syntax:
 
 Dieser Code lädt den Inhalt aus `themes/dein-theme/content/mein-inhalt.htm`.
 
+### Komponente einbinden
+
+Um eine Plugin-Komponente einzubinden verwende folgende Syntax:
+
+```twig
+{% component 'componentName' %}
+```
+
+Dieser Code bindet die Komponente mit dem Namen `componentName` ein.
+
 
 ### Asset einbinden
 
