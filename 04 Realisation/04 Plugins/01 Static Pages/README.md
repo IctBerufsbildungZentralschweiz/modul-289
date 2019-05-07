@@ -57,7 +57,7 @@ Versuche eine neue Seite zu erstellen und diesem dem Hauptmenü hinzuzufügen.
 
 ## Custom page fields
 
-Das Static Pages bietet eine einfache Möglichkeit, die Eingabemaske für den Endkunden mit weiteren Feldern zu ergänzen. 
+Das Static Pages Plugin bietet eine einfache Möglichkeit, die Eingabemaske für den Endkunden mit weiteren Feldern zu ergänzen. 
 
 Du kannst mit der `{variable}` Syntax in einem `Layout` beliebige Felder definieren. Diese werden dann automatisch im Backend-Seiteneditor angezeigt:
 
@@ -83,6 +83,8 @@ Du kannst mit der `{variable}` Syntax in einem `Layout` beliebige Felder definie
 </body>
 </html>
 ```
+
+### Übersicht
 
 Eine Übersicht aller vorhandener Feld-Typen findest du auf octobertricks.com:
 
