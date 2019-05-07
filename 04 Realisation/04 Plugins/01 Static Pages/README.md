@@ -54,3 +54,36 @@ Damit du ein Layout für Static Pages nutzen kannst, musst du wie folgt vorgehen
 Du kannst im Hauptmenü unter `Seiten -> Neu` beliebige neue Seiten mit einem WYSIWYG-Editor erstellen und bearbeiten.
 
 Versuche eine neue Seite zu erstellen und diesem dem Hauptmenü hinzuzufügen.
+
+## Custom page fields
+
+Das Static Pages bietet eine einfache Möglichkeit, die Eingabemaske für den Endkunden mit weiteren Feldern zu ergänzen. 
+
+Du kannst mit der `{variable}` Syntax in einem `Layout` beliebige Felder definieren. Diese werden dann automatisch im Backend-Seiteneditor angezeigt:
+
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta charset="UTF-8">
+	<title>Ein Layout</title>
+</head>
+<body>
+
+	{variable name="eineVariable" tab="Mein Tab" label="Bezeichnung des Feldes" type="text"}{/variable}
+	{variable name="eineAndereVariable" tab="Mein Tab" label="Anderes Feldes" type="text"}{/variable}
+
+	<p>
+		Die Variablen können via Twig-Syntax ausgegeben werden:
+		{{ eineVariable }}
+	</p>
+	<p>
+		{{ eineAndereVariable }}
+	</p>
+</body>
+</html>
+```
+
+Eine Übersicht aller vorhandener Feld-Typen findest du auf octobertricks.com:
+
+[RainLab.Pages: Custom page field cheatsheet auf octobertricks.com](https://octobertricks.com/tricks/custom-page-field-cheatsheet)
