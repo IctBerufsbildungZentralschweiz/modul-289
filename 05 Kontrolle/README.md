@@ -6,3 +6,4 @@ Jede ausgeführte Arbeit ist zu kontrollieren, bevor sie aus den Händen gegeben
 * Konnte der Zeitplan eingehalten werden? 
 * Entspricht der ausgeführte Auftrag den Planvorgaben? 
 * Wer ist über den Abschluss der Arbeit zu informieren? 
+

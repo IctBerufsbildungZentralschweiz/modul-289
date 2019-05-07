@@ -118,3 +118,6 @@ Reflexion der Bearbeitung des Auftrags, von der Information bis zu Kontrolle und
 * (3-5) Phasen-Modell
 
 *Fazit: Entscheid Persönlich oder Unternehmung*
+
+## Arbeitsauftrag
+Ihr erarbeitet nun in Gruppen die verschiedenen Schritte des IPERKA-Models. Überlegt euch dazu 2-3 Sätze, welche den jeweiligen Schritt zusammenfassen und notiert auf einem Flipchart was für Aufgaben, Fragen oder Checklisten dies angewendet auf ein Website-Projekt sein könnten. Die Flipcharts werden anschliessend im Kursraum aufgehängt, von euch präsentiert und dienen als Leitfaden für die Realisation eurer Website.

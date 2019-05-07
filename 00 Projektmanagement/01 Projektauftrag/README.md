@@ -1,8 +1,6 @@
 # Projektauftrag
-In den kommenden fünf Kurstagen sind wir als Kursgruppe eine kleine Webagentur. Die Agentur besteht aus verschiedenen
- Arbeitsgruppen aus jeweils drei Personen. Ziel der Gruppe ist es, in den nächsten fünf Tage eine dynamische Website 
- für eine Firma, einen Verein oder ein Projekt zu planen, erarbeiten und realisieren. Die Inhalte der Seite sollen 
- dabei mit Hilfe eines CMS verwaltet werden. Ziel ist jedoch nicht nur die korrekte Realisation des Projektes, sondern auch eine sinnvolle Organisation und eine angemessene Kommunikation.
+In den kommenden fünf Kurstagen sind wir als Kursgruppe eine kleine Webagentur. Die Agentur besteht aus verschiedenen Arbeitsgruppen aus jeweils drei Personen. Ziel der Gruppe ist es, in den nächsten fünf Tage eine dynamische Website 
+ für eine Firma, einen Verein oder ein Projekt zu planen, erarbeiten und realisieren. Die Inhalte der Seite sollen dabei mit Hilfe eines CMS verwaltet werden. Ziel ist jedoch nicht nur die korrekte Realisation des Projektes, sondern auch eine sinnvolle Organisation und eine angemessene Kommunikation.
 
 ## Konzeptvorlage
 Zum Projekt erarbeitet ihr ein Konzept, dazu könnt ihr die vorbereitete Word-Vorlage verwenden: [Konzeptvorlage](res/Projektarbeit_Konzept_VORLAGE.docx)
@@ -30,7 +28,7 @@ Zum Projekt erarbeitet ihr ein Konzept, dazu könnt ihr die vorbereitete Word-Vo
 
 ### 2. Schritt: Planungsphase 
 - Definition / Entwicklung Visual Design
-- Definition Zusatzfunktionen
+- Definition Funktionen
 ### 3. Schritt: Entscheidungsphase 
 - Zweite Kundensitzung: Design (Abgabe Wireframes, Visual Designs) 
 ### 4. Schritt: Realisationsphase 

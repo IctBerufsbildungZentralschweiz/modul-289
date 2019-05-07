@@ -9,7 +9,8 @@ Zusammenfassend solltet ihr also folgende Informationen präsentieren:
 * Stärken und Schwächen des Teams
 
 ### Thema
-* Kurze Zusammenfassung des Themas
+* Auftraggeber (Firma/Verein/Projekt)
+* Kurze Zusammenfassung des Themas (maximal 500 Zeichen)
 * Ziel des Internetauftritts (SMART)
 * Geplante Überprüfung der Ziele
 * Hauptzielgruppe des Internetauftritts (Personas)

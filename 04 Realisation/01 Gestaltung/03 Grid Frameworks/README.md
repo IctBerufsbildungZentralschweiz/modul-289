@@ -9,6 +9,8 @@ Die Nutzung eines Grid-System ist sehr hilfreich bei der Gestaltung von Websites
 
 [Die Grundlagen eines solchen Grid-Systems, sind auf diesem Beispiel sehr gut sichtbar.](https://www.w3schools.com/css/tryresponsive_grid.htm)
 
+## Technische Umsetzung
+
 Die Grundlagen eines Grid-Frameworks sind meistens mehrere vordefinierte CSS-Klassen. Mit Hilfe der Klassen kann der Inhalt der Seite einfach strukturiert werden:
 
 ```css
