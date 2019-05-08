@@ -8,4 +8,4 @@ Nachdem wir alles für das Projekt vorbereitet haben, können wir mit der Instal
 
 Um die Erstellung der Datenbank müsst ihr euch nicht mehr kümmern. Die nötigen Zugangsdaten findet ihr im Moodle.
 
-**Wichtig**: Beachtet dabei die Gruppenzuweisung, da ihr sonst einer anderen Gruppe ihr Projekt überschreibt.
+**Wichtig**: Beachtet dabei die Gruppenzuweisung, da ihr sonst das Projekt einer anderen Gruppe überschreibt.
