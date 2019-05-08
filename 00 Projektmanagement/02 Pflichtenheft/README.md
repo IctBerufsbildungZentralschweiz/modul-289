@@ -43,8 +43,7 @@ anderssprachige Besucher die Möglichkeit haben die Inhalte zu lesen. Aus diesem
  *Beispiel: Newsblog, Inhaltsblog, Regelmässige Ausschreibungen (Stellen)...*
  
  #### Suchmaschinenoptimierungen
- Damit die Seite möglichst gut gefunden wird, soll die Seite auch für die Suchmaschinenindexierung optimiert werden. 
- Zwei wichtige Instrumente sind dabei die Bereitstellung einer Sitemap und eine saubere Titelstruktur.
+ Damit die Seite möglichst gut gefunden wird, soll die Seite auch für die Suchmaschinenindexierung optimiert werden. Zwei wichtige Instrumente sind dabei die Bereitstellung einer Sitemap und eine saubere Titelstruktur.
 
 
 ## Kann-Anforderungen
