@@ -10,18 +10,3 @@
 | Template              | Das Template ist gleichwertig mit einer Seitenvorlage. Das Template   definiert das Aussehen und die Struktur der jeweiligen Seite, jedoch nicht   den Inhalt. Erst das CMS nimmt die jeweiligen Inhalte und füllt diese in die   Seitenvorlage ein und zeigt diese im Frontend an.                                                                                                                                                                                                                                                                            |
 
 ![Komponente eines CMS](res/06.jpg)
-
-## Marktanteil der Content Management Systeme
-
-|             | Anteil Einsatz insgesamt Websites | Anteil Einsatz bei Websites mit CMS |
-|-------------|---------------------------------:|------------------------------------:|
-| WordPress   |                           33.8%  |                        60.6%        |
-| Joomla      |                            2.9%  |                         5.2%        |
-| Drupal      |                            1.9%  |                         3.4%        |
-| Squarespace |                            1.5%  |                         2.7%        |
-| Wix         |                            1.1%  |                         1.9%        |
-| TYPO3       |                            0.7%  |                         1.2%        |
-| October CMS |                            0.1%  |                         0.1%        |
-
-
-Quelle: [https://w3techs.com/technologies/overview/content_management/all/](https://w3techs.com/technologies/overview/content_management/all/)
