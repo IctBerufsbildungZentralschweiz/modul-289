@@ -1,5 +1,5 @@
 # Status-Update
-Der Kunde möchte wissen, wie ihr mit dem Projekt voran kommt. Darum wird es Zeit für ein kleines Status-Update. Ihr informiert dabei euren Kunden über den akzuellen Zwischenstand der Arbeiten, Problemen und Erfolgen. Das Status-Update findet ab 15.45 Uhr (Zeit kann durch Kursleiter angepasst werden) des dritten Kurstages statt. Die folgenden Informationen müssen bis dahin aufbereitet und kurz zusammengefasst werden.
+Der Kunde möchte wissen, wie ihr mit dem Projekt voran kommt. Darum wird es Zeit für ein kleines Status-Update. Ihr informiert dabei euren Kunden über den akzuellen Zwischenstand der Arbeiten, Problemen und Erfolgen. Das Status-Update findet ab 14.45 Uhr (Zeit kann durch Kursleiter angepasst werden) des dritten Kurstages statt. Die folgenden Informationen müssen bis dahin aufbereitet und kurz zusammengefasst werden.
 
 ### Projektstatus
 * Aktuelle Situation - sind wir auf Kurs?
