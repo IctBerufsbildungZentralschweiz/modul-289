@@ -17,7 +17,6 @@ Mit einem Wireframe sollten folgende W-Fragen beantwortet werden:
 * Die Struktur der Informationen (WO)
 * Die grundlegende Visualisierung der Benutzerschnittstellen (WIE)
 
-[Google Maps - Wireframe](https://www.google.ch/maps/place/ICT+Berufsbildung+Zentralschweiz/@47.0715163,8.3465601,17z/data=!3m1!4b1!4m5!3m4!1s0x478ffc03f44a7433:0xa693809437ac2778!8m2!3d47.0715127!4d8.3487488)
 
 ### Einsatz von Wireframes
 Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet um eine grobe Darstellung der Weblösung zu skizzieren. Sie können auch in einer weniger formellen Weise verwendet werden. Da sie schnell und einfach erstellt werden können, dienen sie als Skizzen für interne Besprechungen mit dem Team. Sie können Wireframes sowohl für grössere als auch für kleinere Aufgaben verwenden. Dies beseitigt Missverständnisse und ist extrem kostengünstig.
