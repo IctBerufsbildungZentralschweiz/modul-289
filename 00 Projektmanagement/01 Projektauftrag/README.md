@@ -16,7 +16,7 @@ Zum Projekt erarbeitet ihr ein Konzept, dazu könnt ihr die vorbereitete Word-Vo
 ## Bewertung
 1. Projektarbeit (70%)
 2. Konzeption / Präsentationen (15%)
-3. Lernkontrollen (15%)
+3. Lernkontrolle (15%)
 4. Selbst-Sozialkompetenz (informativ)
 
 ## Projektablauf
