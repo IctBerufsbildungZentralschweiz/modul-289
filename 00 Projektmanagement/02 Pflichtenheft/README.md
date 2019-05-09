@@ -7,7 +7,7 @@ Diese Anforderungen müssen ohne Wenn und Aber auf der Website integriert/umgese
 #### Gestaltung und Usability
 Die Website soll ansprechend und benutzerfreundlich gestaltet werden. Sowohl der Aufbau des Inhaltes, als auch die Struktur der Navigation soll den Ansprüchen nach einer hohen Usability gerecht werden.
 
-#### Performace
+#### Performance
 Die Seite soll neben einem ansprechenden und benutzerfreundlichen Design auch angenehm zu bedienen sein. Aus 
 diesem Grund gilt ein besonderes Augenmerk auf die Seitenladegeschwindigkeit zu legen.
 
