@@ -20,7 +20,7 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 <html lang="de">
 <head>
 	<meta charset="UTF-8">
-	<title>Beispielseite</title>
+	<title>{{ this.page.title }}</title>
 </head>
 <body>
 	<h2>Standardlayout</h2>
