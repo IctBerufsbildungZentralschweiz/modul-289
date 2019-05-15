@@ -21,6 +21,7 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 <head>
 	<meta charset="UTF-8">
 	<title>{{ this.page.title }}</title>
+	{% styles %}
 </head>
 <body>
 	<h2>Standardlayout</h2>
@@ -28,6 +29,7 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 	{% page %}
 
 	<script src="{{ [ '@jquery', '@framework' ] | theme }}"></script>
+	{% scripts %}
 </body>
 </html>
 ```
