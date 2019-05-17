@@ -88,19 +88,3 @@ Der Vorteil von WebP ist also, dass es die Vorzüge von JPG und PNG in einem Bil
 Wichtig ist es nicht nur die Bilder im richtigen Bildformat bereitzustellen, sondern auch in einer angemessenen Grösse. Bilder sollten immer in der Grösse bereitgestellt werden, in der sie tatsächlich im Web verwendet werden.
 
 Hier noch ein nützliches Werkzeug um mehrere Fotos miteinander zu verarbeiten: [Bulk Resize Photos](https://bulkresizephotos.com/).
-
-# Rechte an Bildern & Inhalten
-
-> Alle Inhalte im Internet sind grundsätzlich urheberrechtlich geschützt und dürfen nicht öffentlich verbreitet werden. Das gilt für Musik, die zwar frei aus dem Web kopiert, aber nur im privaten Kreis ab­gespielt und weitergegeben werden darf, ebenso wie für Fotos: Als Desktop-Hintergrund, Schlafzimmerposter oder Illustra­tion in einer E-Mail an Freunde darf man jedes Bild verwenden. Auf einer öffentlich zugänglichen Homepage aber eben nicht.
-
--- [Beobachter Konsum](https://www.beobachter.ch/konsum/webdesign-die-sache-mit-dem-copyright)
-
-Somit sollten ein Website-Betreiber immer die nötigen Rechte für Bilder haben, welche auf seiner Website gezeigt werden. Mögliche Plattformen für den Erwerb von Bild-Lizenzen:
-
-- [Fotolia](https://de.fotolia.com/)
-- [Shutterstock](https://www.shutterstock.com)
-
-Daneben gibt es auch noch komplett kostenlose Bildportale. Meistens sind die Aufnahmen von Amateur- und Hobbyfotografen, die aber deshalb nicht schlechter sein müssen:
-
-- [Pixabay](https://pixabay.com/de/)
-- [Pixelio](https://www.pixelio.de/)
