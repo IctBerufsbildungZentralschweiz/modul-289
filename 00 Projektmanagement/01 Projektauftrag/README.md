@@ -23,14 +23,14 @@ Zum Projekt erarbeitet ihr ein Konzept, dazu könnt ihr die vorbereitete Word-Vo
 ### 1. Schritt: Informationsphase: 
 - Projektauftrag (Vorlage vervollständigen) 
 - Brainstorming
-- Wireframe 
+- Detaillierte Sketches 
 - Erste Kundensitzung: Briefing (Abgabe Projektauftrag) 
 
 ### 2. Schritt: Planungsphase 
 - Definition / Entwicklung Visual Design
 - Definition Funktionen
 ### 3. Schritt: Entscheidungsphase 
-- Zweite Kundensitzung: Design (Abgabe Wireframes, Visual Designs) 
+- Zweite Kundensitzung: Design (Abgabe Sketches, Visual Designs) 
 ### 4. Schritt: Realisationsphase 
 - Technische und gestalterische Umsetzung 
 ### 5. Schritt: Kontrollphase 

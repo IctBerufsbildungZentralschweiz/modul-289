@@ -11,6 +11,6 @@ Beim ersten Projektbriefing handelt es sich um eine interne Information innerhal
 * Kurze Zusammenfassung des Themas (maximal 500 Zeichen)
 * Ziel des Internetauftritts (SMART)
 * Geplante Überprüfung der Ziele
-* Hauptzielgruppe des Internetauftritts (Personas)
+* Hauptzielgruppe des Internetauftritts (mind. 2 Personas)
 
 **ACHTUNG:** Die Präsentation ist Bewertungsrelevant und soll nicht nur aus dem Zeigen des ausgefüllten Konzeptes bestehen.

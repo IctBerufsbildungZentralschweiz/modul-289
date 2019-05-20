@@ -7,6 +7,11 @@ Je nach Auftrag werden nun die möglichen Lösungsvarianten und das Vorgehen aus
 * Wer bearbeitet welche Teilaufgabe? 
 * Welche Hilfsmittel und Tools werden gebraucht?
 
+## Sketches
+Ist grundsätzlich nur eine grobe, hangezeichnete Zeichnung auf einem Blatt Papier. Die Skizze repräsentiert die geplante Website nur sehr abstrakt und dient mehr als Diskusionsgrundlage und weniger als Designvorlage. Das Ziel ist die Visualisierung von ersten Ideen und damit die Schaffung einer Gesprächsgrundlage für die Diskussion mit Teamkollegen und Auftraggebern.
+
+Einige Beispiele: [Handgezeichnete Sketches (und Wireframes)](https://speckyboy.com/web-mobile-wireframe-sketch-examples/)
+
 ## Wireframes
 Wireframe bedeutet so viel wie Drahtgerüst und ist eine schnelle und grobe Wiedergabe eines Designs. 
 
@@ -23,6 +28,8 @@ Wireframes werden hauptsächlich in der Anfangsphase eines Projektes verwendet u
 
 ### Einordnung des Wireframes
 ![Wireframe](res/unterschied-wireframe-mockup.png)
+
+Bemerkung: Je nach Detailgrad der Skizzen ist es schwierig eine klare Grenze zwischen Sketch und Wireframe zu ziehen.
 
 ### Hilfsmittel
 * [Adobe XD](https://www.adobe.com/ch_de/products/xd.html) - Programm

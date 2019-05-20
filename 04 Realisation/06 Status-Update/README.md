@@ -7,7 +7,7 @@ Der Kunde möchte wissen, wie ihr mit dem Projekt voran kommt. Darum wird es Zei
 * Geplanter nächster Schritt
 
 ### Visual Design
-* Wireframes - Gibt es Änderungen? (Begründung)
+* Sketches - Gibt es Änderungen? (Begründung)
 * Styleguide - Gibt es Änderungen? (Begründung)
 * Mockups
 
