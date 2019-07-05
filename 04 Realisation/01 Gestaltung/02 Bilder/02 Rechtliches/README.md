@@ -16,7 +16,7 @@ Daneben gibt es auch noch komplett kostenlose Bildportale. Meistens sind die Auf
 
 ## Vorsicht, Urheberrecht: Bilder im Internet rechtssicher verwenden
 
-Zu diesem komplexen Thema hat der Rechtsanwalt Martin Steiger im Auftrag der [Cyon AG](https://www.cyon.ch) einen Blogbeitrag erstellt. Darin hat er drei Faustregeln für die rechtssichere Verwendung von Bildern zusammengestellt:
+Zu diesem komplexen Thema hat der Rechtsanwalt Martin Steiger im Auftrag der [Cyon AG](https://www.cyon.ch) einen Blogbeitrag erstellt. Darin hat er vier Faustregeln für die rechtssichere Verwendung von Bildern zusammengestellt:
 
 > **Erste Faustregel:** Grundsätzlich sind Bilder urheberrechtlich geschützt. Als Website-Betreiber muss man immer wissen, wieso und wofür ein einzelnes Bild im Internet verwendet werden darf.
 
