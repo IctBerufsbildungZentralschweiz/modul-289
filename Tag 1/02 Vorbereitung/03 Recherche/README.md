@@ -42,6 +42,6 @@ Die Entwickler-Rolle hat in den meisten Fällen ebenfalls uneingeschränkten Zug
 Ein Publisher kann die Inhalte des CMS verwalten. Er kann keine technischen Einstellungen (Updates, Plugins etc.) des CMS verändern.
 
 ## Aufgabe: Recherche
-Bevor wir also mit dem eigentlichen Projekt beginnen, wollen wir uns zuerst einen Überblick in die einzelnen Projektthemen verschaffen. Dafür habt ihr jetzt einen Promodoro Zeit, um den Markt zu analysieren (Wettbewerbsanalyse) und eure typischen Websitebesucher (Personas) zu definieren. Mach Dir ausserdem Gedanken darüber, wer die Inhalte im CMS bewirtschaften wird und welche Rechte dafür benötigt werden.
+Bevor wir also mit dem eigentlichen Projekt beginnen, wollen wir uns zuerst einen Überblick in die einzelnen Projektthemen verschaffen. Dafür habt ihr jetzt einen Pomodoro Zeit, um den Markt zu analysieren (Wettbewerbsanalyse) und eure typischen Websitebesucher (Personas) zu definieren. Mach Dir ausserdem Gedanken darüber, wer die Inhalte im CMS bewirtschaften wird und welche Rechte dafür benötigt werden.
 
 Falls noch Zeit: Könnt ihr eventuell bereits eine erste Liste mit Themen zusammentragen, die ihr auf eurer Website (vor allem Blog) aufgreifen möchtet.
