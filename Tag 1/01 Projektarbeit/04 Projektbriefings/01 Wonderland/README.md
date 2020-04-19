@@ -29,6 +29,7 @@ Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
 * [Helles Logo](src/logo_white.svg)
 * [Dunkle Grafik](src/figure_dark.svg)
 * [Gelbe Grafik](src/figure_yellow.svg)
+* [Design Guidelines](src/guidelines.jpg)   
 
 ##### Hauptbilder
 Alle Bilder des Designs sind lizenzfrei und von Unsplash. Diese können ohne Absprache mit dem Auftraggeber ersetzt werden:
