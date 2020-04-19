@@ -5,16 +5,16 @@ Um das Projekt in die richtige Richtung zu lenken, haben wir (Auftraggeber) ein 
 Diese Anforderungen müssen ohne Wenn und Aber auf der Website integriert/umgesetzt werden.
 
 #### Gestaltung umsetzen
-Die Gestaltung der Website soll entsprechend der Designvorlage umgesetzt werden. Allfällige Änderungen oder Anpassungen können vom Projektteam vorgeschlagen werden, müssen jedoch mit dem Auftraggeber besprochen werden.
+Die Gestaltung der Website soll entsprechend der Designvorlage umgesetzt werden. Allfällige Änderungen oder Anpassungen können vom Projektteam vorgeschlagen werden, müssen jedoch vom Auftraggeber (Kursleiter) abgesegnet werden.
 
 #### Responsive Design
-Websites werden heutzutage zu einem Grossteil mit mobilen Endgeräten besucht. Aus diesem Grund muss die Website auch auf mobilen Geräten optimal angezeigt werden. Für die mobile Umsetzung wurde vom Grafikbüro kein Vorschlag erarbeitet und ihr könnt dieses selber adaptieren.
+Websites werden heutzutage zu einem Grossteil mit mobilen Endgeräten besucht. Aus diesem Grund muss die Website auch auf mobilen Geräten optimal angezeigt werden. Für die mobile Anzeige wurde vom Grafikbüro kein Vorschlag erarbeitet und ihr könnt diesen selber von der Desktop-Version adaptieren.
 
 #### Performance
 Die Seite soll neben einem ansprechenden und benutzerfreundlichen Design auch angenehm zu bedienen sein. Aus diesem Grund gilt ein besonderes Augenmerk auf die Seitenladegeschwindigkeit zu legen.
 
 #### Inhalte
-[TBD]
+Die Inhalte der Projekte bieten Platz für Interpretationen, den ihr auch ausnutzen könnt. Entsprechend können die Themen für die einzelnen Bereiche frei gewählt werden. Nichtsdestotrotz soll insgesamt ein stimmiges Bild vom Inhalt entstehen und es dürfen keine Fülltexte (Lorem ipsum) verwendet werden.
 
 #### Formular
 Das Formular muss statisch umgesetzt werden und die erfassen Informationen (Bestellung, Anmeldung, Kontaktaufnahme) müssen weiterverarbeitet werden (Email, Datenbank).
@@ -29,18 +29,19 @@ Das Benutzermanagement soll sinnvoll eingerichtet sein. So sollen Benutzergruppe
 Um auf Nummer sicher zu gehen, soll neben den Website-Funktionen noch eine Backup-Routine implementiert werden. Diese soll sämtliche Daten in regelmässigen Abständen sichern.
 
 ## Darf-Anforderungen
-Wäre wünschenswert, darf jedoch auch ohne Begründung weggelassen werden.
+Sofern ihr die Pflichtvoraussetzungen erfüllt habt, könnt ihr das Projekt noch mit folgenden Darf-Anforderungen ergänzen. Die Erfüllung dieser Anforderungen werden mit zusätzlichen Punkten in der Bewertung belohnt:
 
 #### Slideshow
-Wir wollen unsere Inhalte nicht nur als Text transportieren, sondern auch mit Bildern. Dazu soll mindestens eine Slideshow auf der Website implementiert werden.
-
-#### WOW-Effekt
-Wir wollen uns von unserer Konkurrenz abheben. Dazu wünschen wir uns, wenn wir mindestens an einem Punkt der Website ein «WOW»-Effekt beim Besucher erzielen können.
+Wir wollen unsere Inhalte nicht nur als Text transportieren, sondern auch mit Bildern. Dazu soll eine Slideshow auf der Website implementiert werden.
 
 #### Suche
-Um trotz mehrstufiger Navigation den Überblick auf der Website nicht zu verlieren, soll eine Suchfunktion eingebaut werden. Mit dieser sollen sämtliche Inhalte der Website durchsuchbar werden.
+Um einen Überblick über alle Inhalte der Website zu erhalten, soll eine Suchfunktion eingebaut werden. Mit dieser sollen sämtliche Inhalte der Website durchsuchbar werden.
 
 #### Mehrsprachigkeit
 Die Website soll zwar hauptsächlich in der deutschsprachigen Schweiz verfügbar sein, jedoch sollen auch 
-anderssprachige Besucher die Möglichkeit haben die Inhalte zu lesen. Aus diesem Grund soll die Website mindestens in
- zwei Sprachen verfügbar sein.
+anderssprachige Besucher die Möglichkeit haben die Inhalte zu lesen. Aus diesem Grund soll die Website in einer Zweitsprache verfügbar sein.
+
+Hierbei müssen nicht alle Inhalte übersetzte werden, sondern es dürfen für die Zweitsprache Fülltexte (Lorem ipsum) verwendet werden.
+
+#### WOW-Effekt
+Wir wollen uns von unserer Konkurrenz abheben. Dazu wünschen wir uns, wenn wir mindestens an einem Punkt der Website ein «WOW»-Effekt beim Besucher erzielen können.
