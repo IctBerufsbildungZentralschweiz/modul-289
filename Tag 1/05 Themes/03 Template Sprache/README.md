@@ -21,7 +21,7 @@ Dieser Code lädt das Partial aus `themes/dein-theme/partials/mein-partial.htm`.
 
 ### Content einbinden
 
-Um ein Partial einzubinden verwende folgende Syntax:
+Um Content einzubinden verwende folgende Syntax:
 
 ```twig
 {% content 'mein-inhalt' %}

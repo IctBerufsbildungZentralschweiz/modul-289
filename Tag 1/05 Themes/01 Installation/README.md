@@ -20,14 +20,19 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 <html lang="de">
 <head>
 	<meta charset="UTF-8">
+	<meta name="author" content="EURE NAMEN">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ this.page.title }}</title>
 	{% styles %}
 </head>
 <body>
-	<h2>Standardlayout</h2>
+    <!-- Header -->
+	<h2>Standardlayout - {{ this.page.title }}</h2>
 
+    <!-- Content -->
 	{% page %}
 
+    <!-- Scripts -->
 	<script src="{{ [ '@jquery', '@framework' ] | theme }}"></script>
 	{% scripts %}
 </body>
