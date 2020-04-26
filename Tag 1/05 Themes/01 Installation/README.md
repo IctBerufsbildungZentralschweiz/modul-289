@@ -48,4 +48,4 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 <p>Mein Seiteninhalt</p>
 ```
 
-Wenn du deine Website erneut aufrust sollte deine neu erstellte Seite nun erscheinen.
+Wenn du deine Website erneut aufrufst sollte deine neu erstellte Seite nun erscheinen.
