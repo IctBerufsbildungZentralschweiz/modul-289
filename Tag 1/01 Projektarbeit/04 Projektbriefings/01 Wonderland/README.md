@@ -1,11 +1,11 @@
-# Travelblog
-Das Team rund um den Travelblog «Wonderland» möchte einen neuen Travelblog. Der Travelblog besteht aus folgenden Seiten:
+# Reiseblog
+Das Team rund um den Travelblog «Wonderland» möchte einen neuen Internetauftritt. Der Travelblog besteht aus folgenden Seiten:
 
 ##### Startseite
 Auf der Startseite soll es einen Platz geben, um Inhalte einer Unterseite (Blog, Destinationen) hervorzuheben. Der Inhalt dieses Bereichs wird regelmässig ausgetauscht. Dafür kann auf der Startseite ein Titel, Text, Bild und Link erfasst werden. Im zweiten Teil der Seite sollen die drei neusten Blogbeiträge präsentiert werden.
 
 ##### Reiseblog
-Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
+Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
 
 ##### Destinationen
 Auf der Seite «Destinationen» soll eine Liste sämtlicher Destinationen erscheinen, welche die Reiseblogger bereits besucht haben. Dabei können die besuchten Städte und die Anzahl Besuche erfasst und angezeigt werden.
@@ -14,10 +14,10 @@ Auf der Seite «Destinationen» soll eine Liste sämtlicher Destinationen ersche
 Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und Antworten von den Followern angezeigt.
 
 ##### About us
-Auf der Seite «About us» werden sämtliche Teammitglieder mit Foto, Name, Funktion und Email-Adresse angezeigt.
+Auf der Seite «About us» werden sämtliche Teammitglieder mit Foto, Name, Funktion und Email-Adresse vorgestellt.
 
 ##### Kontakt
-Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz von Wonderland angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
+Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Gestaltungsguidelines & Screendesigns
 Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/a5450c6d-2c14-4b17-5713-3f7bbc99351b-d374/?fullscreen&hints=off)

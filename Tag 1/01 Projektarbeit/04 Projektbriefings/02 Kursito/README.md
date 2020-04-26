@@ -5,7 +5,7 @@ Das Team rund um die Online-Kurs-Website «Kursito» möchte einen neuen Webauft
 Auf dem Titelbild der Startseite soll prominent zum Lernblog und zu den Kursen verlinkt werden. Ausserdem wünscht der Kunde die Möglichkeit ein Zitat auf der Seite zu platzieren. Das Zitat soll in regelmässigen Abständen ausgetauscht werden. Im zweiten Teil der Seite sollen die drei neusten Blogbeiträge präsentiert werden. 
 
 ##### Lernblog
-Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
+Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
 
 ##### Kurse
 Auf der Seite «Kurse» soll eine Liste sämtlicher Kurse erscheinen, welche Kursito anbietet. Dabei sollen die noch freien Kursplätze erfasst und angezeigt werden können.
@@ -17,7 +17,7 @@ Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und An
 Auf der Seite «Coaches» werden sämtliche Teammitglieder mit Foto, Name und Ausbildung angezeigt.
 
 ##### Kontakt
-Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz von Kursito angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
+Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Kursito AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Gestaltungsguidelines & Screendesigns
 Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/ddd50beb-1ec9-4d6d-60f3-b3ed635a4100-abe4/?fullscreen&hints=off)

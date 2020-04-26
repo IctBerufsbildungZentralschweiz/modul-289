@@ -5,7 +5,7 @@ Um das Projekt in die richtige Richtung zu lenken, haben wir (Auftraggeber) ein 
 Diese Anforderungen müssen ohne Wenn und Aber auf der Website integriert/umgesetzt werden.
 
 #### Gestaltung umsetzen
-Die Gestaltung der Website soll entsprechend der Designvorlage umgesetzt werden. Allfällige Änderungen oder Anpassungen können vom Projektteam vorgeschlagen werden, müssen jedoch vom Auftraggeber (Kursleiter) abgesegnet werden.
+Die Gestaltung der Website soll entsprechend der Designvorlage umgesetzt werden. Allfällige Änderungen oder Anpassungen können vom Projektteam mit einer entsprechenden Begründung vorgeschlagen werden. Die Entscheidung über die Annahme einer Anpassung, behält der Auftraggeber (Kursleiter).
 
 #### Responsive Design
 Websites werden heutzutage zu einem Grossteil mit mobilen Endgeräten besucht. Aus diesem Grund muss die Website auch auf mobilen Geräten optimal angezeigt werden. Für die mobile Anzeige wurde vom Grafikbüro kein Vorschlag erarbeitet und ihr könnt diesen selber von der Desktop-Version adaptieren.
@@ -17,7 +17,7 @@ Die Seite soll neben einem ansprechenden und benutzerfreundlichen Design auch an
 Die Inhalte der Projekte bieten Platz für Interpretationen, den ihr auch ausnutzen könnt. Entsprechend können die Themen für die einzelnen Bereiche frei gewählt werden. Nichtsdestotrotz soll insgesamt ein stimmiges Bild vom Inhalt entstehen und es dürfen keine Fülltexte (Lorem ipsum) verwendet werden.
 
 #### Formular
-Das Formular muss statisch umgesetzt werden und die erfassen Informationen (Bestellung, Anmeldung, Kontaktaufnahme) müssen weiterverarbeitet werden (Email, Datenbank).
+Allfällige Formulare (Bestellung, Anmeldung, Kontaktaufnahme) müssen die erfassten Informationen in einer Form weiterverarbeiten (Email, Datenbank).
 
 #### User management
 Das Benutzermanagement soll sinnvoll eingerichtet sein. So sollen Benutzergruppen nur immer die Rechte erhalten, welche sie auch tatsächlich benötigen.
@@ -38,10 +38,10 @@ Wir wollen unsere Inhalte nicht nur als Text transportieren, sondern auch mit Bi
 Um einen Überblick über alle Inhalte der Website zu erhalten, soll eine Suchfunktion eingebaut werden. Mit dieser sollen sämtliche Inhalte der Website durchsuchbar werden.
 
 #### Mehrsprachigkeit
-Die Website soll zwar hauptsächlich in der deutschsprachigen Schweiz verfügbar sein, jedoch sollen auch 
+Die Website richtet sich zwar primär an deutschsprachige Personen, jedoch sollen auch 
 anderssprachige Besucher die Möglichkeit haben die Inhalte zu lesen. Aus diesem Grund soll die Website in einer Zweitsprache verfügbar sein.
 
-Hierbei müssen nicht alle Inhalte übersetzte werden, sondern es dürfen für die Zweitsprache Fülltexte (Lorem ipsum) verwendet werden.
+Hierbei müssen nicht alle Inhalte übersetzte werden, für die zweite Sprache dürfen Fülltexte (Lorem ipsum) verwendet werden.
 
 #### WOW-Effekt
 Wir wollen uns von unserer Konkurrenz abheben. Dazu wünschen wir uns, wenn wir mindestens an einem Punkt der Website ein «WOW»-Effekt beim Besucher erzielen können.

@@ -8,7 +8,7 @@ Auf der Seite soll der Standort des Hauptsitz via Google-Maps angezeigt werden (
 Auf dem Bild auf der Startseite soll eine präsente Überschrift und Kurztext platziert werden. Dieser wird in regelmässigen Abständen ausgetauscht. Im zweiten Teil der Seite sollen die drei neusten Blogbeiträge präsentiert werden.
 
 ##### Inselblog
-Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
+Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
 
 ##### Services
 Auf der Seite «Services» soll eine Liste sämtlicher Services erscheinen, welche Nexus anbietet. Dabei kann der Preis des entsprechende Service erfasst und angezeigt werden.

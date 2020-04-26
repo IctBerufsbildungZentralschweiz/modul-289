@@ -5,7 +5,7 @@ Die Techowls möchte eine neue Website für ihre Technik-Website. Der Internetau
 Im oberen Teil der Seite sollen drei Boxen platziert werden. Diese Verweisen auf die Hauptteile (Blog, Test und About) der Website. Im zweiten Teil der Seite sollen die vier neusten Blogbeiträge präsentiert werden.
 
 ##### Techblog
-Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
+Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
 
 ##### Tests
 Auf der Seite «Tests» soll eine Liste sämtlicher Tests erscheinen, welche die Techowls gemacht haben. Dabei soll zu jedem Test das Ergebnis erfasst und angezeigt werden können.

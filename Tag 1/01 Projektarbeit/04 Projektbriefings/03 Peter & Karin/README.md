@@ -5,7 +5,7 @@ Peter und Karin möchten für ihre Website eine Websit erstellen. Die Website be
 Auf der Startseite soll als erstes das Brautpaar mit Foto und Namen präsentiert werden.  Im zweiten Teil der Seite sollen die drei neusten Blogbeiträge präsentiert werden. 
 
 ##### Hochzeitsblog
-Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
+Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
 
 ##### Wunschliste
 Auf der Seite «Wunschliste» soll eine Liste sämtlicher Wünsche des Hochzeitspaar erscheinen. Dabei soll angezeigt werden, wie viel sich das Hochzeitspaar von etwas wünscht.
