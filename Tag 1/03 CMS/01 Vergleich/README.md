@@ -21,12 +21,13 @@ Anschliessend werden die einzelnen CMS kurz von der jeweiligen Spezialisten-Grup
 
 |             | Anteil Einsatz insgesamt Websites | Anteil Einsatz bei Websites mit CMS |
 |-------------|---------------------------------:|------------------------------------:|
-| WordPress   |                           33.8%  |                        60.6%        |
-| Joomla      |                            2.9%  |                         5.2%        |
-| Drupal      |                            1.9%  |                         3.4%        |
-| Squarespace |                            1.5%  |                         2.7%        |
-| Wix         |                            1.1%  |                         1.9%        |
-| TYPO3       |                            0.7%  |                         1.2%        |
+| WordPress   |                           35.9%  |                        63.2%        |
+| Joomla      |                            2.4%  |                         4.2%        |
+| Shopify     |                            2.2%  |                         3.9%        |
+| Drupal      |                            1.6%  |                         3.8%        |
+| Squarespace |                            1.4%  |                         2.5%        |
+| Wix         |                            1.3%  |                         2.3%        |
+| TYPO3       |                            0.3%  |                         0.6%        |
 | October CMS |                            0.1%  |                         0.1%        |
 
 
