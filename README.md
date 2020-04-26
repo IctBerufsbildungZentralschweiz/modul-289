@@ -5,10 +5,9 @@
 | Tag 1                        | Tag 2                        | Tag 3                       | Tag 4                       | Tag 5                       |
 |------------------------------|------------------------------|-----------------------------|-----------------------------|-----------------------------|
 | Begrüssung/Vorstellung       | Plugins                      | Bilder                      | Mobile Navigation           | Eigenständige Projektarbeit |
-| Projektvorbereitung          | Eigenständige Projektarbeit  | Suchmaschinen-Optimierung   | Eigenständige Projektarbeit |                             |
-| Einführung Pomodoro          |                              | Backup & Sicherheit         |                             |                             |
-| Regeln erarbeiten            |                              | Eigenständige Projektarbeit |                             |                             |
-| Vorbereitung Arbeitsumgebung |                              |                             |                             |                             |
+| Erarbeitung Arbeitstechnik   | Eigenständige Projektarbeit  | Suchmaschinen-Optimierung   | Eigenständige Projektarbeit |                             |
+| Einführung Projektarbeit     |                              | Backup & Sicherheit         |                             |                             |
+| Vorbereitung Arbeitsumgebung |                              | Eigenständige Projektarbeit |                             |                             |
 | Grundlagen CMS               |                              |                             |                             |                             |
 |                              |                              |                             |                             |                             |
 | Installation CMS             | Plugins selber programmieren | Testing                     | Eigenständige Projektarbeit | Fertigstellung des Projekts |
