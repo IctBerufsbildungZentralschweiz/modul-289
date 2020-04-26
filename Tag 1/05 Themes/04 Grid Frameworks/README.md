@@ -36,7 +36,7 @@ Die Grundlagen eines Grid-Frameworks sind meistens mehrere vordefinierte CSS-Kla
 ```
 
 ## Responsive Grid-System
-Das Grid-System ermöglicht es nicht nur die Struktur des Inhaltes auf einem Anzeigegerät zu bestimmen, sondern dieses auch je nach grösse des Anzeigegerätes anzupassen:
+Das Grid-System ermöglicht es nicht nur die Struktur des Inhaltes auf einem Anzeigegerät zu bestimmen, sondern dieses auch je nach Grösse des Anzeigegerätes anzupassen:
 
 ```css
 .col-1 {width: 8.33%;}
@@ -64,5 +64,3 @@ Das Grid-System ermöglicht es nicht nur die Struktur des Inhaltes auf einem Anz
   <div class="col-9 col-small-12">...</div> <!-- Desktop: 75% | Mobile: 100% -->
 </div>
 ```
-
-Ein Beispiel für eine Umsetzung befindet sich auf [dieser Seite](http://troolee.github.io/Gridstack.js/demo/responsive.html). Vergrössere und Verkleinere dazu das Browserfenster.
