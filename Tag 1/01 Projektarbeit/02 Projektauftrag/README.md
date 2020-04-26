@@ -5,6 +5,8 @@ In den kommenden fünf Kurstagen sind wir als Kursgruppe eine kleine Webagentur.
 
 ![Abgrenzung des Projektauftrags](src/abgrenzung-website.png)
 
+[Das Bild in Browser öffnen](src/abgrenzung-website.png).
+
 ## Grobziele des Projektes
 - Umsetzung eines Layouts in HTML/CSS
 - Umsetzung des Design in eine responsive Darstellung
