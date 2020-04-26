@@ -7,4 +7,4 @@ Diese teilen sich wiederum in folgende Arbeitsschritt auf:
 
 ![Zeitplanung Pomodoro Technik](src/steps-website.png)
 
-[Übersicht als PDF](src/OFFILNE_Erklaerung_Webprojektablauf.pdf)
+[Übersicht als PDF](src/OFFLINE_Erklaerung_Webprojektablauf.pdf)
