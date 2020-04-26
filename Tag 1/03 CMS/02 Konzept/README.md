@@ -10,3 +10,5 @@
 | Template              | Das Template ist gleichwertig mit einer Seitenvorlage. Das Template   definiert das Aussehen und die Struktur der jeweiligen Seite, jedoch nicht   den Inhalt. Erst das CMS nimmt die jeweiligen Inhalte und füllt diese in die   Seitenvorlage ein und zeigt diese im Frontend an.                                                                                                                                                                                                                                                                            |
 
 ![Komponente eines CMS](res/06.jpg)
+
+[Schritt für Schritt der Aufbau als PDF](res/Aufbau.pdf)
