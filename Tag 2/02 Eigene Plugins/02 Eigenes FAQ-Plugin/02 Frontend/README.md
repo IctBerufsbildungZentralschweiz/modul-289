@@ -62,5 +62,19 @@ Wenn wir die Fragen also als Liste ausgeben wollen, können wir das nötige HTML
 </ul>
 ```
 
-Ausserdem kannst Du auch die anderen Parameter aus deiner Komponente im Twig verwenden, wie zum Beispiel:
- `{{ __SELF__.noRecordsMessage }}`
+Ausserdem kannst Du auch die anderen Parameter aus deiner Komponente im Twig verwenden, wie zum Beispiel die `noRecordsMessage`:
+
+```twig
+<ul>
+    {% if __SELF__.records %}
+        {% for record in __SELF__.records %}
+            <li>
+                <strong>{{ record.question }}</strong><br>
+                {{ record.answer | raw }}
+            </li>
+        {% endfor %}
+    {% else %}
+        {{ __SELF__.noRecordsMessage }}
+    {% endif %}
+</ul>
+```
