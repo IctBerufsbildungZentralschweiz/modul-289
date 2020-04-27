@@ -1,15 +1,22 @@
-# Abschlusspräsentation
-Bei der Abschlusspräsentation habt ihr die Möglichkeit euer Projekt zu präsentieren und ins beste Licht zu rücken. Es geht darum den Kunden über den Projektablauf zu informieren und ihm das Ergebnis bestmöglich innerhalb von 10 Minuten zu präsentieren. Die Präsentation findet um 15.40 Uhr (Zeit kann durch Kursleiter angepasst werden) statt.
+# Abschlusspräsentationen
+Die Präsentation findet um 15.40 Uhr am letzten Kurstag (Zeit kann durch Kursleiter angepasst werden) statt.
+
+### Kundenpräsentation
+Bei der Kundenpräsentation habt ihr die Möglichkeit euer Projekt zu präsentieren und ins beste Licht zu rücken. Es geht darum dem Kunden das Endergebnis innert 5 Minuten möglichst schmackhaft zu machen. 
 
 Bezüglich Leitfaden habt ihr freie Hand. Als Gedankenanstoss jedoch hier einige Fragen, welche ihr in der Präsentation beantworte **könntet**:
+
+* Was macht unsere Website besonders?
+* Wieso ist unsere Website genau das, was der Kunde braucht?
+* Was für Möglichkeiten gäbe es, das Projekt weiterzuentwickeln?
+
+### Interne Präsentation
 
 * Wie sind wir beim Projektvorgegangen?
 * Wie sind wir von der ersten Skizze zum fertigen Design gekommen?
 * Haben wir spezielle Design-Elemente eingebaut?
 * Was macht unsere Website besonders?
-* Wieso ist unsere Website genau das, was der Kunde braucht?
 * Was kann sich der Kunde vom neuen Internetauftritt erhoffen?
-* Was für Möglichkeiten gäbe es, das Projekt weiterzuentwickeln?
 * u. v. m.
 
 ## Projektabgabe

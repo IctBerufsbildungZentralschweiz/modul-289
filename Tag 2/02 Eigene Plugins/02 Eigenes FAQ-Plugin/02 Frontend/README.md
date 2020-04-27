@@ -1,146 +1,66 @@
 # Frontend
-Die Daten sind nun also sortiert in unserer Datenbank. Jedoch wollen wir diese nicht nur speichern sondern auch im Frontend anzeigen.
+Die Daten sind nun also sortiert in unserer Datenbank. Jedoch wollen wir diese nicht nur speichern sondern auch im Frontend anzeigen. Wiederum unterstützt uns der Builder:
 
-#### Schritt 1: Componente erstellen
-Wie beim Menü können wir eine eigene Komponente für das Plugin schreiben, welche das Abfragen aus der Datenbank und das Anzeigen auf der Website für uns übernimmt.
+#### Schritt 1: Partial erstellen
+Gehe ins Backend und erstelle ein Partial, in dem du deine Inhalte auflisten möchtest.
 
-Dazu erstellen wir eine Plugin-Komponente:
-1. Geht dazu in euer Plugin-Ordner und erstellt den Ordner `components/`. 
-2. Erstelle darin eine PHP-Datei mit dem Namen eurer Komponente.
-3. Kopiere den [Vorlagen-Code](res/ComponentName.php) in die PHP-Datei und passe die Komponentenbezeichnung, den Autor-Namespace und den Plugin-Namespace entsprechend an.
-4. Erstelle einen Ordner der gleich heisst wie deine Komponente in Kleinbuchstaben und erstelle darin die Datei `default.htm`. Kopiere darin wiederum den Code aus dieser Datei.
+* `Dateiname` - gib dem Partial ein Dateinamen. Der Name wird nirgends angezeigt, jedoch die Informationen werden aus dem Partial werden in dieser Datei gespeichert.
+* `Beschreibung` - gib dem Partial eine Beschreibung, der dessen Inhalt beschreibt.
+* `Snippet code` - gib dem Partial einen **eindeutigen** Snippet code. Mit diesem kann dein Partial und somit auch die Inhalte aus deinem Plugin auf im Static Pages genutzt werden.
+* `Name` - gib deinem Partial einen Namen, damit du dieses später im Static Pages indentifizieren kannst.
 
-Für unser FAQ-Plugin bedeutet das also:
-1. Den Ordner `components/` im Plugin-Ordner erstellen.
-2. Wir wollen ja mit der Komponente eine Liste aller Fragen (und den dazugehörigen Fragen) ausgeben. Also erstellen wir im Ordner eine Datei mit der Bezeichnung: `QuestionsList.php`
-3. Nun kopieren wir den Vorlagen-Code und passen diesen entsprechend an. Das Ergebnis daraus sollte dann folgendermassen aussehen:
+![Partial für Komponente](res/01.jpg)
 
-```php
-<?php namespace Instruktor\Faq\Components;
+#### Schritt 2: Builder-Komponente einfügen
+Nun kannst du links auf Komponenten klicken und die `Builder > Record list` per Drag&Drop in den Markup-Bereich deines Partials ziehen.
 
-use Cms\Classes\ComponentBase;
+![Partial per Drag&Drop](res/02.jpg)
 
-class QuestionsList extends ComponentBase
-{
-    public function componentDetails()
-    {
-        return [
-            'name'        => 'Bezeichnung der Komponente',
-            'description' => 'Beschreibung der Komponente'
-        ];
-    }
+#### Schritt 3: Builder-Komponente konfigurieren
+Um der Biulder-Komponente mitzuteilen, welche Liste diese anzeigen soll, kannst du einfach auf die `Record list` Komponente in der orangen Fläche klicken. Nun kannst du unter anderem folgende Einstellungen vornehmen:
 
-    public function defineProperties()
-    {
-        return [];
-    }
-}
+
+![Einstellungen der Builder-Komponente](res/03.jpg)
+
+
+* `Verknüpfung` - das ist ein Alias, um später via Twig auf die Daten zuzugreifen.
+* `Model class` - hier kannst du definieren, welche Daten aus der Datenbank abgefragt werden sollen.
+* `Display column` - eine Spalte aus der Tabelle, die standardmässig angezeigt werden soll.
+* `No records message` - diese Nachricht wird angezeigt, wenn die Komponente keine passenden Daten in der Datenbank findet.
+
+**ACHTUNG:** Wenn die Verknüpfung geändert wurde, muss auch die Bezeichnung im Markup angepasst werden. In unserem Beispiel also: `{% component 'questionsList' %}`
+
+#### Schritt 4: Komponente platzieren
+Nun kannst du die Komponente beliebig in deinem Layout, einer CMS Seite oder einer Static Page (über Snippets) platzieren.
+
+Hier ein Beispiel für eine Static Page:
+
+![Komponente in Static Page](res/04.jpg)
+
+#### Schritt 5: Komponente überlagern
+In 99% aller Fälle reicht das Standard-Layout der Komponente nicht aus. Entsprechend wollen wir dieses überlagern. Dies funktioniert gleich wie bei den installierten Plugins in dem wir ein gleichnamiges Partial (gleich wie die Verknüpfung) im Theme-Ordner erstellen: 
+
+![Komponente überlagern](res/05.jpg)
+
+Die im Partial enthaltene `default.htm`-Datei überlagert die standardmässige Darstellung der Komponente.
+
+#### Schritt 6: Komponente individualisieren
+Die Daten können jetzt im `default.htm` einfach über die Komponenten-Variable `records` aufgerufen werden:
+
+``{{ __SELF__.records }}``
+
+Wenn wir die Fragen also als Liste ausgeben wollen, können wir das nötige HTML einfach drumherum bauen:
+
+```twig
+<ul>
+    {% for record in __SELF__.records %}
+        <li>
+            <strong>{{ record.question }}</strong><br>
+            {{ record.answer | raw }}
+        </li>
+    {% endfor %}
+</ul>
 ```
 
-4. Und nun erstellen wir noch die dazugehörige Ansicht mit dem Ordner `questionslist/` und der Datei `default.htm` mit dem dazugehörigen Vorlagen-Code.
-
-
-#### Schritt 2: Komponente registrieren
-Damit unser Plugin nun über die Existenz der Komponente Bescheid weiss, müssen wir die Komponente registrieren. Öffne dazu die Datei `Plugin.php` in deinem Plugin-Ordner und ergänze die Funktion `registerComponents()` mit deiner Komponente in dem du den Namespace zur Komponente hinterlegst und der Komponente einen eindeutigen Namen gibst:
-
-```php
-public function registerComponents()
-{
-    return [
-        '\InstruktorNamespace\PluginNamespace\Components\ComponentName' => 'componentName'
-    ];
-}
-```
-
-Oder in unserem Fall:
-
-```php
-public function registerComponents()
-{
-    return [
-        '\Instruktor\Faq\Components\QuestionsList' => 'questionsList'
-    ];
-}
-```
-
-##### Static Pages
-Damit die Komponenten nicht nur in den CMS Pages verfügbar sind, sondern auch in den Static Pages, muss die Komponente in der Datei `Plugin.php` noch speziell registriert werden. Füge dazu die folgende Funktion hinzu:
-
-```php
-public function registerPageSnippets() {}
-```
-
-Der Rückgabewert dieser Funktion ist wiederum gleich wie oben:
-
-```php
-public function registerPageSnippets() 
-{
-    return [
-        '\Instruktor\Faq\Components\QuestionsList' => 'questionsList'
-    ];
-}
-```
-
-Nach diesem Schritt kannst du auf einer Static Page auf Snippets klicken und dort solltest du die Komponente sehen und einbinden können:
-
-![Komponente auf Static Page einbinden](res/01.jpg)
-
-
-#### Schritt 3: Abfrage starten
-Nun können wir die Dateien aus der Datenbank abfragen. Gehe dazu in deine Komponente: `plugins/instruktor/faq/components/QuestionsList.php`.
-
-Als erstes entscheiden wir, mit welcher Variable unsere Werte aus der Datenbank an die Anzeige übergeben werden soll. Diese Variable definieren wir als `public` in der Klasse.
-
-In unserem Fall eignet sich die Variable `$questions`:
-
-```php
-class QuestionsList extends ComponentBase
-{
-    public $questions;
-    ...
-}
-```
-
-Anschliessend erstellen wir eine `onRun`-Methode. Diese wird automatisch vom October CMS beim Laden dieser Komponente ausgeführt. Das Ziel dieser Methode ist es, die gewünschten Daten in die oben definierte Variable zu speichern.
-
-
-```php
-class QuestionsList extends ComponentBase
-{
-    public $questions;
-    ...
-    public function onRun() {
-        $this->questions = /* Hier ist unsere Datenbankabfrage */
-    }
-}
-```
-
-Nun müssen wir nur noch die gewünschten Daten abrufen in dem wir den Namespace zum Model angeben und die statische Funktion `get()` darauf aufrufen:
-
-
-```php
-class QuestionsList extends ComponentBase
-{
-    public $questions;
-    ...
-    public function onRun() {
-        $this->questions = \Instruktor\Faq\Models\Question::get();
-    }
-}
-```
-
-**Geschafft**: Nun werden die Daten aus der Datenbank geladen und in die richtige Variable gespeichert. Mehr Programmieren müsst ihr für den Moment nicht :)
-
-#### Schritt 4: Daten anzeigen
-Nun geht es noch darum die Daten auf eurer Website anzuzeigen. Dazu könnt ihr in die Datei `questionslist/default.htm` wechseln. Dieser übergibt die `onRun`-Funktion sämtliche `public`-Variablen, die wir nun anzeigen können.
-
-Die `public`-Variablen können dazu in Twig mit ` __SELF__.variable` aufgerufen werden. Also in unserem Fall: ` __SELF__.questions`
-
-Die Daten können wir nun einfach via Twig-For-Schleife ausgeben:
-
-```php
-{% for item in __SELF__.questions %}
-    {{ item.question }}
-    {{ item.answer | raw }}
-{% endfor %}
-```
+Ausserdem kannst Du auch die anderen Parameter aus deiner Komponente im Twig verwenden, wie zum Beispiel:
+ `{{ __SELF__.noRecordsMessage }}`
