@@ -156,16 +156,16 @@ class Question extends Model
 
 
     /**
-     * @var string The database table used by the model.
-     */
-    public $table = 'instruktor_faq_questions';
-
-    /**
-     * @var array Validation rules
-     */
-    public $rules = [
-    ];
-}
+      * @var string The database table used by the model.
+      */
+     public $table = 'instruktor_faq_questions';
+ 
+     /**
+      * @var array Validation rules
+      */
+     public $rules = [
+     ];
+ }
 ```
 
 #### Fertig
