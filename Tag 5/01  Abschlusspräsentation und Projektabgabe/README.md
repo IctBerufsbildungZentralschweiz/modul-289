@@ -1,5 +1,5 @@
 # Abschlusspräsentationen
-Die Präsentation findet um 15.40 Uhr am letzten Kurstag (Zeit kann durch Kursleiter angepasst werden) statt. Die Präsentation dauert ungefähr 10 Minuten pro Gruppe.
+Die Präsentation findet um cirka 15.00 Uhr am letzten Kurstag (Zeit kann durch Kursleiter angepasst werden) statt. Die Präsentation dauert ungefähr 10 Minuten pro Gruppe.
 
 ### Kundenpräsentation
 Bei der Kundenpräsentation habt ihr die Möglichkeit euer Projekt zu präsentieren und ins beste Licht zu rücken. Es geht darum dem Kunden das Endergebnis innert 5 Minuten möglichst schmackhaft zu machen. 
