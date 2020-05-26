@@ -82,7 +82,7 @@ Unter Umständen soll ein eine Spalte (`column`) auf eine Dektop anders aussehen
 
 ```html
 <div class="columns is-mobile">
-  <div class="column is-three-quarters-mobile is-two-thirds-tablet is-half-desktop i">
+  <div class="column is-three-quarters-mobile is-two-thirds-tablet is-half-desktop">
     <code>is-three-quarters-mobile</code><br>
     <code>is-two-thirds-tablet</code><br>
     <code>is-half-desktop</code><br>
