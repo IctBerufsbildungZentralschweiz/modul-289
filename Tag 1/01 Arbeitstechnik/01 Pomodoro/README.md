@@ -14,7 +14,7 @@ Die Pomodoro-Technik besteht grundsätzlich aus folgenden 5 Schritten.
 5. nach spätestens vier Pomodori eine längere Pause einlegen
 
 ### 25 Minuten optimal nutzen
-Um die 25 Minuten optimal zu nutzen, sollten diese nicht nur für die Bearbeitung der Aufgabe genutzt werden, sondern auch für die Planung und Reflexion. Nehmt euch also auch Zeit, um die Bearbeitung eurer Aufgabe zu planen und zu reflektieren. Im Idealfall, werden werden die 25 Minuten wie folgt genutzt.
+Um die 25 Minuten optimal zu nutzen, sollten diese nicht nur für die Bearbeitung der Aufgabe genutzt werden, sondern auch für die Planung und Reflexion. Nehmt euch also auch Zeit, um die Bearbeitung eurer Aufgabe zu planen und zu reflektieren. Im Idealfall, werden die 25 Minuten wie folgt genutzt.
 
 ##### Normaler Ablauf eines Pomodoro
 
