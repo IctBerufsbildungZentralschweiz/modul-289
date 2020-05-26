@@ -1,5 +1,5 @@
 # Online Kurse
-Peter und Karin möchten für ihre Website eine Websit erstellen. Die Website besteht aus folgenden Seiten:
+Peter und Karin möchten für ihre Hochzeit eine Website erstellen. Die Website besteht aus folgenden Seiten:
 
 ##### Startseite
 Auf der Startseite soll als erstes das Brautpaar mit Foto und Namen präsentiert werden.  Im zweiten Teil der Seite sollen die drei neusten Blogbeiträge präsentiert werden. 
