@@ -54,7 +54,7 @@ Die anderen Spalten teilen den **restlichen** Platz unter sich auf.
 ### Responsive
 Standardmässig sind die `columns` nur bei der Anzeige grösseren Bildschirmen (Tablets und grösser) aktiviert. Somit werden die Spalten automatisch auf mobilen Geräten untereinander gestellt.
 
-Sollen die `columns` auf auf mobilen Geräten funktionieren, muss einfach die Klasse `is-mobile` beim Container hinzugefügt werden:
+Sollen die `columns` auch auf mobilen Geräten funktionieren, muss einfach die Klasse `is-mobile` beim Container hinzugefügt werden:
 
 ```html
 <div class="columns is-mobile">
