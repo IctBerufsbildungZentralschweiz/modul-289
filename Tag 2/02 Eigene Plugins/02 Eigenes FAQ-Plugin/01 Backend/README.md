@@ -114,7 +114,7 @@ Neben dem Namen erwartet der Builder noch andere Informationen:
 
 Mit einem Klick auf `OK` kann der Controller erstellt werden und die angewählten Behaviours werden angezeigt.
 
-Damit bei der Sortierung die richtigen Informationen angezeigt werden, muss im `Form controller behaviour` der `Attribute name` angepasst werden mit dem Feld, dass bei der Sortierung sichtbar ist:
+Damit bei der Sortierung die richtigen Informationen angezeigt werden, muss im `Reorder controller behaviour` der `Attribute name` angepasst werden mit dem Feld, dass bei der Sortierung sichtbar ist:
 
 ![Sortorder aktivieren](res/12.jpg)
 
