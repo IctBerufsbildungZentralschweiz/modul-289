@@ -57,11 +57,11 @@ Hier ein Beispiel Model:
 class Product extends Model
 {
     public $attachMany = [
-        'detail_images' => ['System\Models\File'],
+        'detail_images' => 'System\Models\File',
     ];
     public $attachOne = [
-        'main_image' => ['System\Models\File'],
-        'social_image' => ['System\Models\File'],
+        'main_image'    => 'System\Models\File',
+        'social_image'  => 'System\Models\File',
     ];
 }
 ```
