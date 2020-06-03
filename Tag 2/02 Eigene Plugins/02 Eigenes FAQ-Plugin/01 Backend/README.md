@@ -19,6 +19,9 @@ Anschliessend können wir mit `+ Create plugin` ein neues Plugin erstellen. Das 
 Mit einem Klick auf den Button `OK` wird das Plugin erstellt.
 
 ##### Schritt 2: Datenstruktur festlegen
+
+Nenne die Tabelle `deinprojekt_faq_questions`.
+
 Als nächstes überlegen wir uns, was für Daten mit dem Plugin gespeichert werden, welche Felder diese benötigen und welche Typen diese haben. In unserem Fall wären das Fragen bzw. `Questions`. Konkret müssen folgende Informationen pro Frage gespeichert werden:
 
 | Information               | Typ         |
