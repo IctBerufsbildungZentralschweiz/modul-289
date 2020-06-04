@@ -20,7 +20,7 @@ Auf der Seite «About us» werden sämtliche Teammitglieder mit Foto, Name, Funk
 Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Gestaltungsguidelines & Screendesigns
-Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/a5450c6d-2c14-4b17-5713-3f7bbc99351b-d374/?fullscreen&hints=off)
+Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/a5450c6d-2c14-4b17-5713-3f7bbc99351b-d374/grid?hints=off)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
