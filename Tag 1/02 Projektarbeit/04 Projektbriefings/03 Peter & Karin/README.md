@@ -16,8 +16,8 @@ Auf der Seite «Informationen» wird eine einfache Liste mit den verschiedenen T
 ##### Organisationskomitee
 Auf der Seite «Organisationskomitee» werden sämtliche Mitglieder des Komitees mit Foto, Name, Verbindung zum Brautpaar und Beschreibung angezeigt.
 
-##### Kontakt
-Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Standort der Hochzeit angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
+##### Anmeldung
+Auf der Anmeldeseite können Website-Besucher sich für die Hochzeit per Formular anmelden. Ausserdem wird eine Google-Maps mit dem Standort der Hochzeit angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Gestaltungsguidelines & Screendesigns
 Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/4cf2992b-dc6e-4a84-4dc3-906d63626d5b-3ac3/grid?hints=off)
