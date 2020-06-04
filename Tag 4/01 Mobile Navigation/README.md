@@ -61,7 +61,7 @@ code = "hauptmenu"
     <a class="is-hidden-desktop" href="#">Hamburger</a>
 </nav>
 
-<nav class="is-hidden-desktop">
+<nav class="nav-mobile is-hidden-desktop">
   {% component 'staticMenu' %}
 </nav>
 ```
@@ -125,7 +125,8 @@ code = "hauptmenu"
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         var nav = document.querySelector('.nav-mobile')
-        document.querySelector('.nav-mobile-toggle').addEventListener('click', function() {
+        document.querySelector('.nav-mobile-toggle').addEventListener('click', function(e) {
+            e.preventDefault();
             nav.classList.toggle('is-hidden')
         })
     })
@@ -154,10 +155,12 @@ code = "hauptmenu"
 <script>
     document.addEventListener('DOMContentLoaded', function() {
         var nav = document.querySelector('.nav-mobile')
-        document.querySelector('.nav-mobile-toggle').addEventListener('click', function() {
+        document.querySelector('.nav-mobile-toggle').addEventListener('click', function(e) {
+            e.preventDefault();
             nav.classList.toggle('is-hidden')
         })
-        document.querySelector('.nav-mobile-close').addEventListener('click', function() {
+        document.querySelector('.nav-mobile-close').addEventListener('click', function(e) {
+            e.preventDefault();
             nav.classList.add('is-hidden')
         })
     })
