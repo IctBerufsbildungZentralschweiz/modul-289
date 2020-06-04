@@ -48,6 +48,7 @@ Um dieses einzubinden, kann folgendes `<script>` Tag im `head.htm` Partial ergä
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ this.page.title }}</title>
 {% styles %}
+
 {# ergänzen im head.htm Partial #}
 <script src="{{ ['@jquery', '@framework'] | theme }}"></script>
 ```
