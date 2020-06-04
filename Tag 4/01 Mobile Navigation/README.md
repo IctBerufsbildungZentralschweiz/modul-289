@@ -128,7 +128,7 @@ code = "hauptmenu"
         document.querySelector('.nav-mobile-toggle').addEventListener('click', function() {
             nav.classList.toggle('is-hidden')
         })
-    });
+    })
 </script>
 ```
 
