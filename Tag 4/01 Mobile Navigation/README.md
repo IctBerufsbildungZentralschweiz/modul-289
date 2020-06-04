@@ -69,7 +69,7 @@ code = "hauptmenu"
 Auch hier können wir mit der Klasse `is-hidden-desktop`, dass das Menü nur auf mobilen Geräten sichtbar ist.
 
 #### Schritt 3: Mobiles Menü verstecken
-Nun soll aber auch auf mobilen Geräten das Menü nicht immer sichtbar sein. Darum blenden wir es standardmässig aus:
+Nun soll aber auch auf mobilen Geräten das Menü nicht immer sichtbar sein. Darum blenden wir es standardmässig mit Bulmas `.is-hidden` Klasse aus:
 
 ```html
 [staticMenu mainMenu]
@@ -82,44 +82,30 @@ code = "hauptmenu"
     <a class="is-hidden-desktop" href="#">Hamburger</a>
 </nav>
 
-<nav class="nav-mobile is-hidden-desktop">
+<nav class="nav-mobile is-hidden-desktop is-hidden">
     {% partial 'mainMenu' %}
 </nav>
-```
-
-Dafür statten wir unser mobiles Menü mit einer neuen Klasse aus und blenden damit das mobile Menü aus:
-```css
-.nav-mobile {
-    display: none;
-}
 ```
 
 #### Schritt 4: Mobiles Menü togglebar machen
-Das Menü soll nun ein- und ausgeblendet werden, in dem eine Klasse (in unserem Beispiel `is-visible`) am Element vergeben oder entfernt wird:
+Das Menü soll nun ein- und ausgeblendet werden, in dem eine Klasse (in unserem Beispiel `is-hidden`) dem Element vergeben oder entfernt wird:
 
 ```html
-<nav class="nav-mobile is-hidden-desktop"> <!-- nicht sichtbar -->
+<nav class="nav-mobile is-hidden-desktop is-hidden"> <!-- nicht sichtbar -->
     {% partial 'mainMenu' %}
 </nav>
 ```
 
 
 ```html
-<nav class="nav-mobile is-hidden-desktop is-visible">  <!-- sichtbar -->
+<nav class="nav-mobile is-hidden-desktop">  <!-- sichtbar (ausser auf Desktop) -->
     {% partial 'mainMenu' %}
 </nav>
 ```
 
-Dazu können wir die Klasse wie folgt im CSS definieren:
-
-```css
-.nav-mobile.is-visible {
-    display: block;
-}
-```
 
 #### Schritt 5: Interaktivität hinzufügen
-Nun müssen wir nur noch dafür sorgen, dass diese Klasse hinzugefügt wird, wenn ich auf den Hamburger klicke. Dazu muss der Hamurger noch mit einer Klasse ausgestattet werden, um diesen via JavaScript/jQuery anzusprechen:
+Nun müssen wir nur noch dafür sorgen, dass diese Klasse hinzugefügt wird, wenn ich auf den Hamburger klicke. Dazu muss der Hamurger noch mit einer `.nav-mobile-toggle` Klasse ausgestattet werden, um diesen via JavaScript anzusprechen:
 
 ```html
 [staticMenu mainMenu]
@@ -132,19 +118,22 @@ code = "hauptmenu"
     <a class="nav-mobile-toggle is-hidden-desktop" href="#">Hamburger</a>
 </nav>
 
-<nav class="nav-mobile is-hidden-desktop">
+<nav class="nav-mobile is-hidden-desktop is-hidden">
     {% partial 'mainMenu' %}
 </nav>
-```
 
-```javascript
-$('.nav-mobile-toggle').on('click', function() {
-  $('.nav-mobile').addClass('is-visible')
-})
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var nav = document.querySelector('.nav-mobile')
+        document.querySelector('.nav-mobile-toggle').addEventListener('click', function() {
+            nav.classList.toggle('is-hidden')
+        })
+    });
+</script>
 ```
 
 #### Schritt 6: Mobiles Menü schliessen
-Damit das mobile Menü wieder geschlossen werden kann, braucht es noch einen Schliessen-Button, der die Klasse `is-visible` wieder entfernt:
+Damit das mobile Menü wieder geschlossen werden kann, braucht es noch einen Schliessen-Button, der die Klasse `is-hidden` wieder ergänzt:
 
 ```html
 [staticMenu mainMenu]
@@ -161,17 +150,19 @@ code = "hauptmenu"
     <a href="#" class="nav-mobile-close">×</a>
     {% partial 'mainMenu' %}
 </nav>
-```
 
-```javascript
-$('.nav-mobile-toggle').on('click', function() {
-  $('.nav-mobile').addClass('is-visible')
-})
-
-$('.nav-mobile-close').on('click', function() {
-  $('.nav-mobile').removeClass('is-visible')
-})
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        var nav = document.querySelector('.nav-mobile')
+        document.querySelector('.nav-mobile-toggle').addEventListener('click', function() {
+            nav.classList.toggle('is-hidden')
+        })
+        document.querySelector('.nav-mobile-close').addEventListener('click', function() {
+            nav.classList.add('is-hidden')
+        })
+    })
+</script>
 ```
 
 ### Beispiel
-Wie das oben gezeigte Beispiel umgesetzt wird, zeigt [dieser Codepen](https://codepen.io/pen/MWamzLR).
+Wie das oben gezeigte Beispiel umgesetzt wird, zeigt [dieser Codepen](https://codepen.io/tobiasoffline/pen/RwrNrmK).
