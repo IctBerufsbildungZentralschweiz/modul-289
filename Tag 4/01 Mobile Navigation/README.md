@@ -7,11 +7,11 @@ Mit dem folgenden Schritten könnt ihr euer Menü auf mobilen Geräten in ein Ha
 Eure aktuelle Menü-Komponente sollte momentan ungefähr so aussehen:
 
 ```html
-[staticMenu mainMenu]
+[staticMenu]
 code = "hauptmenu"
 ==
 <nav class="navbar">
-  {% partial 'mainMenu' %}
+  {% component 'staticMenu' %}
 </nav>
 ```
 
@@ -19,11 +19,11 @@ code = "hauptmenu"
 Als erstes wollen wir das normale Menü in der mobilen Ansicht ausblenden, und dafür den Hamburger einblenden. Dafür fügen wir zuerst unser Bild/Text/Zeichen ein, dass wir als Hamburger verwenden wollen:
 
 ```html
-[staticMenu mainMenu]
+[staticMenu]
 code = "hauptmenu"
 ==
 <nav class="navbar">
-  {% partial 'mainMenu' %}
+  {% component 'staticMenu' %}
   <a href="#">Hamburger</a>
 </nav>
 ```
@@ -31,12 +31,12 @@ code = "hauptmenu"
 Um die Anzeige der Elemente zu steuern, können wir auf die [Helfer-Klassen](https://bulma.io/documentation/modifiers/helpers/) von Bulma zurückgreifen:
 
 ```html
-[staticMenu mainMenu]
+[staticMenu]
 code = "hauptmenu"
 ==
 <nav class="navbar">
     <div class="is-hidden-touch">
-      {% partial 'mainMenu' %}
+      {% component 'staticMenu' %}
     </div>
     <a class="is-hidden-desktop" href="#">Hamburger</a>
 </nav>
@@ -46,23 +46,23 @@ code = "hauptmenu"
 * `is-hidden-desktop` - Element wird auf Desktops versteckt.
 
 #### Schritt 2: Mobiles Menü einfügen
-Meistens kann der Inhalt und die Struktur des normalen Menü für das mobile Menü übernommen werden, da die Menüpunkte übereinstimmen. Aus diesem Grund kann einfach die `mainMenu`-Komponente für das mobile Menü kopiert werden.
+Meistens kann der Inhalt und die Struktur des normalen Menü für das mobile Menü übernommen werden, da die Menüpunkte übereinstimmen. Aus diesem Grund kann einfach die `staticMenu`-Komponente für das mobile Menü kopiert werden.
 
 Für eine einfachere Positionierung und die Suchmaschinenfreundlichkeit sollte das versteckte mobile Menü je nach Möglichkeit am Schluss der Website eingebunden werden.
 
 ```html
-[staticMenu mainMenu]
+[staticMenu]
 code = "hauptmenu"
 ==
 <nav class="navbar">
     <div class="is-hidden-touch">
-      {% partial 'mainMenu' %}
+      {% component 'staticMenu' %}
     </div>
     <a class="is-hidden-desktop" href="#">Hamburger</a>
 </nav>
 
 <nav class="is-hidden-desktop">
-  {% partial 'mainMenu' %}
+  {% component 'staticMenu' %}
 </nav>
 ```
 
@@ -72,18 +72,18 @@ Auch hier können wir mit der Klasse `is-hidden-desktop`, dass das Menü nur auf
 Nun soll aber auch auf mobilen Geräten das Menü nicht immer sichtbar sein. Darum blenden wir es standardmässig mit Bulmas `.is-hidden` Klasse aus:
 
 ```html
-[staticMenu mainMenu]
+[staticMenu]
 code = "hauptmenu"
 ==
 <nav class="navbar">
     <div class="is-hidden-touch">
-        {% partial 'mainMenu' %}
+        {% component 'staticMenu' %}
     </div>
     <a class="is-hidden-desktop" href="#">Hamburger</a>
 </nav>
 
 <nav class="nav-mobile is-hidden-desktop is-hidden">
-    {% partial 'mainMenu' %}
+    {% component 'staticMenu' %}
 </nav>
 ```
 
@@ -92,14 +92,14 @@ Das Menü soll nun ein- und ausgeblendet werden, in dem eine Klasse (in unserem 
 
 ```html
 <nav class="nav-mobile is-hidden-desktop is-hidden"> <!-- nicht sichtbar -->
-    {% partial 'mainMenu' %}
+    {% component 'staticMenu' %}
 </nav>
 ```
 
 
 ```html
 <nav class="nav-mobile is-hidden-desktop">  <!-- sichtbar (ausser auf Desktop) -->
-    {% partial 'mainMenu' %}
+    {% component 'staticMenu' %}
 </nav>
 ```
 
@@ -108,18 +108,18 @@ Das Menü soll nun ein- und ausgeblendet werden, in dem eine Klasse (in unserem 
 Nun müssen wir nur noch dafür sorgen, dass diese Klasse hinzugefügt wird, wenn ich auf den Hamburger klicke. Dazu muss der Hamurger noch mit einer `.nav-mobile-toggle` Klasse ausgestattet werden, um diesen via JavaScript anzusprechen:
 
 ```html
-[staticMenu mainMenu]
+[staticMenu]
 code = "hauptmenu"
 ==
 <nav class="navbar">
     <div class="is-hidden-touch">
-      {% partial 'mainMenu' %}
+      {% component 'staticMenu' %}
     </div>
     <a class="nav-mobile-toggle is-hidden-desktop" href="#">Hamburger</a>
 </nav>
 
 <nav class="nav-mobile is-hidden-desktop is-hidden">
-    {% partial 'mainMenu' %}
+    {% component 'staticMenu' %}
 </nav>
 
 <script>
@@ -136,19 +136,19 @@ code = "hauptmenu"
 Damit das mobile Menü wieder geschlossen werden kann, braucht es noch einen Schliessen-Button, der die Klasse `is-hidden` wieder ergänzt:
 
 ```html
-[staticMenu mainMenu]
+[staticMenu]
 code = "hauptmenu"
 ==
 <nav class="navbar">
     <div class="is-hidden-touch">
-      {% partial 'mainMenu' %}
+      {% component 'staticMenu' %}
     </div>
     <a class="nav-mobile-toggle is-hidden-desktop" href="#">Hamburger</a>
 </nav>
 
 <nav class="nav-mobile is-hidden-desktop">
     <a href="#" class="nav-mobile-close">×</a>
-    {% partial 'mainMenu' %}
+    {% component 'staticMenu' %}
 </nav>
 
 <script>
