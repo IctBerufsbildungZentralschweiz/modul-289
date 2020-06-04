@@ -39,7 +39,7 @@ Layout oder einem `footer.htm` Partial eingefügt.
 
 ## jQuery und October Framework
 
-Einige Plugins benötigen zudem die jQuery-Bilbiothek sowie das October CMS JavaScript framework.
+Einige Plugins benötigen zudem die jQuery-Bilbiothek sowie das October CMS JavaScript Framework.
 Um dieses einzubinden, kann folgendes `<script>` Tag im `head.htm` Partial ergänzt werden:
 
 ```twig
