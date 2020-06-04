@@ -20,7 +20,7 @@ Auf der Seite «Coaches» werden sämtliche Teammitglieder mit Foto, Name und Au
 Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Kursito AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Gestaltungsguidelines & Screendesigns
-Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/ddd50beb-1ec9-4d6d-60f3-b3ed635a4100-abe4/?fullscreen&hints=off)
+Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/ddd50beb-1ec9-4d6d-60f3-b3ed635a4100-abe4/grid?hints=off)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:

@@ -20,7 +20,7 @@ Auf der Seite «Organisationskomitee» werden sämtliche Mitglieder des Komitees
 Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Standort der Hochzeit angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Gestaltungsguidelines & Screendesigns
-Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/4cf2992b-dc6e-4a84-4dc3-906d63626d5b-3ac3/?fullscreen&hints=off)
+Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/4cf2992b-dc6e-4a84-4dc3-906d63626d5b-3ac3/grid?hints=off)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:

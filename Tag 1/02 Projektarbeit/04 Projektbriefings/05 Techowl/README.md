@@ -20,7 +20,7 @@ Auf der Seite «Techowls» werden sämtliche Teammitglieder mit Foto, Name und B
 Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz von den Techowls angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Gestaltungsguidelines & Screendesigns
-Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/eb360f7d-447f-4237-44f5-fe7935b5b238-9d07/?fullscreen&hints=off)
+Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/eb360f7d-447f-4237-44f5-fe7935b5b238-9d07/grid/?hints=off)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
