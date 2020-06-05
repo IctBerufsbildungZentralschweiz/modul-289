@@ -22,6 +22,8 @@ Allfällige Formulare (Bestellung, Anmeldung, Kontaktaufnahme) müssen die erfas
 #### User management
 Das Benutzermanagement soll sinnvoll eingerichtet sein. So sollen Benutzergruppen nur immer die Rechte erhalten, welche sie auch tatsächlich benötigen.
 
+Damit der Kunde die Website am Schluss selber verwalten kann, soll er einen eigenen Zugang erhalten. Dabei soll er jedoch nur die Inhalte sehen, die er benötigt und mit seinem nicht-technischen Wissen bearbeiten kann.
+
 #### Suchmaschinenoptimierungen
  Damit die Seite möglichst gut gefunden wird, soll die Seite auch für die Suchmaschinenindexierung optimiert werden. Zwei wichtige Instrumente sind dabei die Bereitstellung einer Sitemap und eine saubere Titelstruktur.
 
