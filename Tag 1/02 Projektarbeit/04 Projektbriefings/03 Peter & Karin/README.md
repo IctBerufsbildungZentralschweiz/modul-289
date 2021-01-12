@@ -67,7 +67,7 @@ Barbara ist nicht nur die Schwester des Bräutigams, sondern auch technisch sehr
 Neben dem Brautpaar schreiben zeitweise auch die Trauzeugen einzelne Blogbeiträge. Diese sollen mit dem Benutzer «trauzeugen» zwar selbständig Blogbeiträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website sehen.
 
 ### Styleguide
-Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Hochzeit.pdf)
+Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Hochzeit.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:

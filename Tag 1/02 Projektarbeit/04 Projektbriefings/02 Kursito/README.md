@@ -66,7 +66,7 @@ Der «admin»-Benutzer von Kursito soll uneingeschränkten Zugriff auf alle Inha
 Neben dem Sekretariat schreiben auch die Cloaches einzelne Blogbeiträge. Diese sollen mit dem Benutzer «coach» zwar selbständig Blogbeiträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website sehen.
 
 ### Styleguide
-Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Kursito.pdf)
+Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Kursito.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:

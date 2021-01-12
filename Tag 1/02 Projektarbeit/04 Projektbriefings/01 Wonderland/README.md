@@ -15,12 +15,12 @@ Auf der alten Website wurde der Bereich wie folgt dargestellt:
 ![Darstellung Destination - alte Website](src/old_destination.png)
 
 ##### FAQ
-Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und Antworten von den Followern angezeigt. Die einzelnen Punkte sollen dabei kurz und knapp gehalten werden.
+Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und Antworten der Follower angezeigt. Die einzelnen Punkte sollen dabei kurz und knapp gehalten werden.
 
 Um den Inhalt dieses Bereichs besser abzuschätzen, hat uns das Wonderland folgendes Beispiel geschickt:
 
 ###### Frage 
->Wie beste Art um in einem Bus zu schlafen?
+> Wie beste Art um in einem Bus zu schlafen?
 
 ###### Antwort 
 > Einige erfahrene Reisende schwören auf den sogenannten Knockout-Cocktail, dieser besteht aus 3 Pfefferminz-Bonbon, einem ordentlichen Schuss Honig und das alles verrührt in einem Sabeitee. Es gibt jedoch auch andere Möglichkeiten - einschliesslich Übungen vor der Fahrt oder ein paar Tropfen ätherisches Lavendelöl.
@@ -41,7 +41,7 @@ Auf der Seite «Konzept» möchte Wonderland in einem kurzen Text ihren Leser un
 Das Wonderland-Team arbeitet konstant an ihrem Konzept - entsprechend soll es auch durch das Team einfach verwaltbar sein.
 
 ##### Kontakt
-Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
+Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google Map mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 Folgende (Pflicht-)Felder sollen über das Formular gesendet werden können:
 
@@ -49,7 +49,7 @@ Folgende (Pflicht-)Felder sollen über das Formular gesendet werden können:
 |-----------------------------------|----------|-------------|
 | Vorname                           | string   | ja          |
 | Nachname                          | string   | ja          |
-| Email                             | email    | ja          |
+| E-Mail                             | email    | ja          |
 | Interesse an welcher Destination? | dropdown | ja          |
 | Kommentar                         | textarea | nein        |
 
@@ -66,7 +66,7 @@ Der «admin»-Benutzer von Wonderland soll uneingeschränkten Zugriff auf alle I
 Neben den internen Wonderland-Bloggern schreiben zeitweise auch externe Blogger für uns. Diese sollen mit dem Benutzer «blogger» zwar selbständig Blogbeiträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website sehen.
 
 ### Styleguide
-Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Wonderland.pdf)
+Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Wonderland.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
