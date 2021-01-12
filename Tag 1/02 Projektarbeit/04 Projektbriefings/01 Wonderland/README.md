@@ -5,7 +5,7 @@ Das Team rund um den Travelblog «Wonderland» möchte einen neuen Internetauftr
 Auf der Startseite soll der Besucher einen Überblick darüber erhalten, was ihn auf dieser Seite erwartet. Der Inhalt dieses Bereichs wird regelmässig ausgetauscht. Auch sollen auf der Startseite die drei neusten Blogbeiträge angeteastert werden, um den Besucher in den Blog-Bereich zu locken.
 
 ##### Reiseblog
-Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
+Der Blog besteht aus zwei Arten von Seiten: Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrt chronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
 
 ##### Destinationen
 Auf der Seite «Destinationen» soll eine Liste sämtlicher Destinationen erscheinen, welche die Reiseblogger bereits besucht haben. Dabei können die besuchten Städte und die Anzahl Besuche erfasst und angezeigt werden.
@@ -17,7 +17,7 @@ Auf der alten Website wurde der Bereich wie folgt dargestellt:
 ##### FAQ
 Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und Antworten von den Followern angezeigt. Die einzelnen Punkte sollen dabei kurz und knapp gehalten werden.
 
-Um den Inhalt dieses Bereich besser abzuschätzen, hat uns das Wonderland folgendes Beispiel geschickt:
+Um den Inhalt dieses Bereichs besser abzuschätzen, hat uns das Wonderland folgendes Beispiel geschickt:
 
 ###### Frage 
 >Wie beste Art um in einem Bus zu schlafen?
@@ -45,7 +45,7 @@ Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kon
 
 Folgende (Pflicht-)Felder sollen über das Formular gesendet werden können:
 
-| Bezeichnung                       | Typ      | Pflichfeld? |
+| Bezeichnung                       | Typ      | Pflichtfeld? |
 |-----------------------------------|----------|-------------|
 | Vorname                           | string   | ja          |
 | Nachname                          | string   | ja          |
@@ -56,14 +56,14 @@ Folgende (Pflicht-)Felder sollen über das Formular gesendet werden können:
 ### Benutzerstruktur
 Im Vorfeld haben wir den Auftraggeber gefragt, wer welche Bereiche der neuen Website verwalten wird. Entsprechend müssen auch die Benutzer vorbereitet und die Rechte verteilt werden.
 
-##### Wonderland-Administration
-Die Administration verwaltet sämtliche Inhalte der Website. Entsprechen hat diese Zugriff auf alles, was nicht technisch ist.
+##### Wonderland-Marketing
+Das Marketing-Team verwaltet sämtliche Inhalte der Website. Entsprechend soll der Benutzer «marketing» eingerichtet werden, dieser hat auf alles Zugriff, was nicht technisch ist.
 
-##### Wonderland-Technik
-Die Technik von Wonderland soll uneingeschränkten Zugriff auf alle Inhalte und technischen Bereiche der Website haben.
+##### Wonderland-Admin
+Der «admin»-Benutzer von Wonderland soll uneingeschränkten Zugriff auf alle Inhalte und technischen Bereiche der Website haben. So ist der Admin auch erste Anlaufstelle bei Problemen.
 
 ##### Externe Blogger
-Neben den eigenen Blogbeiträgen schreiben zeitweise auch externe Blogger für uns. Diese sollen zwar selbständig Blogbeträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website.
+Neben den internen Wonderland-Bloggern schreiben zeitweise auch externe Blogger für uns. Diese sollen mit dem Benutzer «blogger» zwar selbständig Blogbeiträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website sehen.
 
 ### Styleguide
 Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Wonderland.pdf)
@@ -78,7 +78,7 @@ Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
 * [Design Guidelines](src/guidelines.jpg)   
 
 ##### Bildwelt
-Gemeinsam mit dem Kunden wurde eine Bildwelt erarbeitet. Die auf der Website eingesetzten Bilder, sollten in einer ähnlichen Stimmung sein. Die Bilder können ohne Absprache mit dem Kunden ausgetauscht oder ergänzt werden.
+Gemeinsam mit dem Kunden wurde eine Bildwelt erarbeitet. Die auf der Website eingesetzten Bilder sollten in einer ähnlichen Stimmung sein. Die Bilder können ohne Absprache mit dem Kunden ausgetauscht oder ergänzt werden.
 
 * https://unsplash.com/photos/A5rCN8626Ck
 * https://unsplash.com/photos/1Spvd7ktFX4
