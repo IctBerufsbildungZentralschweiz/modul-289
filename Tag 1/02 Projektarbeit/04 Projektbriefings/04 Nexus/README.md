@@ -23,7 +23,7 @@ Auf der Seite «Unternehmen» werden sämtliche Teammitglieder mit Foto, Name, T
 Auf der Anfrageseite können Website-Besucher eine Konkrete Anfrage für eine bestimmte Instel via Kontaktformular stellen.
 
 ### Styleguide
-Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Nexus.pdf)
+Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Nexus.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
