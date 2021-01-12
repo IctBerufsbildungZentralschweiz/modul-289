@@ -20,7 +20,7 @@ Auf der Seite «Organisationskomitee» werden sämtliche Mitglieder des Komitees
 Auf der Anmeldeseite können Website-Besucher sich für die Hochzeit per Formular anmelden. Ausserdem wird eine Google-Maps mit dem Standort der Hochzeit angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Styleguide
-Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Hochzeit.pdf)
+Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Hochzeit.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
