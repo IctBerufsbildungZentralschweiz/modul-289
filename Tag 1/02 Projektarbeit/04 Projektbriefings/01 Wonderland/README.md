@@ -66,7 +66,7 @@ Die Technik von Wonderland soll uneingeschränkten Zugriff auf alle Inhalte und 
 Neben den eigenen Blogbeiträgen schreiben zeitweise auch externe Blogger für uns. Diese sollen zwar selbstständig Blogbeträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website im Backend sehen.
 
 ### Styleguide
-Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Wonderland.pdf)
+Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Wonderland.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
