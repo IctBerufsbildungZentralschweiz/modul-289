@@ -15,16 +15,15 @@ Anschliessend werden die einzelnen CMS kurz von der jeweiligen Spezialisten-Grup
 
 ### Marktanteil der Content Management Systeme
 
-|             | Anteil Einsatz insgesamt Websites | Anteil Einsatz bei Websites mit CMS |
-|-------------|---------------------------------:|------------------------------------:|
-| WordPress   |                           35.9%  |                        63.2%        |
-| Joomla      |                            2.4%  |                         4.2%        |
-| Shopify     |                            2.2%  |                         3.9%        |
-| Drupal      |                            1.6%  |                         3.8%        |
-| Squarespace |                            1.4%  |                         2.5%        |
-| Wix         |                            1.3%  |                         2.3%        |
-| TYPO3       |                            0.3%  |                         0.6%        |
-| October CMS |                            0.1%  |                         0.1%        |
-
+|   |             | Anteil Einsatz insgesamt Websites | Anteil Einsatz bei Websites mit CMS |
+|---|-------------|-----------------------------------|-------------------------------------|
+|   | WordPress   | 39.6%                             | 64.1%                               |
+|   | Shopify     | 3.2%                              | 5.2%                                |
+|   | Joomla      | 2.2%                              | 3.5%                                |
+|   | Drupal      | 1.5%                              | 2.5%                                |
+|   | Squarespace | 1.5%                              | 2.4%                                |
+|   | Wix         | 1.5%                              | 2.4%                                |
+|   | TYPO3       | 0.3%                              | 0.5%                                |
+|   | October CMS | 0.1%                              | 0.1%                                |
 
 Quelle: [https://w3techs.com/technologies/overview/content_management/all/](https://w3techs.com/technologies/overview/content_management/all/)
