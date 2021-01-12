@@ -34,5 +34,5 @@ Ob ihr das Layout im Photoshop, XD oder Illustrator bearbeiten wollt oder die El
 ### Seid konkret!
 Der Kunde möchte an der Präsentation keine «Lorem Ipsum»-Texte sehen, sondern reale Inhalte und handfeste Ideen. Probiert in der Zeit möglichst viele Teile der Website auszuarbeiten, die Texte müssen dabei noch nicht 100% geschliffen sein. 
 
-### Seid auf den Punkt
+### Seid auf den Punkt!
 Der Kunde hat für das Gespräch maximal 10 Minuten eingeplant. Innerhalb dieser Zeit solltet ihr also eure Ideen möglichst gut transportieren.
