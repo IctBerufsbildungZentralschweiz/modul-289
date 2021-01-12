@@ -20,7 +20,7 @@ Auf der Seite «Techowls» werden sämtliche Teammitglieder mit Foto, Name und B
 Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz von den Techowls angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 ### Styleguide
-Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Techowls.pdf)
+Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Techowls.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
