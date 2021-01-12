@@ -5,6 +5,8 @@ In den kommenden fünf Kurstagen sind wir als Kursgruppe eine kleine Webagentur.
 
 ![Phasen bei der Websiteerstellung - komplett](../01%20Grundlagen%20zum%20Ablauf/src/Phasen%20-%20M289.png)
 
+[Übersicht als PDF](../01%20Grundlagen%20zum%20Ablauf/src/Phasen%20-%20M289.pdf)
+
 ## Grobziele des Projektes
 - Analyse der Ausgangslage (Konkurrenz, Zielgruppe, Inhalte)
 - Ausarbeitung einer passenden Struktur und Darstellung der Inhalte

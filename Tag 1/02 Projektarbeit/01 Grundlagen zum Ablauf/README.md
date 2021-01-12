@@ -7,4 +7,4 @@ Diese teilen sich wiederum in folgende Arbeitsschritt auf:
 
 ![Phasen bei der Websiteerstellung - komplett](src/Phasen%20-%20komplett.png)
 
-[Übersicht als PDF](src/OFFLINE_Erklaerung_Webprojektablauf.pdf)
+[Übersicht als PDF](src/Phasen%20-%20komplett.pdf)
