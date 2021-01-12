@@ -70,7 +70,7 @@ Neben dem Brautpaar schreiben zeitweise auch die Trauzeugen einzelne Blogbeiträ
 Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Hochzeit.pdf)
 
 ##### Logos & Grafiken
-Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
+Dazu hier noch die Logos und die Grafiken als Vektor-Dateien:
 
 * [Dunkles Logo](src/logo_dark.svg)
 * [Helles Logo](src/logo_white.svg)

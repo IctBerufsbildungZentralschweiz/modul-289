@@ -70,7 +70,8 @@ Neben dem internen Marketing schreiben zeitweise auch externe Besitzer von Insel
 Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Nexus.pdf)
 
 ##### Logos & Grafiken
-Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
+Dazu hier noch die Logos und die Grafiken als Vektor-Dateien:
+
 
 * [Goldiges Logo](src/logo_gold.svg)
 * [Helles Logo](src/logo_white.svg)

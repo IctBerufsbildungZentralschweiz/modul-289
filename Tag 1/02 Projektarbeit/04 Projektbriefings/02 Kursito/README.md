@@ -69,7 +69,7 @@ Neben dem Sekretariat schreiben auch die Cloaches einzelne Blogbeiträge. Diese 
 Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Kursito.pdf)
 
 ##### Logos & Grafiken
-Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:
+Dazu hier noch die Logos und die Grafiken als Vektor-Dateien:
 
 * [Dunkles Logo](src/logo_dark.svg)
 * [Helles Logo](src/logo_white.svg)
