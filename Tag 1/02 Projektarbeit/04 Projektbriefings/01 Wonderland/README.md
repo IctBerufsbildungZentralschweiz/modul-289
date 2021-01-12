@@ -5,7 +5,7 @@ Das Team rund um den Travelblog «Wonderland» möchte einen neuen Internetauftr
 Auf der Startseite soll der Besucher einen Überblick darüber erhalten, was ihn auf dieser Seite erwartet. Der Inhalt dieses Bereichs wird regelmässig ausgetauscht. Auch sollen auf der Startseite die drei neusten Blogbeiträge angeteastert werden, um den Besucher in den Blog-Bereich zu locken.
 
 ##### Reiseblog
-Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
+Der Blog besteht aus zwei Arten von Seiten: Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
 
 ##### Destinationen
 Auf der Seite «Destinationen» soll eine Liste sämtlicher Destinationen erscheinen, welche die Reiseblogger bereits besucht haben. Dabei können die besuchten Städte und die Anzahl Besuche erfasst und angezeigt werden.
@@ -15,7 +15,7 @@ Auf der alten Website wurde der Bereich wie folgt dargestellt:
 ![Darstellung Destination - alte Website](src/old_destination.png)
 
 ##### FAQ
-Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und Antworten von den Followern angezeigt. Die einzelnen Punkte sollen dabei kurz und knapp gehalten werden.
+Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und Antworten der Follower angezeigt. Die einzelnen Punkte sollen dabei kurz und knapp gehalten werden.
 
 Um den Inhalt dieses Bereich besser abzuschätzen, hat uns das Wonderland folgendes Beispiel geschickt:
 
@@ -41,7 +41,7 @@ Auf der Seite «Konzept» möchte Wonderland in einem kurzen Text ihren Leser un
 Das Wonderland-Team arbeitet konstant an ihrem Konzept - entsprechend soll es auch durch das Team einfach verwaltbar sein.
 
 ##### Kontakt
-Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
+Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google Map mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
 Folgende (Pflicht-)Felder sollen über das Formular gesendet werden können:
 
@@ -49,7 +49,7 @@ Folgende (Pflicht-)Felder sollen über das Formular gesendet werden können:
 |-----------------------------------|----------|-------------|
 | Vorname                           | string   | ja          |
 | Nachname                          | string   | ja          |
-| Email                             | email    | ja          |
+| E-Mail                             | email    | ja          |
 | Interesse an welcher Destination? | dropdown | ja          |
 | Kommentar                         | textarea | nein        |
 
