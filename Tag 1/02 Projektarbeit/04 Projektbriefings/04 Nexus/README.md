@@ -22,8 +22,8 @@ Auf der Seite «Unternehmen» werden sämtliche Teammitglieder mit Foto, Name, T
 ##### Anfragen
 Auf der Anfrageseite können Website-Besucher eine Konkrete Anfrage für eine bestimmte Instel via Kontaktformular stellen.
 
-### Gestaltungsguidelines & Screendesigns
-Die Gestaltungsguidelines & Screendesigns für dieses Projekt findet ihr [mit diesem Link.](https://xd.adobe.com/view/286b7def-1874-483a-79ed-4ba97b8e1de1-5e5a/grid/?hints=off)
+### Styleguide
+Das Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Nexus.pdf)
 
 ##### Logos & Grafiken
 Dazu hier noch die verwendeten Logos und die Grafiken als Vektor-Dateien:

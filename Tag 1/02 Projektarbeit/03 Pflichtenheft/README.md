@@ -5,7 +5,7 @@ Um das Projekt in die richtige Richtung zu lenken, haben wir (Auftraggeber) ein 
 Diese Anforderungen müssen ohne Wenn und Aber auf der Website integriert/umgesetzt werden.
 
 #### Gestaltung umsetzen
-Die Gestaltung der Website soll entsprechend der Designvorlage umgesetzt werden. Allfällige Änderungen oder Anpassungen können vom Projektteam mit einer entsprechenden Begründung vorgeschlagen werden. Die Entscheidung über die Annahme einer Anpassung, behält der Auftraggeber (Kursleiter).
+Die Gestaltung der Website soll entsprechend dem Kundenbriefing (1 Tag) umgesetzt werden. Allfällige Änderungen oder Anpassungen können vom Projektteam mit einer entsprechenden Begründung auch während der Umsetzung vorgeschlagen werden. Die Entscheidung über die Annahme einer Anpassung, behält der Auftraggeber (Kursleiter).
 
 #### Responsive Design
 Websites werden heutzutage zu einem Grossteil mit mobilen Endgeräten besucht. Aus diesem Grund muss die Website auch auf mobilen Geräten optimal angezeigt werden. Für die mobile Anzeige wurde vom Grafikbüro kein Vorschlag erarbeitet und ihr könnt diesen selber von der Desktop-Version adaptieren.
@@ -27,8 +27,10 @@ Damit der Kunde die Website am Schluss selber verwalten kann, soll er einen eige
 #### Suchmaschinenoptimierungen
  Damit die Seite möglichst gut gefunden wird, soll die Seite auch für die Suchmaschinenindexierung optimiert werden. Zwei wichtige Instrumente sind dabei die Bereitstellung einer Sitemap und eine saubere Titelstruktur.
 
-#### Backup
-Um auf Nummer sicher zu gehen, soll neben den Website-Funktionen noch eine Backup-Routine implementiert werden. Diese soll sämtliche Daten in regelmässigen Abständen sichern.
+Dazu gehört auch, dass die Inhalte nicht auf einer einzelenen (scrollbaren) Seite dargestellt werden, sondern auf verschiedene Unterseiten.
+
+#### Shareable
+Interessante Inhalte werden häufig geteilt. Entsprechend soll die Website  dafür vorbereitet werden, dass  Beiträge über andere Plattformen (Whatsapp, Facebook, Twitter etc.) optimal geteilt werden können (Open Graph Tags).
 
 ## Darf-Anforderungen
 Sofern ihr die Pflichtvoraussetzungen erfüllt habt, könnt ihr das Projekt noch mit folgenden Darf-Anforderungen ergänzen. Die Erfüllung dieser Anforderungen werden mit zusätzlichen Punkten in der Bewertung belohnt:
