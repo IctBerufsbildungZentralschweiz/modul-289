@@ -2,7 +2,7 @@
 Das Team rund um den Travelblog «Wonderland» möchte einen neuen Internetauftritt. Der Travelblog besteht aus folgenden Seiten:
 
 ##### Startseite
-Auf der Startseite soll der Besucher einen Überblick in Form von erhalten, was ihn auf dieser Seite erwartet. Der Inhalt dieses Bereichs wird regelmässig ausgetauscht. Auch sollen auf der Startseite die drei neusten Blogbeiträge angeteastert werden, um den Besucher in den Blog-Bereich zu locken.
+Auf der Startseite soll der Besucher einen Überblick darüber erhalten, was ihn auf dieser Seite erwartet. Der Inhalt dieses Bereichs wird regelmässig ausgetauscht. Auch sollen auf der Startseite die drei neusten Blogbeiträge angeteastert werden, um den Besucher in den Blog-Bereich zu locken.
 
 ##### Reiseblog
 Der Blog besteht aus zwei Arten von Seiten:  Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrtchronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
@@ -31,6 +31,14 @@ Auf der Seite «About us» werden sämtliche Teammitglieder mit Foto, Name, Funk
 Auf der alten Website wurde der Bereich wie folgt dargestellt:
 
 ![Darstellung Team - alte Website](src/old_team.png)
+
+##### Konzept
+Auf der Seite «Konzept» möchte Wonderland in einem kurzen Text ihren Leser und Leserinnen erklären, was Wonderland so speziell macht. Der Text ist leider noch nicht soweit, aber die Anforderungen dazu sind schon klar:
+
+* Einleitung à ca. 100 Wörter
+* drei Absätze à ca. 200 Wörter
+
+Das Wonderland-Team arbeitet konstant an ihrem Konzept - entsprechend soll es auch durch das Team einfach verwaltbar sein.
 
 ##### Kontakt
 Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
