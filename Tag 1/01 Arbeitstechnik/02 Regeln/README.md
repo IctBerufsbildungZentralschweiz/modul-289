@@ -25,4 +25,3 @@ Während dem Projekt werdet ihr früher oder später auf Probleme stossen. Das i
 * Wann taucht der Fehler jeweils auf?
 * Was habe ich als letztes geändert?
 * **Was habt ihr bereits unternommen, um den Fehler zu beheben?**
-* Anhang: Code, Screenshots
