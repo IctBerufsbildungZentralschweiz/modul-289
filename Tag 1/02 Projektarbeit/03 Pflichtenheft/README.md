@@ -30,6 +30,9 @@ Dazu gehört auch, dass die Inhalte nicht auf einer einzelnen (scrollbaren) Seit
 #### Shareable
 Interessante Inhalte werden häufig geteilt. Entsprechend soll die Website  dafür vorbereitet werden, damit die Inhalte über andere Plattformen (Whatsapp, Facebook, Twitter etc.) optimal geteilt werden können (Open Graph Tags).
 
+#### Benutzerstatistik
+Wir möchten aus dem Verhalten unserer Benutzer lernen und die Website entsprechend den Erkenntnissen weiterentwickeln. Aus diesem Grund soll auf der Website ein Besuchertracking für die erhebung von Besucherstatistiken implementiert werden.
+
 ## Darf-Anforderungen
 Sofern ihr die Pflichtvoraussetzungen erfüllt habt, könnt ihr das Projekt noch mit folgenden Darf-Anforderungen ergänzen. Die Erfüllung dieser Anforderungen werden mit zusätzlichen Punkten in der Bewertung belohnt:
 

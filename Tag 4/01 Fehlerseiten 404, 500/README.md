@@ -42,3 +42,6 @@ Fehler geschehen jedoch nicht nur clientseitig, sondern auch serverseitig. Der �
 Hier wiederum Beispiele:
 * https://www.ict-bz.ch/500
 * https://github.com/500
+
+#### Umsetzung im October CMS
+Damit ihr steuern könnt, was bei einem 404- oder 500- Fehler angezeigt werden soll, könnt ihr unter `CMS` > `Seiten` zwei neue Seiten erstellen mit der Url `/404` und `/500`. Diese werden nun automatisch angezeigt, wenn einer dieser Fehler auftaucht.
