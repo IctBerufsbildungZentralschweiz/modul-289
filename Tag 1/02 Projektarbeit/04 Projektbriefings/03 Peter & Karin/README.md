@@ -23,7 +23,7 @@ Die Informationen bestehen immer aus einem längeren Teaser und einem dazugehör
 > Für die Anfahrt empfehlen wir euch mit dem öffentlichen Verkehr zu kommen.
 
 ###### Detailtext
-> Die Anzahl der Parkplätze ist sehr limitiert und wir können darum nicht garantieren, dass alle Platz haben. Aus Rücksicht auf die etwas weniger mobilen Besucher (Omi und Opi) bitten wir euch also, wenn immer möglich, mit dem Bus anzureisen. Danke!
+> Die Anzahl der Parkplätze ist sehr limitiert und wir können darum nicht garantieren, dass für alle ein Parklatz vorhanden ist. Aus Rücksicht auf die etwas weniger mobilen Besucher (Omi und Opi) bitten wir euch also, wenn immer möglich, mit dem Bus anzureisen. Danke!
  
 
 ##### Organisationskomitee
@@ -34,12 +34,14 @@ Auch hier haben Peter und Karin wieder die Website ihres befreudeten Paares als 
 ![Darstellung Team - alte Website](src/old_team.png)
 
 ##### Geschichte
-Auf der Seite «Geschichte» möchte das Brautpaar ihre gemeinsame Geschichte mit einem Text wiedergeben. Sie haben dazu einen professionellen Texter engagiert, der den Texter leider noch nicht parat hat. Jedoch haben sie uns die Vorgaben weitergeleitet, welche sie auch dem Texter geschickt haben:
+Auf der Seite «Geschichte» möchte das Brautpaar ihre gemeinsame Geschichte mit einem Text wiedergeben. Sie haben dazu einen professionellen Texter engagiert, der den Text leider noch nicht parat hat. Jedoch haben sie uns die Vorgaben weitergeleitet, welche sie auch dem Texter geschickt haben:
 
 * Einleitung à ca. 2 Sätze
 * acht Absätze/Meilensteine à ca. 50 Wörter
 
 Auch nach der Hochzeit möchten sie ihre Geschite weiterschreiben und den Text ergänzen - entsprechend soll diese Seite auch durch Karin und Peter einfach verwaltet werden können.
+
+Da der Text erst kurz vor GoLive fertig sein wird, kann hier mit Fülltext gearbeitet werden.
 
 ##### Anmeldung
 Auf der Anmeldeseite können Website-Besucher sich für die Hochzeit per Formular anmelden. Ausserdem wird eine Google-Maps mit dem Standort der Hochzeit angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
@@ -58,13 +60,13 @@ Folgende (Pflicht-)Felder sollen über das Formular gesendet werden können:
 Im Vorfeld haben wir den Auftraggeber gefragt, wer welche Bereiche der neuen Website verwalten wird. Entsprechend müssen auch die Benutzer vorbereitet und die Rechte verteilt werden.
 
 ##### Karin & Peter
-Das Brautpaar verwaltet sämtliche Inhalte der Website. Entsprechend soll der Benutzer «brautppar» eingerichtet werden, dieser hat auf alles Zugriff, was nicht technisch ist.
+Das Brautpaar verwaltet sämtliche Inhalte der Website. Entsprechend soll der Benutzer «brautpaar» eingerichtet werden, dieser hat auf alles Zugriff, was nicht technisch ist.
 
-##### Admin
-Barbara ist nicht nur die Schwester des Bräutigams, sondern auch technisch sehr begabt. Sie übernimmt somit die Rolle als Admin und entsprechend soll auch ein «admin»-Benutzer mit uneingeschränktem Zugriff auf alle Inhalte und technischen Bereiche der Website haben. So ist Barbara auch erste Anlaufstelle bei Problemen.
+##### Barbara
+Barbara ist nicht nur die Schwester des Bräutigams, sondern auch technisch sehr begabt. Sie übernimmt somit die Rolle als Admin und entsprechend soll auch ein «admin»-Benutzer mit uneingeschränktem Zugriff auf alle Inhalte und technischen Bereiche eingerichtet werden. So ist Barbara auch erste Anlaufstelle bei Problemen.
 
 ##### Trauzeugen
-Neben dem Brautpaar schreiben zeitweise auch die Trauzeugen einzelne Blogbeiträge. Diese sollen mit dem Benutzer «trauzeugen» zwar selbständig Blogbeiträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website sehen.
+Neben dem Brautpaar schreiben auch die Trauzeugen einzelne Blogbeiträge. Diese sollen mit dem Benutzer «trauzeugen» zwar selbständig Blogbeiträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website sehen.
 
 ### Styleguide
 Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Hochzeit.pdf)
