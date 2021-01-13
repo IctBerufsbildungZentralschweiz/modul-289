@@ -2,7 +2,7 @@
 Das Team rund um den Travelblog «Wonderland» möchte einen neuen Internetauftritt. Der Travelblog besteht aus folgenden Seiten:
 
 ##### Startseite
-Auf der Startseite soll der Besucher einen Überblick darüber erhalten, was ihn auf dieser Seite erwartet. Der Inhalt dieses Bereichs wird regelmässig ausgetauscht. Auch sollen auf der Startseite die drei neusten Blogbeiträge angeteastert werden, um den Besucher in den Blog-Bereich zu locken.
+Auf der Startseite soll der Besucher einen Überblick darüber erhalten, was ihn auf dieser Seite erwartet. Der Inhalt dieses Bereichs wird regelmässig ausgetauscht. Auch sollen auf der Startseite die drei neusten Blogbeiträge angeteasert werden, um den Besucher in den Blog-Bereich zu locken.
 
 ##### Reiseblog
 Der Blog besteht aus zwei Arten von Seiten: Zum einen sollen sämtliche Blog-Einträge auf einer Übersichtsseite in umgekehrt chronologischer Reihenfolge angezeigt werden. Zum anderen kann man sämtliche Inhalte eines Blogs mit Klick auf einen Beitrag ansehen.
@@ -20,10 +20,10 @@ Auf der Seite «FAQ» wird eine einfache Liste mit den häufigsten Fragen und An
 Um den Inhalt dieses Bereichs besser abzuschätzen, hat uns das Wonderland folgendes Beispiel geschickt:
 
 ###### Frage 
-> Wie beste Art um in einem Bus zu schlafen?
+> Die beste Art, um in einem Bus zu schlafen?
 
 ###### Antwort 
-> Einige erfahrene Reisende schwören auf den sogenannten Knockout-Cocktail, dieser besteht aus 3 Pfefferminz-Bonbon, einem ordentlichen Schuss Honig und das alles verrührt in einem Sabeitee. Es gibt jedoch auch andere Möglichkeiten - einschliesslich Übungen vor der Fahrt oder ein paar Tropfen ätherisches Lavendelöl.
+> Einige erfahrene Reisende schwören auf den sogenannten Knockout-Cocktail, dieser besteht aus 3 Pfefferminz-Bonbons, einem ordentlichen Schuss Honig und das alles verrührt in einem Sabeitee. Es gibt jedoch auch andere Möglichkeiten - einschliesslich Übungen vor der Fahrt oder ein paar Tropfen ätherisches Lavendelöl.
 
 ##### About us
 Auf der Seite «About us» werden sämtliche Teammitglieder mit Foto, Name, Funktion und Email-Adresse vorgestellt.
@@ -39,6 +39,8 @@ Auf der Seite «Konzept» möchte Wonderland in einem kurzen Text ihren Leser un
 * drei Absätze à ca. 200 Wörter
 
 Das Wonderland-Team arbeitet konstant an ihrem Konzept - entsprechend soll es auch durch das Team einfach verwaltbar sein.
+
+Da der Text erst kurz vor GoLive fertig sein wird, kann hier mit Fülltext gearbeitet werden.
 
 ##### Kontakt
 Auf der Kontaktseite können Website-Besucher eine Nachricht an das Team per Kontaktformular senden. Ausserdem wird eine Google Map mit dem Hauptsitz der Wonderland AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
