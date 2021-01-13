@@ -38,6 +38,8 @@ Die Techowls schauen auf eine lange Geschickte zurück. Entsprechend möchten si
 
 Die Geschichte der Techows ist aber noch lange nicht fertig geschrieben  - entsprechend soll diese auch durch das Team einfach erweiterbar sein.
 
+Da der Text erst kurz vor GoLive fertig sein wird, kann hier mit Fülltext gearbeitet werden.
+
 ##### Kontakt
 Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz von den Techowls angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
 
@@ -56,7 +58,7 @@ Im Vorfeld haben wir den Auftraggeber gefragt, wer welche Bereiche der neuen Web
 Das Team verwaltet sämtliche Inhalte der Website selber. Entsprechend soll der Benutzer «techowl» eingerichtet werden, dieser hat auf alles Zugriff, was nicht technisch ist.
 
 ##### IT-Abteilung
-Einzelne Personen vom IT-Team sollen ausserdem uneingeschränkten Zugriff auf alle Inhalte als «admin»-Benutzer haben. So ist dsa IT-Team auch erste Anlaufstelle bei Problemen.
+Einzelne Personen vom IT-Team sollen ausserdem uneingeschränkten Zugriff auf alle Inhalte als «admin»-Benutzer haben. So ist das IT-Team auch erste Anlaufstelle bei Problemen.
 
 ##### Externe Blogger
 Neben dem Techowl-Team schreiben zeitweise auch externe Gastautoren Beiträge für den Blog. Diese sollen mit dem Benutzer «blogger» zwar selbständig Blogbeiträge erfassen und verwalten können, jedoch sonst keine anderen Bereiche der Website sehen.
