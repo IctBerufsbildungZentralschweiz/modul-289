@@ -33,12 +33,14 @@ Auf der alten Website wurde der Bereich wie folgt dargestellt:
 ![Darstellung Team - alte Website](src/old_team.png)
 
 ##### Unsere Ansprüche
-Das Kapital von Kursito sind die angestellten Coaches. Entsprechend möchte Kursito auf der Seite «Unsere Ansprüche» vermitteln, anhand welcher Kriterien die Coaches rekrutiert werden. Der TExt ist leider noch nicht soweit, aber die Anforderungen wurden bereits für den Texter definiert:
+Das Kapital von Kursito sind die angestellten Coaches. Entsprechend möchte Kursito auf der Seite «Unsere Ansprüche» darlegen, anhand welcher Kriterien die Coaches rekrutiert werden. Der Text ist leider noch nicht soweit, aber die Anforderungen wurden bereits für den Texter definiert:
 
 * Einleitung à ca. 200 Wörter
 * ein Absatz à ca. 300 Wörter
 
 Die Ansprüche werden laufend an den Gegebenheiten angepasst, entsprechend soll es auch für das Kursito-Team möglich sein, diesen Text einfach zu verwalten.
+
+Da der Text erst kurz vor GoLive fertig sein wird, kann hier mit Fülltext gearbeitet werden.
 
 ##### Kontakt
 Auf der Kontaktseite können Website-Besucher eine Nachricht per Kontaktformular senden. Ausserdem wird eine Google-Maps mit dem Hauptsitz der Kursito AG angezeigt (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
