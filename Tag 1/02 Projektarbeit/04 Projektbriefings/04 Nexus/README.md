@@ -26,7 +26,7 @@ Um den Inhalt dieses Bereichs besser abzuschätzen, hat uns Nexus folgendes Beis
 > Gibt es schlechte Inseln?
 
 ###### Antwort
-> Nein, es gibt keine schlechten Inseln, es gibt wohl nur falsche Erwartungen. So versuchen wir mit unseren Kunden immer möglichst offen und ehrlich zu sprechen, damit es am Schluss keine Entäuschen gibt. Aus diesem Grund haben wir auch eine 100%-Zufriedenheitsgarantie bei einem Inselkauf.
+> Nein, es gibt keine schlechten Inseln, es gibt wohl nur falsche Erwartungen. So versuchen wir mit unseren Kunden immer möglichst offen und ehrlich zu sprechen, damit es am Schluss keine Enttäuschen gibt. Aus diesem Grund haben wir auch eine 100%-Zufriedenheitsgarantie bei einem Inselkauf.
 
 ##### Unternehmen
 Auf der Seite «Unternehmen» werden sämtliche Teammitglieder mit Foto, Name, Telefon und Email-Adresse angezeigt.
@@ -41,7 +41,9 @@ Auf der Seite «Glück» möchte Nexus kurz ihren Begriff von Glück erörtern u
 * Einleitung à ca. 50 Wörter
 * zwei Absätze à ca. 200 Wörter
 
-Das Nexus-Team ist sich im klaren, dass der Text noch lange nicht fertig ist  - entsprechend soll dieser auch durch das Team einfach verwaltbar sein.
+Das Nexus-Team ist sich im Klaren, dass der Text noch lange nicht fertig ist  - entsprechend soll dieser auch durch das Team einfach verwaltbar sein.
+
+Da der Text erst kurz vor GoLive fertig sein wird, kann hier mit Fülltext gearbeitet werden.
 
 ##### Anfragen
 Auf der Anfrageseite können Website-Besucher eine konkrete Anfrage für eine bestimmte Instel via Kontaktformular stellen.
