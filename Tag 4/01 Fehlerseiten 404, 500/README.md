@@ -22,8 +22,8 @@ Provoziert einen 404-Fehler auf eurer Website, in dem ihr eine URL aufruft, die 
 Zum Beispiel: `www.<eure-projekt-domain>.ch/blablablabla`
 
 Was passiert auf anderen Seiten?
-* [https://www.ict-bz.ch/blablablabla](https://www.ict-bz.ch/blablablabla)
-* [https://github.com/_blablabla](https://github.com/_blablabla)
+* [ICT-BZ 404-Fehlerseite](https://www.ict-bz.ch/blablablabla)
+* [GitHub 404-Fehlerseite](https://github.com/_blablabla)
 
 Wie findet ihr die aktuelle Lösung auf eurer Website? Was könnte man daran optimieren?
 
@@ -39,8 +39,8 @@ Fehler geschehen jedoch nicht nur clientseitig, sondern auch serverseitig. Der �
 * Server-Ressourcen aufgebraucht (RAM, Speicherplatz)
 
 Hier wiederum Beispiele:
-* https://www.ict-bz.ch/500
-* https://github.com/500
+* [ICT-BZ Fehlerseite](https://www.ict-bz.ch/500)
+* [GitHub Fehlerseite](https://github.com/500)
 
 ### Aufgabe
 
