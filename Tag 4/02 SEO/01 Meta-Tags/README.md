@@ -29,6 +29,14 @@ Die Meta-Description erscheint dann beim Suchresultat:
 
 ![Description im SERP](res/03.png)
 
+### `noindex` Meta-Tag
+
+Nicht alle Seiten einer Website sollen in den Suchresultaten auffindbar sein. Um eine spezifische Seite komplett von der Indexierung durch Suchmaschinen auszuschliessen, kann folgendes Tag im `<head>` Tag der Seite platziert werden:
+
+```html
+<meta name="robots" content="noindex">
+```
+
 #### Umsetzung im October CMS
 
 ```html
