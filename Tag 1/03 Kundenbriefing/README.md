@@ -8,6 +8,10 @@ Ziel des ersten Kurstages ist es, dass ihr am heute geplanten Kundenbriefing eur
 
 Die Präsentation findet zwischen dem Kursleiter und der Projektgruppe statt und ist Teil der Bewertung.
 
+#### Abgabe
+
+Neben der Präsentation erwartet der Kunde, dass ihr ihm eure Erkenntnisse, Vorschläge und Ideen in geeigneter digitalen Form abgebt. Die abgegebenen Dokumente müssen **nicht selbsterklärend**  sein und sollen einfach im zusammenhang mit dem Wissen aus dem Kundenbriefing Sinn ergeben.
+
 ## Struktur und Gestaltung
 Ausgangslage für die Umsetzung der Website ist ein vorgefertigtes HTML-Template: https://html5up.net/ - Ziel ist es, dass ihr euch für ein passendes Template entscheidet und dieses nach den Kundenanforderungen (Pflichtenheft, Styleguide) anpasst und weiterentwickelt.
 
