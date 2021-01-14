@@ -51,6 +51,6 @@ Provoziert einen 500-Fehler auf eurer Website. Dazu könnt ihr im Backend unter 
 echo "Syntax Error
 ```
 
-#### Umsetzung im October CMS
+## Umsetzung im October CMS
 
-Damit ihr steuern könnt, was bei einem 404- oder 500-Fehler angezeigt werden soll, könnt ihr unter `CMS` > `Seiten` zwei neue Seiten erstellen mit der Url `/404` und `/error`. Diese werden nun automatisch angezeigt, wenn einer dieser Fehler auftaucht.
+Damit ihr steuern könnt, was bei einem 404- oder 500-Fehler angezeigt werden soll, könnt ihr unter `CMS` > `Seiten` zwei neue Seiten erstellen mit der URL `/404` und `/error`. Diese werden nun automatisch angezeigt, wenn einer dieser Fehler auftaucht.
