@@ -3,7 +3,7 @@ Metainformationen sind Information über Informationen. Somit geben die Meta-Tag
 
 Die beiden wichtigsten sind dabei die der Titel und die Description:
 
-### Title-Tag - Seitentitel
+### Title-Tag
 
 `<title>Das ist der Titel der Website</title>`
 
@@ -23,7 +23,7 @@ Und im Suchresultat:
 `<meta name="description" content="Hier steht die Meta-Description."> `
 
 * kurze Beschreibung der Seite
-* erscheint in den SERPs unter Title und URL
+* erscheint in den Suchresultaten unter Titel und URL, falls passend
 
 Die Meta-Description erscheint dann beim Suchresultat:
 
@@ -32,6 +32,10 @@ Die Meta-Description erscheint dann beim Suchresultat:
 #### Umsetzung im October CMS
 
 ```html
-<title>{{ this.page.meta_title }}</title>
+<title>{{ this.page.meta_title | default(this.page.title) }}</title>
 <meta name="description" content="{{ this.page.meta_description }}">
 ```
+
+Die beiden Felder `page.meta_title` und `page.meta_description` können im Backend im CMS-Bereich bei jeder Seite über den «Meta»-Tab ausgefüllt werden.
+
+Beim obenstehenden Beispielcode wird für den Titel das `meta_title` Feld verwendet, falls vorhanden. Ansonsten wird der einfache Seitentitel verwendet. In gewissen Situationen ist es von Vorteil, wenn für die Suchmaschine ein anderer Seitentitel definiert werden kann, als für die Anzeige im Browser-Tab. 
