@@ -1,10 +1,10 @@
 # Realisation Website
 Normalerweise besteht die Realisation einer kompletten Website aus folgenden Phasen:
 
-![Zeitplanung Pomodoro Technik](src/phasen-website.png)
+![Phasen bei der Websiteerstellung](src/phasen-website.png)
 
 Diese teilen sich wiederum in folgende Arbeitsschritt auf:
 
-![Zeitplanung Pomodoro Technik](src/steps-website.png)
+![Phasen bei der Websiteerstellung - komplett](src/Phasen%20-%20komplett.png)
 
-[Übersicht als PDF](src/OFFLINE_Erklaerung_Webprojektablauf.pdf)
+[Übersicht als PDF](src/Phasen%20-%20komplett.pdf)

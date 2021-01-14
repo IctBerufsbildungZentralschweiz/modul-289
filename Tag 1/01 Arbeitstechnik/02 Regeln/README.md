@@ -18,9 +18,6 @@ Während dem Projekt werdet ihr früher oder später auf Probleme stossen. Das i
 * **Dringlichkeit 2** (Etwas ist nicht klar, ich kann jedoch an etwas anderem weiterarbeiten.)
 * **Dringlichkeit 3** (Wir haben ein schwerwiegendes Problem, dass uns bei der Weiterarbeit stark einschränkt.)
 
-#### Aufgabe
-Überlegt euch: Über welche Kanäle sollen die Probleme gemeldet werden?
-
 ### Problemmeldung
 
 * Was wollten wir erreichen?
@@ -28,4 +25,3 @@ Während dem Projekt werdet ihr früher oder später auf Probleme stossen. Das i
 * Wann taucht der Fehler jeweils auf?
 * Was habe ich als letztes geändert?
 * **Was habt ihr bereits unternommen, um den Fehler zu beheben?**
-* Anhang: Code, Screenshots
