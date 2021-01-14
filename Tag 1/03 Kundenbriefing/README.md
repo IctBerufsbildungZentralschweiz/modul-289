@@ -16,6 +16,7 @@ Ausgangslage für die Umsetzung der Website ist ein vorgefertigtes HTML-Template
 1. Überlegt euch, wie ihr die geforderten Inhalte und Funktionen mit den bestehenden Elementen aus dem Template strukturieren wollt.
 1. Überlegt euch, welche zusätzlichen Elemente oder Anpassungen es braucht, um den Inhalt optimal darzustellen.
 1. Tragt eure Ideen und Vorschläge in einer geeigneten Form zusammen, damit diese am Kunden präsentiert werden können.
+1. Dies gilt sowohl für die Darstellung auf Desktop, wie auch auf mobilen Geräten (Smartphone reicht für diese Präsentation).
 
 ## Unterstützung beim Blog-Konzept
 Der Kunde ist sich überhaupt noch nicht sicher, was für Beiträge er in seinem Blog haben möchte. Entsprechend ist er froh um euren fachlichen Input. Erarbeitet anhand eurer Analyse und Personas ein kleines Blog-Konzept das folgende Punkte beinhaltet:
