@@ -10,6 +10,8 @@ Um einen Besucher beim Surfen auf einer Website verfolgen zu können, werden oft
 
 Auch wenn wir ein «Cookie-Banner» verwenden und Cookies häufig das Mittel zum Zweck sind, umfasst die DSGVO jegliche Arten von Tracking. Wer also auf Cookies verzichtet und andere Methoden für die Verfolgung von Website-Besuchern anwendet, ist dennoch zur Einholung der Zustimmung verpflichtet.
 
+Auch wenn die die DSGVO eine EU-Verordnung ist und die Schweiz bekanntlich nicht zur EU gehört, solltet ihr die Bestimmungen dennoch beachten, da eure Website über das Internet im EU-Raum zugänglich ist. Weiter wird aktuell eine Revision des Schweizer Datenschutzgesetzes (DSG) diskutiert, welche zahlreiche Vorgaben aus der DSGVO ins Schweizer Recht übernehmen soll (Stand Januar 2021)
+
 Wer mehr zu diesem Thema wissen möchte, findet hier einen übersichtlichen Artikel zum Thema: https://www.cyon.ch/blog/Welche-Websites-benoetigen-Cookie-Banner
 
 ## Umsetzung im October CMS
