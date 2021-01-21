@@ -1,5 +1,5 @@
 # Nexus
-Das Team von Nexus möchte eine neue Verkaufswebsite. Die Website besteht aus folgenden Seiten:
+Das Team von Nexus möchte eine neue Website für den Verkauf von Inseln. Die Website besteht aus folgenden Seiten:
 
 #### Allgemein
 Auf jeder Seite soll der Standort des Hauptsitz via Google-Maps angezeigt werden (die Adresse ist noch unklar und kann deshalb frei von euch gewählt werden).
