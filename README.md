@@ -9,7 +9,7 @@
 |   | Grundlagen CMS                 | Theme erstellen                | Eigenständige Projektarbeit   | Eigenständige Projektarbeit   |                               |   |
 |   | Projektvorbereitung            | Eigenständige Projektarbeit    |                               |                               |                               |   |
 |   |                                |                                |                               |                               |                               |   |
-|   | Recherche                      | Plugins                        | Blog-Plugin                   | Besucherstatistik & GDPR      | Fertigstellung des Projekts   |   |
-|   | Vorbereitung Kundenbriefing    | Eigenständige Projektarbeit    | Eigenständige Projektarbeit   | Eigenständige Projektarbeit   | Präsentation                  |   |
-|   | Eigenständige Vorbereitung     |                                |                               | Testing                       | Besprechung und Reflexion     |   |
+|   | Vorbereitung Kundenbriefing    | Plugins                        | Blog-Plugin                   | Besucherstatistik & GDPR      | Fertigstellung des Projekts   |   |
+|   | Eigenständige Vorbereitung     | Eigenständige Projektarbeit    | Eigenständige Projektarbeit   | Eigenständige Projektarbeit   | Präsentation                  |   |
+|   | Kundenbriefing                 |                                |                               | Testing                       | Besprechung und Reflexion     |   |
 |   | Outro & Ausblick               | Outro & Ausblick               | Outro & Ausblick              | Outro & Ausblick              |                               |   |
