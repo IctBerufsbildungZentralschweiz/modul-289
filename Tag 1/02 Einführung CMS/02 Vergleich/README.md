@@ -5,7 +5,7 @@ So wie es bekanntlich viele Wege nach Rom gibt, gibt es auch viele CMS um einen 
 Folgende Informationen sollen darauf abgebildet sein:
 
 * Wer entwickelt das Projekt?
-* Was ist die aktuelle Version?
+* Was ist die aktuelle Version? Wann wurde diese veröffentlicht?
 * Wie viele Installationen gibt es?
 * Wie viele Plugins gibt es?
 * Was sind die wichtigsten Vorteile?
