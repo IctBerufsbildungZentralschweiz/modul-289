@@ -1,5 +1,5 @@
 # Kundenbriefing
-Ziel des ersten Kurstages ist es, dass ihr am heute geplanten Kundenbriefing eure Ideen für die Umsetzung der Website am Kunden (Kursleiter) präsentiert. Das Kundenbriefing soll mindestens folgende Punkte beinhaltet:
+Ziel des ersten Kurstages ist es, dass ihr am heute geplanten Kundenbriefing eure Ideen für die Umsetzung der Website vorzubereiten um diese am zweiten Kurstag dem Kunden (Kursleiter) zu präsentieren. Das Kundenbriefing soll mindestens folgende Punkte beinhaltet:
 
 * Erkenntnisse aus der Konkurrenzanalyse ([siehe Recherche](../02%20Projektarbeit/05%20Recherche/README.md))
 * Mindestens 2 definierte Personas ([siehe Recherche](../02%20Projektarbeit/05%20Recherche/README.md))
