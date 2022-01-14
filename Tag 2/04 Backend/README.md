@@ -4,17 +4,17 @@
 
 Das Backend von October erreichst du standardmässig über die URL `/backend`.
 
-> http://www.meine-website.ch/backend
+```
+https://m289gX.kurse.ict-bz.ch/projektnameXY/backend
+```
 
-### Sprache
-
-Standardmässig wird October CMS english installiert. Du kannst diese Einstellung entweder pro Benutzer über das Benutzermenü oben rechts umstellen oder global in dem du in der Datei `config/app.php` den `locale` Wert auf `de` umstellst.
+Wenn ihr das erste Mal diese URL aufruft, könnt ihr einen ersten Benutzer erstellen.
 
 ### Dashboard
 
 Hier erhältst du eine einfache Übersicht über deine October CMS Installation.
 
-### CMS
+### Editor
 
 Im CMS-Bereich kannst du die Basisdateien eines Themes bearbeiten. Dieser Bereich wendet sich an technische Benutzer (dich) und nicht an den Endkunden.
 

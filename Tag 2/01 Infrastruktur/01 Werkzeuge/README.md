@@ -70,7 +70,7 @@ Um die Konsole im VS Code zu öffnen, gehe im Menü auf `View -> Terminal` (Ctrl
 
 Damit wir uns mit dem Server verbinden können, benötigen wir das SSH-Modul. Um zu testen, ob das Modul in deiner Konsole verfügbar ist, gib den Befehl `SSH` ein. Sofern das Modul installiert ist, solltest du eine ähnliche Rückmeldung wie diese erhalten:
 
-```
+```shell
 PS C:\Users\user> ssh
 usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface]
            [-b bind_address] [-c cipher_spec] [-D [bind_address:]port]

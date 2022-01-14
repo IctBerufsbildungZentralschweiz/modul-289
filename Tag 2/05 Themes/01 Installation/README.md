@@ -11,9 +11,9 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 
 ## Layout und Seiten erstellen
 
-1. Navigiere zu `CMS -> Layouts` und klicke auf `Hinzufügen`
-1. Nenne dein neues Layout `default`
-1. Füge folgendne Code als Markup ein:
+1. Navigiere zu `Editor` und klicke neben Layouts auf `⋮` und im Untermenü auf `New Layout`
+1. Nenne dein neues Layout `default.htm`
+1. Füge folgenden Code als Markup ein:
 
 ```twig
 <!DOCTYPE html>
@@ -39,13 +39,13 @@ Da dein neues Theme überhaupt keine Daten enthält, kann das CMS dir momentan n
 </html>
 ```
 
-1. Navigiere zu `CMS -> Seiten` und Klicke auf `Hinzufügen`
+1. Navigiere zu `Editor` und klicke neben Pages auf `⋮` und im Untermenü auf `New Page`
 1. Nenne die Seite `Homepage`, wähle als URL `/`
-1. Wähle bei `Layout` das zuvor erstellte Default-Layout aus
+1. Öffne die Settings und wähle bei `Layout` das zuvor erstellte Default-Layout aus
 1. Füge folgenden Code als Markup ein:
 
 ```twig
 <p>Mein Seiteninhalt</p>
 ```
 
-Wenn du deine Website erneut aufrufst sollte deine neu erstellte Seite nun erscheinen.
+Wenn du deine Website erneut aufrufst, sollte deine neu erstellte Seite nun erscheinen.

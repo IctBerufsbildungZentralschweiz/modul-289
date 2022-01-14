@@ -4,6 +4,6 @@ Partials sind einzelne Elemente in eurem Theme, die an verschiedenen Orten wiede
 
 Ein Partial kann beliebig viele weitere Partials enthalten.
 
-Partials werden von dir als Entwickler bereitgestellt. Der Endandwender sollte Partials nie selber bearbeiten müssen.
+Partials werden von dir als Entwickler bereitgestellt. Der Endanwender sollte Partials nie selber bearbeiten müssen.
 
 ![](../res/partial.png)
