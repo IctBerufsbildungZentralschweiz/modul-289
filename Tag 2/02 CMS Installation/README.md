@@ -2,7 +2,7 @@
 
 Nachdem wir alles für das Projekt vorbereitet haben, können wir mit der Installation von October beginnen:
 
-[Hier geht's zur offiziellen Installationsanleitung.](https://octobercms.com/docs/setup/installation#wizard-installation)
+[Hier geht's zur offiziellen Installationsanleitung.](https://docs.octobercms.com/2.x/setup/installation.html)
 
 ### Bemerkungen dazu
 
