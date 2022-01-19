@@ -6,7 +6,7 @@ Um produktiv arbeiten zu können, solltest du einen modernen Text-Editor verwend
 
 ### Empfehlungen
 
-Wir empfehlen wir in diesem Kurs mit dem Visual Studio Code (VS Code) zu arbeiten. Natürlich gibt es auch viele andere tolle Editoren, aber in diesem Kurs werden sämtliche Arbeitsschritte mit diesem vorgezeigt und das VS Code hat bereits eine Konsole integriert. So musst du nur ein Programm installieren.
+Wir empfehlen wir in diesem Kurs mit dem [Visual Studio Code](https://code.visualstudio.com/) (VS Code) zu arbeiten. Natürlich gibt es auch viele andere tolle Editoren, aber in diesem Kurs werden sämtliche Arbeitsschritte mit diesem vorgezeigt und das VS Code hat bereits eine Konsole integriert. So musst du nur ein Programm installieren.
 
 Solltest du dich für ein anderes Programm entscheiden, ist es in deiner Verantwortung dich um eine SSH-fähige Konsole zu kümmern und diese zu unterhalten.
 
@@ -24,7 +24,7 @@ Folgende Plugins könnten für die nützlich sein:
 
 | Plugin Name      | Beschreibung                                                                                                    |
 |------------------|-----------------------------------------------------------------------------------------------------------------|
-| PHP Intelephense | Autocomplete-Funktionen, die Dir bei der Eingabe von PHP-Code helfen, kannst Du über folgende Plugins erhalten. |
+| PHP Intelephense | Autocomplete-Funktionen, die dir bei der Eingabe von PHP-Code helfen, kannst du über folgende Plugins erhalten. |
 | CSS Formatter   | Ermöglicht das automatische Formatieren von CSS-Code.                                                           |
 
 #### Bereits vorinstalliert: Emmet
@@ -57,18 +57,23 @@ ul>li{Punkt $}*3  -> TAB-Drücken
 
 ### Konsole (Terminal)
 
-Die Konsole, oder eben auch Terminal, ist eine alternative Art einen Computer zu steuern. Also anstelle von Maus und Tastatur, kann der Computer mit Befehlen gesteuert werden.
+Die Konsole, oder das Terminal, ist eine alternative Art einen Computer zu steuern. Anstelle von einer graphischen Benutzeroberfläche, werden bestimmte Befehle in der Konsole eingegeben und dann vom Computer verarbeitet.
 
-Ein Beispiel: Du klickst im Datei-Explorer auf den Ordner `Bilder` . Dies ist gleichbedeutend mit dem Konsolenbefehl `cd Bilder`.
+Ein Beispiel: Du erstellst im Datei-Explorer den Ordner `Bilder`. Dies ist gleichbedeutend mit dem Konsolenbefehl `mkdir Bilder`.
 
-Via Konsole haben wir auch die Möglichkeit uns mit einem anderen Computer via SSH zu verbinden. Anschliessend können das verbundene Gerät mit Befehlen steuern. Du ahnst also wieso wir die Konsole in diesem ÜK benötigen: Wir möchten uns mit dem Hosting-Server verbinden und darauf die Befehle ausführen, um das CMS oder Plugins zu installieren.
+#### SSH
+
+In der Konsole kann das `ssh` Programm benutzt werden, um eine Konsole auf einem anderen Computer/Server über das Netzwerk oder Internet zu öffnen. Dies ermöglicht dir, einen Computer fernzusteuern.
+
+In unserem Fall benötigen wir die Konsole um eine Verbindung mit dem Hosting-Server herzustellen um darauf das CMS zu installieren und zu verwalten.
 
 #### Konsole öffnen
+
 Um die Konsole im VS Code zu öffnen, gehe im Menü auf `View -> Terminal` (Ctrl + ¨). Nun öffnet sich das Terminal auf der unteren Seite des Editors. 
 
 #### SSH-Test
 
-Damit wir uns mit dem Server verbinden können, benötigen wir das SSH-Modul. Um zu testen, ob das Modul in deiner Konsole verfügbar ist, gib den Befehl `SSH` ein. Sofern das Modul installiert ist, solltest du eine ähnliche Rückmeldung wie diese erhalten:
+Damit wir uns mit dem Server verbinden können, benötigen wir den `ssh` Befehl. Um zu testen, ob dieser in deiner Konsole verfügbar ist, gib den Befehl `ssh` ein und drücke die `Enter`-Taste. Sofern das Modul installiert ist, solltest du eine ähnliche Rückmeldung wie diese erhalten:
 
 ```shell
 PS C:\Users\user> ssh
