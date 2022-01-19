@@ -26,8 +26,8 @@ php artisan plugin:install autor.plugin
 
 Verbinde dich nun wieder via [SSH auf den Server](../../Tag%202/02%20SSH-Verbindung), navigiere in den Projektordner (`cd web/projektnameXY/`), füge den kopierten Code ein und klick `Enter`.
 
-### Datenbank erstellen
-Nun hast du das Plugin-Paket heruntergeladen, jedoch die dazugehörige Datenbank noch nicht erstellt. Damit diese automatisch erstellt werden, füge folgenden Befehl aus:
+### Datenbank-Tabellen erstellen
+Nun hast du das Plugin-Paket heruntergeladen, jedoch die dazugehörigen Datenbank-Tabellen noch nicht erstellt. Damit diese automatisch erstellt werden, führe folgenden Befehl aus:
 
 ```shell
 php artisan october:migrate
