@@ -20,6 +20,8 @@ Solltest du dich für ein anderes Programm entscheiden, ist es in deiner Verantw
 
 Plugins sind Erweiterungen für deinen Code-Editor, um dir das Arbeiten etwas zu vereinfachen. Um Plugins zu installieren, gehe im Menü auf `File -> Preferences -> Extensions` (Ctrl + Shift + X). Du kannst jetzt den Namen eines Plugins eingeben und es über den «Install»-Button installieren.
 
+#### Nützliche Plugins für Code-Bearbeitung
+
 Folgende Plugins könnten für die nützlich sein:
 
 | Plugin Name      | Beschreibung                                                                                                    |
@@ -57,45 +59,66 @@ ul>li{Punkt $}*3  -> TAB-Drücken
 
 ### Konsole (Terminal)
 
-Die Konsole, oder das Terminal, ist eine alternative Art einen Computer zu steuern. Anstelle von einer graphischen Benutzeroberfläche, werden bestimmte Befehle in der Konsole eingegeben und dann vom Computer verarbeitet.
+Die Konsole, oder das Terminal, ist eine alternative Art einen Computer zu steuern. Anstelle von einer grafischen Benutzeroberfläche, werden bestimmte Befehle in der Konsole eingegeben und dann vom Computer verarbeitet.
 
 Ein Beispiel: Du erstellst im Datei-Explorer den Ordner `Bilder`. Dies ist gleichbedeutend mit dem Konsolenbefehl `mkdir Bilder`.
 
-#### SSH
+#### SSH (Secure Shell)
 
-In der Konsole kann das `ssh` Programm benutzt werden, um eine Konsole auf einem anderen Computer/Server über das Netzwerk oder Internet zu öffnen. Dies ermöglicht dir, einen Computer fernzusteuern.
+In der Konsole kann ein `ssh` Programm benutzt werden, um eine Konsole auf einem anderen Computer/Server über das Netzwerk oder Internet zu öffnen. Dies ermöglicht dir, einen Computer fernzusteuern.
 
-In unserem Fall benötigen wir die Konsole um eine Verbindung mit dem Hosting-Server herzustellen um darauf das CMS zu installieren und zu verwalten.
+In unserem Fall benötigen wir die Konsole, um eine Verbindung mit dem Hosting-Server herzustellen, um darauf das CMS zu installieren und Änderungen am Code vorzunehmen oder lokale Dateien in das Dateisystem des Servers zu transferieren.
 
-#### Konsole öffnen
+### Plugin: Remote-SSH
 
-Um die Konsole im VS Code zu öffnen, gehe im Menü auf `View -> Terminal` (Ctrl + ¨). Nun öffnet sich das Terminal auf der unteren Seite des Editors. 
+Um das Handling des Servers zu vereinfachen, bietet VS-Code das Plugin «Remote - SSH» an.
 
-#### SSH-Test
+![Plugin in den Extensions](res/01.png)
 
-Damit wir uns mit dem Server verbinden können, benötigen wir den `ssh` Befehl. Um zu testen, ob dieser in deiner Konsole verfügbar ist, gib den Befehl `ssh` ein und drücke die `Enter`-Taste. Sofern das Modul installiert ist, solltest du eine ähnliche Rückmeldung wie diese erhalten:
+Sobald du das Plugin installiert hast, erscheint am unteren linken Rand des Fensters eine neue Statusbar:
+
+![Statusbar](res/02.png)
+
+Mit einem Klick auf die Statusbar können wir mit der Einrichtung der Verbindung zum Server starten:
+
+![Connect to Host...](res/03.png)
+
+
+#### SSH-Server hinzufügen
+Mit einem Klick auf `+ Add News SSH Host...` kannst Du eine neue Server-Verbindung erfassen. Diese wird vom VS-Code gespeichert und kann anschliessend immer wieder genutzt/aufgebaut werden.
+
+Die im nächsten Schritt benötigten Zugangsdaten findest du im Moodle. Trage diese anschliessend ein::
 
 ```shell
-PS C:\Users\user> ssh
-usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface]
-           [-b bind_address] [-c cipher_spec] [-D [bind_address:]port]
-           [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]      
-           [-i identity_file] [-J [user@]host[:port]] [-L address]
-           [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port]
-           [-Q query_option] [-R address] [-S ctl_path] [-W host:port]
-           [-w local_tun[:remote_tun]] destination [command]
+# ssh benutzername@server
+ssh m289gX@m289gX.kurse.ict-bz.ch
 ```
 
+Als Nächstes fragt dich das VS-Code, wo die SSH-Konfiguration gespeichert werden soll. Hast entweder den Standardpfad bestätigen oder einen eigenen Speicherort wählen:
 
-## FTP-Programm
+```shell
+C:\Users\user\.ssh\config
+```
 
-FTP bedeutet File Transfer Protocol. Es ist ein Kommunikationsprotokoll, um Dateien zwischen unterschiedlichen Computersystemen auszutauschen. Die Kommunikation findet nach dem Client-Server-Prinzip statt.
+#### SSH-Server verbinden
+Nun können wir uns mit dem Server verbinden, indem wir die erfasste Server-Verbindung `m289gX@m289gX.kurse.ict-bz.ch` auswählen. Nun erscheint ein neues Fenster, wo wir das Betriebssystem des Zielservers angeben müssen. In unserem Fall handelt es sich um einen `Linux`-Server.
 
-Das heißt, es gibt einen FTP-Client, der wie ein Datei-Manager funktioniert. Und es gibt einen FTP-Server, der dem FTP-Client Dateien zur Verfügung bzw. Speicherplatz für Dateien bereitstellt. Der FTP-Client kann Dateien auf dem FTP-Server ablegen, löschen oder herunterladen.
+Anschliessend kannst du das Passwort eingeben. Das Passwort findest du ebenfalls im Moodle.
 
-Der typische Anwendungsfall wäre die Dateiübertragung auf einen Webserver, der nicht nur aus einem HTTP-Server, sondern auch aus einem FTP-Server besteht. Per FTP können also HTML- und Bild-Dateien auf einen Webserver übertragen und verwaltet werden.
 
-#### FTP-Programm installieren
 
-* https://winscp.net/
-* https://filezilla-project.org/ (Achtung: McAfee!)
+### TBD: Navigieren
+
+Nach der erfolgreichen Verbindung mit dem Server sind wir nun im Home-Verzeichnis gelandet. Das Hosting ist so eingestellt, dass sämtliche Aufrufe der Domain `m289gX.kurse.ict-bz.ch` ins `/web`-Verzeichnis geleitet werden. Um das Verzeichnis zu betreten, kann der `cd` (change directory) Befehl verwendet werden:
+
+```shell
+cd web
+```
+
+Anschliessend sollte die letzte Linie der Konsole so aussehen: `m289gX@dedi5011:[~/web]:`.
+
+Mit dem `ls` (list directory contents) Befehl kannst du überprüfen, welche Dateien und Ordner bereits existieren:
+
+```shell
+ls
+```
