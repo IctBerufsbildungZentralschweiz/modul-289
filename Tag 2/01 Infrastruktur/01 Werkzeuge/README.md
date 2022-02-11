@@ -90,8 +90,7 @@ Mit einem Klick auf `+ Add News SSH Host...` kannst Du eine neue Server-Verbindu
 Die im nächsten Schritt benötigten Zugangsdaten findest du im Moodle. Trage diese anschliessend ein::
 
 ```shell
-# ssh benutzername@server
-ssh m289gX@m289gX.kurse.ict-bz.ch
+ssh benutzer@server
 ```
 
 Als Nächstes fragt dich das VS-Code, wo die SSH-Konfiguration gespeichert werden soll. Hast entweder den Standardpfad bestätigen oder einen eigenen Speicherort wählen:
@@ -101,24 +100,37 @@ C:\Users\user\.ssh\config
 ```
 
 #### SSH-Server verbinden
-Nun können wir uns mit dem Server verbinden, indem wir die erfasste Server-Verbindung `m289gX@m289gX.kurse.ict-bz.ch` auswählen. Nun erscheint ein neues Fenster, wo wir das Betriebssystem des Zielservers angeben müssen. In unserem Fall handelt es sich um einen `Linux`-Server.
+Nun können wir uns mit dem Server verbinden, indem wir die erfasste Server-Verbindung `benutzer@server` auswählen. Nun erscheint ein neues Fenster, wo wir das Betriebssystem des Zielservers angeben müssen. In unserem Fall handelt es sich um einen `Linux`-Server.
 
 Anschliessend kannst du das Passwort eingeben. Das Passwort findest du ebenfalls im Moodle.
 
 
 
-### TBD: Navigieren
+### Navigieren
 
-Nach der erfolgreichen Verbindung mit dem Server sind wir nun im Home-Verzeichnis gelandet. Das Hosting ist so eingestellt, dass sämtliche Aufrufe der Domain `m289gX.kurse.ict-bz.ch` ins `/web`-Verzeichnis geleitet werden. Um das Verzeichnis zu betreten, kann der `cd` (change directory) Befehl verwendet werden:
+Nach der erfolgreichen Verbindung mit dem Server sind wir nun im Home-Verzeichnis gelandet. Das Hosting ist so eingestellt, dass sämtliche HTTP-Aufrufe der Domain `m289-X.ch` ins `/public_html`-Verzeichnis geleitet werden. Um das Verzeichnis zu betreten, kann der `cd` (change directory) Befehl verwendet werden:
 
 ```shell
-cd web
+cd public_html
 ```
 
-Anschliessend sollte die letzte Linie der Konsole so aussehen: `m289gX@dedi5011:[~/web]:`.
+Anschliessend sollte die letzte Linie der Konsole so aussehen: `benutzer@server:[~/public_html]:`.
 
 Mit dem `ls` (list directory contents) Befehl kannst du überprüfen, welche Dateien und Ordner bereits existieren:
 
 ```shell
 ls
+```
+### Projektordner erstellen
+
+Nun könnt ihr euren Projektordner mit dem `mkdir` (make directory) Befehl erstellen. Nehmt als Ordnernamen euren Projektnamen: 
+
+```shell
+mkdir mein-projekt
+```
+
+Anschliessend könnt ihr gleich mit dem cd-Befehl in den Ordner wechseln:
+
+```shell
+cd mein-projekt
 ```
