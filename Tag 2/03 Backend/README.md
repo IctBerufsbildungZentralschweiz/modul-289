@@ -4,8 +4,9 @@
 
 Das Backend von October erreichst du standardmässig über die URL `/backend`.
 
-```
-https://m289gX.kurse.ict-bz.ch/projektnameXY/backend
+```shell
+# https://subdomain.domain.ch/backend
+https://mein-projekt.m289-1.ch/backend
 ```
 
 Wenn ihr das erste Mal diese URL aufruft, könnt ihr einen ersten Benutzer erstellen.
