@@ -1,8 +1,5 @@
 # Installation
 
-Nachdem wir nun nun die Verbindung mit dem Server aufgebaut haben, können wir mit der Installation von October beginnen.
-
-[Hier geht's zur offiziellen Installationsanleitung.](https://docs.octobercms.com/2.x/setup/installation.html)
 
 ### Datenbank
 
@@ -20,23 +17,24 @@ Dort kannst du anschliessend eine Datenbank erstellen. Der Prefix ist dabei bei 
 
 ![Bezeichnung der Datenbank mit Prefix](res/02.png)
 
-Nach dem Hinzufügen der Datenbank werden euch die Benutzerdaten für die Datenbank im blauen Balken am oberen Bildschirmrand angezeigt:
+Nach dem Hinzufügen der Datenbank werden euch die Benutzerdaten für die Datenbank im blauen Balken am oberen Bildschirmrand angezeigt. 
+**Wichtig:** Kopiere das Passwort und notiere es Dir für die spätere Verwendung!
 
 ![Benutzerdaten für Datenbank](res/03.png)
 
 ### Subdomain erstellen
 
-Damit jedes Projekt über eine individuelle URL erreichbar ist, erstellen wir für jedes Projekt eine separate Subdomain. Wechsle nun im Reiter «Webhosting» auf den Punkt «Subdomain»:
+Damit jedes Projekt über eine individuelle URL erreichbar ist, erstellen wir für jedes Projekt eine separate Subdomain. Wechsle nun im Reiter «Webhosting» auf den Punkt «Subdomains»:
 
 ![Subdomain einrichten](res/04.png)
 
-Wähle anschliessend eine Subdomain und verweise bei Verzeichnis auf den vorher [erstellen Projektordner](../01%20Infrastruktur/01%20Werkzeuge/README.md#Projektordner erstellen) (Achtung: Der Pfad in den `public_html` müsst ihr nicht nochmal eingeben!):
+Wähle anschliessend eine Subdomain und verweise bei Verzeichnis auf den vorher erstellen Projektordner (Achtung: Der Pfad in den `public_html` müsst ihr nicht nochmal eingeben!):
 
 ![Subdomain erstellen](res/05.png)
 
 ### SSL-Zertifikat aktivieren
 
-Damit unsere Website später durch `HTTPS` geschützt ist, müssen wir im Reiter «Sicherheit» unter «Kostenlose SSL-Zertifikate» das SSL-Zertifikat der erstellen Subdomain noch aktiveren.
+Damit unsere Website später durch `HTTPS` geschützt ist, müssen wir im Reiter «Sicherheit» unter «Kostenlose SSL-Zertifikate» das SSL-Zertifikat der erstellten Subdomain noch aktiveren.
 
 ![SSL-Zertifikat erstellen](res/06.png)
 
@@ -49,3 +47,9 @@ Damit unsere Website später durch `HTTPS` geschützt ist, müssen wir im Reiter
 - [x] SSL-Zertifikat für Subdomain erstellt
 
 Nachdem wir nun sämtliche Vorbereitungsarbeiten erledigt haben, sind wir bereit für die Installation!
+
+## CMS installieren
+
+Nachdem wir nun den Server vorbereitet haben, können wir mit der Installation von October beginnen.
+
+[Hier geht's zur offiziellen Installationsanleitung.](https://docs.octobercms.com/2.x/setup/installation.html)

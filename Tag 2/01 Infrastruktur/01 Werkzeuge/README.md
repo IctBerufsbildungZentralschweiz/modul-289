@@ -71,7 +71,7 @@ In unserem Fall benötigen wir die Konsole, um eine Verbindung mit dem Hosting-S
 
 ### Plugin: Remote-SSH
 
-Um das Handling des Servers zu vereinfachen, bietet VS-Code das Plugin «Remote - SSH» an.
+Um das Handling des Servers zu vereinfachen, bietet VS Code das Plugin «Remote - SSH» an.
 
 ![Plugin in den Extensions](res/01.png)
 
@@ -85,22 +85,23 @@ Mit einem Klick auf die Statusbar können wir mit der Einrichtung der Verbindung
 
 
 #### SSH-Server hinzufügen
-Mit einem Klick auf `+ Add News SSH Host...` kannst Du eine neue Server-Verbindung erfassen. Diese wird vom VS-Code gespeichert und kann anschliessend immer wieder genutzt/aufgebaut werden.
+Mit einem Klick auf `+ Add New SSH Host...` kannst Du eine neue Server-Verbindung erfassen. Diese wird in VS Code gespeichert und kann anschliessend immer wieder genutzt/aufgebaut werden.
 
-Die im nächsten Schritt benötigten Zugangsdaten findest du im Moodle. Trage diese anschliessend ein::
+Die im nächsten Schritt benötigten Zugangsdaten findest du im Moodle. Trage diese anschliessend ein:
 
 ```shell
 ssh benutzer@server
 ```
 
-Als Nächstes fragt dich das VS-Code, wo die SSH-Konfiguration gespeichert werden soll. Hast entweder den Standardpfad bestätigen oder einen eigenen Speicherort wählen:
+Als Nächstes fragt dich VS Code, wo die SSH-Konfiguration gespeichert werden soll. Hast kannst du entweder den Standardpfad bestätigen:
 
 ```shell
 C:\Users\user\.ssh\config
 ```
 
 #### SSH-Server verbinden
-Nun können wir uns mit dem Server verbinden, indem wir die erfasste Server-Verbindung `benutzer@server` auswählen. Nun erscheint ein neues Fenster, wo wir das Betriebssystem des Zielservers angeben müssen. In unserem Fall handelt es sich um einen `Linux`-Server.
+
+Nun können wir uns mit dem Server verbinden, indem wir die erfasste Server-Verbindung `benutzer@server` auswählen. Es erscheint ein neues Fenster, wo wir das Betriebssystem des Zielservers angeben müssen. In unserem Fall handelt es sich um einen `Linux`-Server.
 
 Anschliessend kannst du das Passwort eingeben. Das Passwort findest du ebenfalls im Moodle.
 
@@ -108,7 +109,7 @@ Anschliessend kannst du das Passwort eingeben. Das Passwort findest du ebenfalls
 
 ### Navigieren
 
-Nach der erfolgreichen Verbindung mit dem Server sind wir nun im Home-Verzeichnis gelandet. Das Hosting ist so eingestellt, dass sämtliche HTTP-Aufrufe der Domain `m289-X.ch` ins `/public_html`-Verzeichnis geleitet werden. Um das Verzeichnis zu betreten, kann der `cd` (change directory) Befehl verwendet werden:
+Nach der erfolgreichen Verbindung mit dem Server, sind wir nun im Home-Verzeichnis gelandet. Das Hosting ist so eingestellt, dass sämtliche HTTP-Aufrufe der Domain `m289-X.ch` ins `/public_html`-Verzeichnis geleitet werden. Um das Verzeichnis zu betreten, kann der `cd` (change directory) Befehl verwendet werden:
 
 ```shell
 cd public_html
