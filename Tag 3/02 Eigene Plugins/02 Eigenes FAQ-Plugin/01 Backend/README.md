@@ -44,7 +44,7 @@ Nun können wir darauf die benötigten Felder für die MySQL-Datenbank ableiten:
 * `autoincrement` veranlasst, dass der wärt automatisch +1 hochgezählt wird: 1,2,3,4,5...
 * Felder mit `nullable` dürfen entweder leer sein, weil sie nicht zwingen benötigt werden oder diese werden vom System automatisch generiert (ID und Reihenfolge).
 
-Jetzt können wir also die Tabelle erstellen, in dem wir unter Database auf `+ Add` klicken. Dort können wir den vorgenerierten Tabellennamen mit unserer Tabellenbezeichnung ergänzen und die Struktur definieren. Der Wert `Length` wird dabei vom October CMS selber ausgefüllt.
+Jetzt können wir also die Tabelle erstellen, in dem wir unter Database auf `+ Add columns` klicken. Dort können wir den vorgenerierten Tabellennamen mit unserer Tabellenbezeichnung ergänzen und die Struktur definieren. Der Wert `Length` wird dabei vom October CMS selber ausgefüllt.
 
 ![Datenbank erstellen](res/03.jpg)
 
@@ -87,45 +87,58 @@ Das Gleiche kannst du jetzt auch noch mit dem Feld für die Antwort mit dem Typ 
 
 Damit können wir die Form abschliessen und speichern.
 
+**Tipp**: Deutlich einfacher kann das Formular auch über den `Add database fields` erstellt werden. Dabei werden die Felder aus der Datenbank
+
+![Add database fields](res/09.jpg)
+
 ##### Lists
 
 Nun können wir noch eine Liste erstellen, in der alle Fragen angezeigt und ausgewählt werden können. Dazu klicken wir auf das `+` hinter dem Begriff Lists und definieren die Felder, welche angezeigt werden sollen. Dabei geht es um die Übersicht, Felder die zu viel Inhalt haben (Antwort) oder dem Benutzer nichts sagen (ID), müssen nicht angezeigt werden.
 
 Mit dem Checkboxen in jeder Zeile können wir noch bestimmen, ob die Informationen durchsuchbar, versteckt und sortierbar sind.
 
-![List erstellen](res/09.jpg)
+![List erstellen](res/10.jpg)
 
 Damit können wir die Liste abschliessen und speichern.
 
-#### Schritt 3: Backend Menu
-Nun geht es darum, den Menüpunkt für das Plugin zu erstellen. Unter `Backend Menu` kannst du dazu einfach `+ Add main menu item` auswählen, eine passende Bezeichnung eingeben und ein Icon auswählen.
+#### Schritt 3: Berechtigungen
 
-![Backendmenü erstellen](res/10.jpg)
+Nicht alle Benutzer dürfen alle Aktionen ausführen. Entsprechend müssen wir diesem Plugin auch eine Berechtigung vergeben, die wir später an Benutzer freigeben können oder eben nicht.
 
-#### Schritt 4: Controller erstellen
+![Backendmenü erstellen](res/11.jpg)
+
+**Wichtig**: Wichtig an dieser Stelle ist, dass der `Permission code` nur einmal vorkommt.
+
+#### Schritt 4: Backend Menu
+Nun geht es darum, den Menüpunkt für das Plugin zu erstellen. Unter `Backend Menu` kannst du dazu einfach `+ Add main menu item` auswählen, eine passende Bezeichnung eingeben und ein Icon auswählen. Bei den Permissions kannst du nun den Permission code von vorhin eintragen.
+
+![Backendmenü erstellen](res/12.jpg)
+
+#### Schritt 5: Controller erstellen
 Sowie das Model stellvertretend für einen einzelnen Listeneintrag steht, so steht der Controller für alle Einträge in einer Liste und deren Verhalten. Entsprechend können wir im Bereich Controller mit `+ Add` einen Controller hinzufügen. Dessen Bezeichnung ist immer die Mehrzahl vom dazugehörigen Model (bei uns `Question`) und der erste Buchstabe ist ebenfalls grossgeschrieben. In unserem Beispiel wäre das also: `Questions`. 
 
-![Controller erstellen](res/11.jpg)
+![Controller erstellen](res/13.jpg)
 
 Neben dem Namen erwartet der Builder noch andere Informationen:
 
-* `Base model class` - zu wechem Model gehört der Controller. Bei unserem Beispiel: Question
+* `Base model class` - zu welchem Model gehört der Controller. Bei unserem Beispiel: Question
 * `Active menu item` - zu welchem Menü-Item gehört der Controller. Bei unserem Beispiel: FAQ
 * [ ] `List controller behaviour` - gibt es eine Liste zu diesem Controller. In unserem Fall: Ja
 * [ ] `Form controller behaviour` - gibt es ein Formular zu diesem Controller. In unserem Fall: Ja
 * [ ] `Reorder controller behaviour` - können die Einträge über das Feld `sort_order` sortiert werden. In unserem Fall: Ja
+* Unter dem Reiter `Permissions` kannst du wiederum die vorhin erstellte Berechtigung auswählen. 
 
 Mit einem Klick auf `OK` kann der Controller erstellt werden und die angewählten Behaviours werden angezeigt.
 
 Damit bei der Sortierung die richtigen Informationen angezeigt werden, muss im `Reorder controller behaviour` der `Attribute name` angepasst werden mit dem Feld, dass bei der Sortierung sichtbar ist:
 
-![Sortorder aktivieren](res/12.jpg)
+![Sortorder aktivieren](res/14.jpg)
 
 Abschliessend kann der Controller noch mit dem `Backend Menu` verlinkt werden. Dazu wird der erstellte Menüpunkt nochmals bearbeitet und bei der `URL` der author-namespace, der plugin-namespace und der controller-name eingetragen werden.
 
-![Menüpunkt verknüpfen](res/13.jpg)
+![Menüpunkt verknüpfen](res/15.jpg)
 
-#### Schritt 5: Reihenfolge aktivieren
+#### Schritt 6: Reihenfolge aktivieren
 Nach einem Seitenrefresh (F5) sollte das Plugin im Menü ersichtlich sein. Einträge können nun erstellt werden, jedoch muss die automatische Verwaltung von der Reihenfolge im October noch aktiviert werden.
 
 Navigiere dazu im Plugins-Ordner zur Datei mit der Bezeichnung deines Models im Ordner `Models`. 

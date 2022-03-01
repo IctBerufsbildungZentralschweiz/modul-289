@@ -4,23 +4,27 @@ Die Daten sind nun also sortiert in unserer Datenbank. Jedoch wollen wir diese n
 #### Schritt 1: Partial erstellen
 Gehe ins Backend und erstelle ein Partial, in dem du deine Inhalte auflisten möchtest.
 
-* `Dateiname` - gib dem Partial ein Dateinamen. Der Name wird nirgends angezeigt, jedoch die Informationen werden aus dem Partial werden in dieser Datei gespeichert.
-* `Beschreibung` - gib dem Partial eine Beschreibung, der dessen Inhalt beschreibt.
-* `Snippet code` - gib dem Partial einen **eindeutigen** Snippet code. Mit diesem kann dein Partial und somit auch die Inhalte aus deinem Plugin auf im Static Pages genutzt werden.
-* `Name` - gib deinem Partial einen Namen, damit du dieses später im Static Pages indentifizieren kannst.
+* `Dateiname` - gib dem Partial einen Dateinamen. Der Name wird nirgends angezeigt, jedoch die Informationen werden aus dem Partial werden in dieser Datei gespeichert.
 
-![Partial für Komponente](res/01.jpg)
+Öffne nun die Snippet-Einstellungen:
+
+![Snippet-Einstellungen öffnen](res/01.jpg)
+ 
+* `Snippet code` - gib dem Partial einen **eindeutigen** Snippet code. Mit diesem kann dein Partial und somit auch die Inhalte aus deinem Plugin auf im Static Pages genutzt werden.
+* `Name` - gib deinem Partial einen Namen, damit du dieses später im Static Pages identifizieren kannst.
+
+![Snippet-Einstellungen](res/02.jpg)
 
 #### Schritt 2: Builder-Komponente einfügen
 Nun kannst du links auf Komponenten klicken und die `Builder > Record list` per Drag&Drop in den Markup-Bereich deines Partials ziehen.
 
-![Partial per Drag&Drop](res/02.jpg)
+![Builder-Komponente einfügen](res/03.jpg)
 
 #### Schritt 3: Builder-Komponente konfigurieren
 Um der Biulder-Komponente mitzuteilen, welche Liste diese anzeigen soll, kannst du einfach auf die `Record list` Komponente in der orangen Fläche klicken. Nun kannst du unter anderem folgende Einstellungen vornehmen:
 
 
-![Einstellungen der Builder-Komponente](res/03.jpg)
+![Einstellungen der Builder-Komponente](res/04.jpg)
 
 
 * `Verknüpfung` - das ist ein Alias, um später via Twig auf die Daten zuzugreifen.
@@ -35,12 +39,12 @@ Nun kannst du die Komponente beliebig in deinem Layout, einer CMS Seite oder ein
 
 Hier ein Beispiel für eine Static Page:
 
-![Komponente in Static Page](res/04.jpg)
+![Komponente in Static Page](res/05.jpg)
 
 #### Schritt 5: Komponente überlagern
 In 99% aller Fälle reicht das Standard-Layout der Komponente nicht aus. Entsprechend wollen wir dieses überlagern. Dies funktioniert gleich wie bei den installierten Plugins in dem wir ein gleichnamiges Partial (gleich wie die Verknüpfung) im Theme-Ordner erstellen: 
 
-![Komponente überlagern](res/05.jpg)
+![Komponente überlagern](res/06.jpg)
 
 Die im Partial enthaltene `default.htm`-Datei überlagert die standardmässige Darstellung der Komponente.
 

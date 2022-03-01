@@ -1,6 +1,6 @@
 # Backend: Bilder ins Plugin einfügen
 
-Um Bilder in einem Plugin einzufügen benötigt es folgende Anpassungen:
+Um Bilder in einem Plugin einzufügen, benötigt es folgende Anpassungen:
 
 ### Schritt 1: Feld im Backend erstellen
 Um Bilder für einen Eintrag zu erfassen, braucht es **kein** neues Feld in der Datenbank. Du kannst einfach via `Builder` -> `Models` -> `Forms` ein File-Upload-Feld erstellen:
