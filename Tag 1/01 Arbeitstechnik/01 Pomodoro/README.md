@@ -1,6 +1,6 @@
 # Die Pomodoro-Technik
 
-[![Titelbild zur Pomodoro Technik](src/pomodoro.jpg)](https://youtu.be/VFW3Ld7JO0w)
+[![Titelbild zur Pomodoro Technik](src/pomodoro.jpg)](https://youtu.be/dnt2lTdcn8g)
 
 Die Pomodoro-Technik ist eine Arbeitsmethode um eine grosse Aufgabe in kleine Tomaten (ital. Pomodoro) à 30 Minuten zu unterteilen. Sie wurde von Francesco Cirillo erfunden, der die Technik nach seinem tomatenförmigen Wecker benannt hat.
 
