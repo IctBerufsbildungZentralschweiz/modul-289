@@ -1,5 +1,5 @@
 # Projektbriefings
-Jeder Gruppe erarbietet in den folgenden Kurstagen eines der beschriebenen Projektbriefings. Ein Briefing darf nur jeweils von einer Gruppe bearbeitet werden.
+Jede Gruppe erarbietet in den folgenden Kurstagen eines der beschriebenen Projektbriefings. Ein Briefing darf nur jeweils von einer Gruppe bearbeitet werden.
 
 ## Themen
 Zur Auswahl stehen:
