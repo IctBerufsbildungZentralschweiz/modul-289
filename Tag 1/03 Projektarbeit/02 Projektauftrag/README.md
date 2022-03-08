@@ -1,5 +1,5 @@
 # Projektauftrag
-In den kommenden fünf Kurstagen sind wir als Kursgruppe eine kleine Webagentur. Die Agentur besteht aus verschiedenen Arbeitsgruppen aus jeweils zwei Personen. Ziel der Gruppe ist es, in den nächsten fünf Tage eine dynamische Website zu realisieren. Die Inhalte der Seite sollen dabei mit Hilfe eines CMS verwaltet werden. Das Design wurde dabei bereits von einer Grafikagentur erarbeitet und als Hilfsmittel können wir auf bestehende Templates zurückgreifen. Somit geht es im Projekt in erster Linie um die Integration der Website und Inhalte ins CMS.
+In den kommenden fünf Kurstagen sind wir als Kursgruppe eine kleine Webagentur. Die Agentur besteht aus verschiedenen Arbeitsgruppen aus jeweils zwei Personen. Ziel der Gruppe ist es, in den nächsten fünf Tagen eine dynamische Website zu realisieren. Die Inhalte der Seite sollen dabei mit Hilfe eines CMS verwaltet werden. Das Design wurde dabei bereits von einer Grafikagentur erarbeitet und als Hilfsmittel können wir auf bestehende Templates zurückgreifen. Somit geht es im Projekt in erster Linie um die Integration der Website und Inhalte ins CMS.
 
 ## Einordnung der Projektarbeit
 
