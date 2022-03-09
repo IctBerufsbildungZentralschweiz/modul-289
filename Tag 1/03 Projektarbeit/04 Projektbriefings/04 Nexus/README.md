@@ -77,7 +77,6 @@ Dazu hier noch die Logos und die Grafiken als Vektor-Dateien:
 
 * [Goldiges Logo](src/logo_gold.svg)
 * [Helles Logo](src/logo_white.svg)
-* [Design Guidelines](src/guidelines.jpg)
 
 ##### Bildwelt
 Nexus hat noch keine Bildwelt und ist darum offen für eure Vorschläge. Der Kunde wäre also froh um eure Inputs beim Kundenbriefing.
