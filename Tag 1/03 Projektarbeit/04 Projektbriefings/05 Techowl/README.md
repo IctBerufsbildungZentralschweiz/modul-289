@@ -69,7 +69,7 @@ Den Styleguide des Kunden findet ihr [unter diesem Link.](../src/Styleguide%20Te
 ##### Logos & Grafiken
 Dazu hier noch die Logos und die Grafiken als Vektor-Dateien:
 
-* [Logo mit Verlauf](src/logo_gradient.svg)
+* [Logo mit Verlauf](src/logo_gradiant.svg)
 * [Helles Logo](src/logo_white.svg)
 * [Dunkle Grafik](src/figure_dark.svg)
 * [Grafik mit Verlauf](src/figure_gradiant.svg)
