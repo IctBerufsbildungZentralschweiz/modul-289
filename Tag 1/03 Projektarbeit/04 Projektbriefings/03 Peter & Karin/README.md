@@ -76,7 +76,6 @@ Dazu hier noch die Logos und die Grafiken als Vektor-Dateien:
 
 * [Dunkles Logo](src/logo_dark.svg)
 * [Helles Logo](src/logo_white.svg)
-* [Design Guidelines](src/guidelines.jpg)
 
 ##### Bildwelt
 Gemeinsam mit dem Kunden wurde eine Bildwelt erarbeitet. Die auf der Website eingesetzten Bilder sollten in einer ähnlichen Stimmung sein. Die Bilder können ohne Absprache mit dem Kunden ausgetauscht oder ergänzt werden.
