@@ -24,7 +24,7 @@ Wenn du im Marketplace ein Plugin gefunden hast, kannst du es wie folgt installi
 php artisan plugin:install autor.plugin
 ```
 
-Verbinde dich nun wieder via [SSH auf den Server](../../Tag%202/02%20SSH-Verbindung), navigiere in den Projektordner (`cd public_html/projektnameXY/`), füge den kopierten Code ein und klick `Enter`.
+Verbinde dich nun wieder via SSH auf den Server (siehe Moodle: `ssh benutzername@s099.cyon.net`), navigiere in den Projektordner (`cd public_html/projektnameXY/`), füge den kopierten Code ein und klick `Enter`.
 
 ### Datenbank-Tabellen erstellen
 Nun hast du das Plugin-Paket heruntergeladen, jedoch die dazugehörigen Datenbank-Tabellen noch nicht erstellt. Damit diese automatisch erstellt werden, führe folgenden Befehl aus:
